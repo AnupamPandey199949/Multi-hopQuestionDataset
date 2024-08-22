@@ -2242,121 +2242,161 @@
         "Question_1": "Who flags down a waitress after Monica and Chandler get a pool table?",
         "Answer_1": "Rachel",
         "Question_2": "What game were Monica and Chandler about to play before Rachel approached Monica?",
-        "Answer_2": "Monica and Chandler were about to play pool."
+        "Answer_2": "Monica and Chandler were about to play pool.",
+        "merged_question": "Who flags down a waitress after approaching Monica while she and Chandler are about to play what game?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who flags down a waitress after Monica and Chandler get a pool table?",
         "Answer_1": "Rachel",
         "Question_2": "What was Chandler doing in Rachel's daydream before her friends got her attention",
-        "Answer_2": "Kissing her"
+        "Answer_2": "Kissing her",
+        "merged_question": "What was Chandler doing when Rachel's friends got her attention after she had a daydream about him kissing her?",
+        "answer": "Chandler was getting a pool table with Monica."
     },
     {
         "Question_1": "Who flags down a waitress after Monica and Chandler get a pool table?",
         "Answer_1": "Rachel",
         "Question_2": "How much money does Monica bet Chandler that she will never see Rachel again after she walks away?",
-        "Answer_2": "Rachel bets Chandler ten bucks."
+        "Answer_2": "Rachel bets Chandler ten bucks.",
+        "merged_question": "Generated Multi-hop Question: How much money does Rachel bet Chandler after she walks away from Monica and Chandler after they get a pool table?",
+        "answer": "Ten bucks."
     },
     {
         "Question_1": "Who flags down a waitress after Monica and Chandler get a pool table?",
         "Answer_1": "Rachel",
         "Question_2": "What color is Rachel wearing when she is talking to the waitress?",
-        "Answer_2": "Purple"
+        "Answer_2": "Purple",
+        "merged_question": "What color is Rachel wearing when she flags down a waitress after Monica and Chandler get a pool table?",
+        "answer": "Purple."
     },
     {
         "Question_1": "Who flags down a waitress after Monica and Chandler get a pool table?",
         "Answer_1": "Rachel",
         "Question_2": "Who is shooting pool behind Rachel when they are in the bar?",
-        "Answer_2": "Chandler"
+        "Answer_2": "Chandler",
+        "merged_question": "Who flags down a waitress after Monica and Chandler get a pool table while Chandler is shooting pool behind her?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who flags down a waitress after Monica and Chandler get a pool table?",
         "Answer_1": "Rachel",
         "Question_2": "What color suit was Rachel wearing when she went the drinks back? ",
-        "Answer_2": "Purple"
+        "Answer_2": "Purple",
+        "merged_question": "Generated Multi-hop Question: What color was the waitress's attention drawn to by Rachel after Monica and Chandler got a pool table?",
+        "answer": "Purple."
     },
     {
         "Question_1": "What did Ross do after talking to Rachel?",
         "Answer_1": "left",
         "Question_2": "Did Ross and Rachel go up or down the stairs when they left the room?",
-        "Answer_2": "They went up the stairs."
+        "Answer_2": "They went up the stairs.",
+        "merged_question": "After talking to Rachel, what direction did Ross go in the room before he left?",
+        "answer": "Up."
     },
     {
         "Question_1": "What is Ross holding when Rachel walks out of the bedroom?",
         "Answer_1": "phone",
         "Question_2": "what name did Rachel call when she used telephone",
-        "Answer_2": "Ross"
+        "Answer_2": "Ross",
+        "merged_question": "What was the name that Rachel called when she used the phone that Ross was holding?",
+        "answer": "Ross."
     },
     {
         "Question_1": "What is Ross holding when Rachel walks out of the bedroom?",
         "Answer_1": "phone",
         "Question_2": "What does Rachel do with the phone after she says \"that is what they call closure\"?",
-        "Answer_2": "Throws the phone in the Ice Bucket."
+        "Answer_2": "Throws the phone in the Ice Bucket.",
+        "merged_question": "What does Ross do with the item that Rachel throws in the Ice Bucket after she says \"that is what they call closure\"?",
+        "answer": "Phone."
     },
     {
         "Question_1": "What is Ross holding when Rachel walks out of the bedroom?",
         "Answer_1": "phone",
         "Question_2": "What did Rachel ask the man talking on the phone for when she is at the table?",
-        "Answer_2": "Rachel asked the man if she could borrow his phone"
+        "Answer_2": "Rachel asked the man if she could borrow his phone",
+        "merged_question": "What did Rachel ask Ross for when she walked out of the bedroom?",
+        "answer": "phone."
     },
     {
         "Question_1": "What is Ross holding when Rachel walks out of the bedroom?",
         "Answer_1": "phone",
         "Question_2": "what did Rachel say with boyfriend when she was talking the phone",
-        "Answer_2": "machine"
+        "Answer_2": "machine",
+        "merged_question": "What was Ross holding when he was talking to the machine?",
+        "answer": "phone."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "Why did Monica complain after Rachel moved away from the eye drops?",
-        "Answer_2": "Monica's pillows got wet."
+        "Answer_2": "Monica's pillows got wet.",
+        "merged_question": "Why did Rachel's goodbye to Chandler make her the last one to leave?",
+        "answer": "Monica's pillows got wet."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "Where is Rachel when everyone is pinning her down for her eye drops?",
-        "Answer_2": "She is on the floor. "
+        "Answer_2": "She is on the floor. ",
+        "merged_question": "Generated Multi-hop Question: Who is the last one to leave and say goodbye to Chandler when he is lying on the floor?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "What did Monica tell Rachel the machine was before Dr. Miller walked in?",
-        "Answer_2": "An eye removal machine."
+        "Answer_2": "An eye removal machine.",
+        "merged_question": "Why did Rachel say goodbye to Chandler last when leaving?",
+        "answer": "Because Monica told her the machine was an eye removal machine, implying it was a potential threat to Chandler's eyesight."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "Where did Monica bring Rachel after she didn't want to take the eye drops?",
-        "Answer_2": "Monica brought Rachel to the floor."
+        "Answer_2": "Monica brought Rachel to the floor.",
+        "merged_question": "Where did Rachel take the last goodbye from Chandler after she didn't want to take the eye drops?",
+        "answer": "The floor."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "What does Rachel do when Ross touches his eyeball?",
-        "Answer_2": "She quickly turns her head. "
+        "Answer_2": "She quickly turns her head. ",
+        "merged_question": "What does Rachel do when Ross touches his eyeball in the same way she does when she leaves Chandler?",
+        "answer": "She quickly turns her head."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "What was Rachel holding when Monica and her were in the doctor's office?",
-        "Answer_2": "A jacket."
+        "Answer_2": "A jacket.",
+        "merged_question": "What was the last thing Rachel was holding when she said goodbye to Chandler before leaving?",
+        "answer": "A jacket."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "Which person in the group admitted they were the baby when Rachel mentioned it?",
-        "Answer_2": "Ross."
+        "Answer_2": "Ross.",
+        "merged_question": "Who is the last one to leave and say goodbye to Ross when the group leaves?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "What was the reason Rachel moved when Monica said it was practice?",
-        "Answer_2": "Rachel knew Monica was lying."
+        "Answer_2": "Rachel knew Monica was lying.",
+        "merged_question": "What made Rachel move when she was about to leave and say goodbye to Chandler?",
+        "answer": "Rachel knew Monica was lying."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "What does Rachel do after she grabs her purse?",
-        "Answer_2": "She knocks a box of cereal all over the floor."
+        "Answer_2": "She knocks a box of cereal all over the floor.",
+        "merged_question": "What happens after Rachel grabs her purse, which is the last step before she leaves to say goodbye to Chandler?",
+        "answer": "She knocks a box of cereal all over the floor."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
