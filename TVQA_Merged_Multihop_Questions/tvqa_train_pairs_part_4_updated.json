@@ -1603,121 +1603,161 @@
         "Question_1": "Who gives a toast after Joey and Monica split the grilled cheese sandwich?",
         "Answer_1": "Chandler",
         "Question_2": "How did Chandler act when he found out about underdog escaping?",
-        "Answer_2": "Chandler was acting very eager."
+        "Answer_2": "Chandler was acting very eager.",
+        "merged_question": "How did Chandler act when he found out about the underdog escaping after he gave a toast after Joey and Monica split the grilled cheese sandwich?",
+        "answer": "Chandler was acting very eager."
     },
     {
         "Question_1": "Who gives a toast after Joey and Monica split the grilled cheese sandwich?",
         "Answer_1": "Chandler",
         "Question_2": "What did Chandler do before Joey asked about tater tots?",
-        "Answer_2": "Closed a door"
+        "Answer_2": "Closed a door",
+        "merged_question": "Generated Multi-hop Question: What action does Chandler perform after Joey asks about tater tots, and before they split the grilled cheese sandwich?",
+        "answer": "Closed a door."
     },
     {
         "Question_1": "Who gives a toast after Joey and Monica split the grilled cheese sandwich?",
         "Answer_1": "Chandler",
         "Question_2": "What was funny about Chandler's comment after Monica stomped her foot? ",
-        "Answer_2": "Chandler said it felt like Thanksgiving, when everyone was screaming and angry with each other. "
+        "Answer_2": "Chandler said it felt like Thanksgiving, when everyone was screaming and angry with each other. ",
+        "merged_question": "What event, according to Chandler, felt like Thanksgiving when everyone was screaming and angry with each other?",
+        "answer": "When Joey and Monica split the grilled cheese sandwich."
     },
     {
         "Question_1": "Who gives a toast after Joey and Monica split the grilled cheese sandwich?",
         "Answer_1": "Chandler",
         "Question_2": "Why does Chandler eat grilled cheese for Thanksgiving when he is at Monica's apartment?",
-        "Answer_2": "Thanksgiving is when Chandler's parents told him they'd be getting divorced."
+        "Answer_2": "Thanksgiving is when Chandler's parents told him they'd be getting divorced.",
+        "merged_question": "Why does Chandler give a toast after Joey and Monica split the grilled cheese sandwich?",
+        "answer": "Because Thanksgiving is when Chandler's parents told him they'd be getting divorced."
     },
     {
         "Question_1": "Who gives a toast after Joey and Monica split the grilled cheese sandwich?",
         "Answer_1": "Chandler",
         "Question_2": "Why did Monica grab Chandler shirt when he was going through keys?",
-        "Answer_2": "Chandler said something smart about the keys."
+        "Answer_2": "Chandler said something smart about the keys.",
+        "merged_question": "Why did Monica grab Chandler's shirt when he was giving a toast after Joey and Monica split the grilled cheese sandwich?",
+        "answer": "Chandler said something smart about the keys."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "Where did Chandler put Phoebe's guitar after she started singing again?",
-        "Answer_2": "Chandler grabbed Phoebe's guitar and put it in his room."
+        "Answer_2": "Chandler grabbed Phoebe's guitar and put it in his room.",
+        "merged_question": "Where did Chandler put the guitar after Phoebe started singing again, after she overheard Rachel's conversation with Ross?",
+        "answer": "Chandler's room."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "Why did Monica promise Phoebe she could play a song when she gets married?",
-        "Answer_2": "Monica wanted Phoebe to hurry up and get ready."
+        "Answer_2": "Monica wanted Phoebe to hurry up and get ready.",
+        "merged_question": "Why did Monica want Phoebe to hurry up and get ready?",
+        "answer": "Because Rachel and Ross just kissed."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "What was Joey eating when Phoebe opened the refrigerator?",
-        "Answer_2": "Joey was eating a sandwich."
+        "Answer_2": "Joey was eating a sandwich.",
+        "merged_question": "What was Joey eating when Rachel said she and Ross just kissed?",
+        "answer": "A sandwich."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "What did Phoebe walk in the room with after Chandler left?",
-        "Answer_2": "A guitar"
+        "Answer_2": "A guitar",
+        "merged_question": "What was Phoebe walking in with when she overheard Rachel and Ross after Ross left the room?",
+        "answer": "A guitar."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "What did Chandler give Phoebe when she was singing outside his door?",
-        "Answer_2": "Chandler gave Phoebe a dollar to get her to stop singing."
+        "Answer_2": "Chandler gave Phoebe a dollar to get her to stop singing.",
+        "merged_question": "Generated Multi-hop Question: What did Chandler give Phoebe when she overheard Rachel say she and Ross just kissed?",
+        "answer": "A dollar."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "Where is Phoebe when she is talking to Joey about Monica?",
-        "Answer_2": "She is sitting on the couch."
+        "Answer_2": "She is sitting on the couch.",
+        "merged_question": "Where is Joey when he is talking to Phoebe about Rachel and Ross's kiss?",
+        "answer": "The couch."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "What does Phoebe implore Monica about when she comes into the room?",
-        "Answer_2": "To sing at her wedding"
+        "Answer_2": "To sing at her wedding",
+        "merged_question": "What does Phoebe implore Monica to do after hearing Rachel's secret about her and Ross?",
+        "answer": "To sing at her wedding."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "What does Phoebe have in her hand when she walks out of the room?",
-        "Answer_2": "A guitar. "
+        "Answer_2": "A guitar. ",
+        "merged_question": "What is Phoebe doing when she walks out of the room with her guitar after overhearing Rachel's revelation about her and Ross kissing?",
+        "answer": "Phoebe is likely walking out of the room with her guitar after being upset or distracted by what she overheard, possibly to process her emotions or to play her guitar to express herself."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "What did Phoebe say 'would she' sounded like when talking to Joey about Monica letting her play? ",
-        "Answer_2": "Wood cheese"
+        "Answer_2": "Wood cheese",
+        "merged_question": "What would Rachel's voice sound like to Joey when talking to him about her and Ross kissing?",
+        "answer": "Wood cheese."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "How old did Phoebe say Joey wanted to look after he said she should sing at Monica's and Chandler's wedding?",
-        "Answer_2": "Phoebe said Joey wanted to look 19."
+        "Answer_2": "Phoebe said Joey wanted to look 19.",
+        "merged_question": "Generated Multi-hop Question: How old did Joey want to look after he heard that Rachel and Ross just kissed?",
+        "answer": "19."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "What is Phoebe doing in the living room before Chandler walks in?",
-        "Answer_2": "Phoebe is playing acoustic guitar."
+        "Answer_2": "Phoebe is playing acoustic guitar.",
+        "merged_question": "Generated Multi-hop Question: What is the background noise when Chandler walks into the living room?",
+        "answer": "Phoebe is playing acoustic guitar."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "Why did Joey say Monica might not let Phoebe play before Phoebe put down her guitar?",
-        "Answer_2": "Joey said they tell you what you want to hear and then take it away."
+        "Answer_2": "Joey said they tell you what you want to hear and then take it away.",
+        "merged_question": "Why might Monica not let Phoebe play after Phoebe put down her guitar?",
+        "answer": "Joey said they tell you what you want to hear and then take it away."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "How long did Phoebe want Joey to put tea bags on his eyes after she said he had to do something with his eyes?",
-        "Answer_2": "Phoebe wanted Joey to put the tea bags on his eyes for 15 minutes."
+        "Answer_2": "Phoebe wanted Joey to put the tea bags on his eyes for 15 minutes.",
+        "merged_question": "How long after Rachel and Ross kissed did Phoebe tell Joey to put the tea bags on his eyes?",
+        "answer": "15 minutes."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "What does Chandler give to Phoebe after walking in the living room?",
-        "Answer_2": "Chandler gives her cash."
+        "Answer_2": "Chandler gives her cash.",
+        "merged_question": "What does Chandler give to Phoebe after she overhears Rachel's conversation about her and Ross kissing?",
+        "answer": "Chandler gives her cash."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "Where does Phoebe say  they should go for some mai tais before Monica says no?",
-        "Answer_2": "To the Plaza"
+        "Answer_2": "To the Plaza",
+        "merged_question": "Where should they go for some mai tais after Ross and Rachel's kiss, according to Phoebe, before Monica objects?",
+        "answer": "The Plaza."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
