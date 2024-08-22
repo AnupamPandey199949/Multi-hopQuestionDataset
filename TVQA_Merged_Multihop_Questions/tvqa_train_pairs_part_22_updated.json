@@ -803,121 +803,161 @@
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "What was Foreman's diagnosis of the tumor after he walks into Margo's room?",
-        "Answer_2": "It was Benign."
+        "Answer_2": "It was Benign.",
+        "merged_question": "What was the diagnosis of the tumor that Foreman diagnosed after he opened the car door after they walked out of the house?",
+        "answer": "It was Benign."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "How much did House tell Foreman he owed him after he hung up his coat",
-        "Answer_2": "House told Foreman he owed him $100"
+        "Answer_2": "House told Foreman he owed him $100",
+        "merged_question": "How much money did Foreman receive when he opened the car door after they walked out of the house?",
+        "answer": "$100."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "What was Houses' response when Foreman says, \"We have to confirm the diagnosis before we send her home to die of something else?\"",
-        "Answer_2": "Oh, yes. The power tastes so sweet. You just can't resist."
+        "Answer_2": "Oh, yes. The power tastes so sweet. You just can't resist.",
+        "merged_question": "Generated Multi-hop Question: What does House's response indicate about his reaction to Foreman's confirmation of the diagnosis?",
+        "answer": "House is likely pleased or satisfied with Foreman's confirmation, as indicated by his response \"Oh, yes. The power tastes so sweet. You just can't resist.\""
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "Why was Foreman unable to tell Margo's husband she could not take any more fertility treatment after Margo told him to tell her husband?",
-        "Answer_2": "Confidentiality rules stop Foreman from telling Margo's husband the truth."
+        "Answer_2": "Confidentiality rules stop Foreman from telling Margo's husband the truth.",
+        "merged_question": "Why was Foreman unable to tell Margo's husband she could not take any more fertility treatment after they walked out of the house?",
+        "answer": "Confidentiality rules stop Foreman from telling Margo's husband the truth."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "Why are House, Cameron, Foreman, and Chase confused on the patient's problems when they are discussing it?",
-        "Answer_2": "They can't figure out what's wrong with her."
+        "Answer_2": "They can't figure out what's wrong with her.",
+        "merged_question": "Why can't House, Cameron, Foreman, and Chase figure out what's wrong with the patient, who was the one to open the car door after they walked out of the house?",
+        "answer": "They can't figure out what's wrong with her."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "What does Foreman do after Stella leaves the room?",
-        "Answer_2": "Injects medication into the Mom's IV line"
+        "Answer_2": "Injects medication into the Mom's IV line",
+        "merged_question": "After they walked out of the house, who injects medication into the Mom's IV line?",
+        "answer": "Foreman."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "Who was in the room with Margo after Foreman walks in?",
-        "Answer_2": "Ted."
+        "Answer_2": "Ted.",
+        "merged_question": "Who was in the room with Margo after Foreman, who opened the car door after they walked out of the house, walked in?",
+        "answer": "Ted."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "What does House joke about needing help with after asking Foreman to assist him?",
-        "Answer_2": "Pulling a solo bank job"
+        "Answer_2": "Pulling a solo bank job",
+        "merged_question": "What does House joke about needing help with after asking Foreman to assist him outside of the house?",
+        "answer": "Pulling a solo bank job."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "Why does Cameron suggest it's almost impossible the patient has spontaneous schizophrenia when Foreman mentions it?",
-        "Answer_2": "There is no family history of mental illness."
+        "Answer_2": "There is no family history of mental illness.",
+        "merged_question": "What would Foreman expect to be a contributing factor to the patient's condition given that there is no family history of mental illness, and what does this imply about the likelihood of the patient having spontaneous schizophrenia?",
+        "answer": "Foreman would expect a family history of mental illness to be a contributing factor to the patient's condition, and this lack of history implies that the likelihood of the patient having spontaneous schizophrenia is higher."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "What color scarf was Cameron wearing when she was walking with House and Foreman? ",
-        "Answer_2": "Red."
+        "Answer_2": "Red.",
+        "merged_question": "What color scarf was Cameron wearing when she was walking with House?",
+        "answer": "Red."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "What did Foreman say he was going to run genetic test for when he and Cam were going over Margo's results and treatment?",
-        "Answer_2": "Huntington's."
+        "Answer_2": "Huntington's.",
+        "merged_question": "What is the genetic test that Foreman was going to run for when he opened the car door after they walked out of the house?",
+        "answer": "Huntington's."
     },
     {
         "Question_1": "what is house playing when he is playing with nate in nates room?",
         "Answer_1": "chess",
         "Question_2": "Who was House playing chess with when Chase entered? ",
-        "Answer_2": "himself"
+        "Answer_2": "himself",
+        "merged_question": "Who was House playing chess with when he was playing with Nate in Nate's room?",
+        "answer": "Himself."
     },
     {
         "Question_1": "what is house playing when he is playing with nate in nates room?",
         "Answer_1": "chess",
         "Question_2": "where is house when he is staring at the chess board while his team is with him discussing the patient?",
-        "Answer_2": "Houses office"
+        "Answer_2": "Houses office",
+        "merged_question": "Where is House when he is playing chess with Nate?",
+        "answer": "House's office."
     },
     {
         "Question_1": "what is house playing when he is playing with nate in nates room?",
         "Answer_1": "chess",
         "Question_2": "Why does Nate say he gets to be first in chess after House tries to make it fair?",
-        "Answer_2": "He is not a crippled person"
+        "Answer_2": "He is not a crippled person",
+        "merged_question": "Generated Multi-hop Question: Why does Nate think he should be the first to move in chess when playing with House, who is not physically able to move quickly?",
+        "answer": "He is not a crippled person."
     },
     {
         "Question_1": "what is house playing when he is playing with nate in nates room?",
         "Answer_1": "chess",
         "Question_2": "What color is the patient's skin when House is giving the patient a chess game piece?",
-        "Answer_2": "Yellow."
+        "Answer_2": "Yellow.",
+        "merged_question": "What color is the room where House is playing chess with Nate?",
+        "answer": "Yellow."
     },
     {
         "Question_1": "what is house playing when he is playing with nate in nates room?",
         "Answer_1": "chess",
         "Question_2": "What was House drinking out off when he was playing chess with Chase ?",
-        "Answer_2": "a red mug"
+        "Answer_2": "a red mug",
+        "merged_question": "What was House drinking out of when he was playing chess with Nate in Nate's room?",
+        "answer": "A red mug."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What did House ask Foreman, Taub and Thirteen when he was staring at his computer screen?",
-        "Answer_2": "House asked what could shred an epiglottis and make muscle disappear."
+        "Answer_2": "House asked what could shred an epiglottis and make muscle disappear.",
+        "merged_question": "Who is House asking for information about the mysterious medical case that Thirteen is describing to them?",
+        "answer": "Thirteen."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "How is Foreman positioned when he is talking to House",
-        "Answer_2": "He is standing"
+        "Answer_2": "He is standing",
+        "merged_question": "How is the person 13 is talking to positioned when she is telling them about the patient?",
+        "answer": "He is standing."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What does House say after Foreman tells him something that could've cause Kutner's suicide?",
-        "Answer_2": "Parents are ancient history"
+        "Answer_2": "Parents are ancient history",
+        "merged_question": "What is House saying to 13 after she tells him about the patient, considering what he said to Foreman about Kutner's potential cause of death?",
+        "answer": "Parents are ancient history."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What did House tell Taub after he told the patient had a fever and high white cell count?",
-        "Answer_2": "House told Taub that he should have fired him"
+        "Answer_2": "House told Taub that he should have fired him",
+        "merged_question": "Generated Multi-hop Question: Who did House tell he should have fired after telling the patient had a fever and high white cell count?",
+        "answer": "Taub."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
