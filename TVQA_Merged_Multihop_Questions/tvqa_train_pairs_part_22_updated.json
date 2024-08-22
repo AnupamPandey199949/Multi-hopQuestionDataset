@@ -963,121 +963,161 @@
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What does House do right before Cuddy walks in to his office?",
-        "Answer_2": "takes a sip of coffee"
+        "Answer_2": "takes a sip of coffee",
+        "merged_question": "What is House doing right before Cuddy walks in to his office while he is talking to the person who is telling him about the patient?",
+        "answer": "takes a sip of coffee."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Who did House tell Taub to locate a liver after House listen to Charlotte apologize to her husband?",
-        "Answer_2": "Cuddy"
+        "Answer_2": "Cuddy",
+        "merged_question": "Generated Multi-hop Question: To whom did House tell Taub to locate a liver after House listened to Charlotte apologize to her husband?",
+        "answer": "Cuddy."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "How did the female patient react after House said he was going to give her a heartattack?",
-        "Answer_2": "She was frightened."
+        "Answer_2": "She was frightened.",
+        "merged_question": "How did the patient react to 13 telling them about the diagnosis when they were talking to House?",
+        "answer": "She was frightened."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Why did Charlotte say that she was faking her illness when House confronted her with the truth?",
-        "Answer_2": "She wanted to hang on to feeling close to Eddie."
+        "Answer_2": "She wanted to hang on to feeling close to Eddie.",
+        "merged_question": "Why was 13 telling House about the patient in a way that made it seem like the patient was faking their illness?",
+        "answer": "She wanted to hang on to feeling close to Eddie."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What did Taub have in his hand when House was talking to him about running an echo on the patient?",
-        "Answer_2": "A pen"
+        "Answer_2": "A pen",
+        "merged_question": "Who was Taub talking to when he had a pen in his hand, and House was discussing running an echo on the patient with them?",
+        "answer": "House."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "How many hours a week did House say the workers worked when he was blaming the people in the room?",
-        "Answer_2": "80 hours."
+        "Answer_2": "80 hours.",
+        "merged_question": "Generated Multi-hop Question: How many hours a week did the workers at the hospital where House was talking to 13 work when she was telling them about the patient?",
+        "answer": "80 hours."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What does Cameron say the patient needs when House suggest the patient only needs a partial amount?",
-        "Answer_2": "Liver"
+        "Answer_2": "Liver",
+        "merged_question": "What does House suggest the patient only needs a partial amount of, and what does Cameron say the patient actually needs?",
+        "answer": "House suggests the patient needs a partial amount of something, but Cameron says the patient actually needs a liver."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What color tie does House have own when House is getting a drink?",
-        "Answer_2": "House has no tie "
+        "Answer_2": "House has no tie ",
+        "merged_question": "What is House doing when he is getting a drink without a tie?",
+        "answer": "He is telling 13 about a patient."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Where is Thirteen when asks House if he's paged Foreman?",
-        "Answer_2": "Sitting at the conference table"
+        "Answer_2": "Sitting at the conference table",
+        "merged_question": "Who is Thirteen sitting at the conference table with when she asks House if he's paged Foreman?",
+        "answer": "House."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What does House do right after he talks about how the couple can die together?",
-        "Answer_2": "He takes a sip of coffee from the mug he is holding."
+        "Answer_2": "He takes a sip of coffee from the mug he is holding.",
+        "merged_question": "What is House doing immediately after the couple he is talking to about their situation can die together?",
+        "answer": "He takes a sip of coffee from the mug he is holding."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What does Cuddy do after she tells House she will find him another patient?",
-        "Answer_2": "Cuddy walks away from House."
+        "Answer_2": "Cuddy walks away from House.",
+        "merged_question": "What does Cuddy do after she walks away from House, the doctor 13 was just telling about the patient?",
+        "answer": "Cuddy walks away from House."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What does Taub suggest could be the diagnosis after House rules out hepatitis?",
-        "Answer_2": "Amyloidosis"
+        "Answer_2": "Amyloidosis",
+        "merged_question": "What is the diagnosis that Taub suggests after House rules out hepatitis, and is discussing with House when he tells him about the patient?",
+        "answer": "Amyloidosis."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Why does House lie about the diagnosis after getting the piece of paper?",
-        "Answer_2": "So the patient can get a liver transplant"
+        "Answer_2": "So the patient can get a liver transplant",
+        "merged_question": "Why is House trying to convince the patient to get a liver transplant when he is telling them about their diagnosis?",
+        "answer": "So the patient can get a liver transplant."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What does House ask Cameron to do when they're discussing the liver transplant?",
-        "Answer_2": "Tell the husband he needs to die to save his wife"
+        "Answer_2": "Tell the husband he needs to die to save his wife",
+        "merged_question": "Who is Cameron telling to tell the husband he needs to die to save his wife?",
+        "answer": "House."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What does House tell Eddie after Eddie asks how Charlotte could've faked the windpipe thing?",
-        "Answer_2": "That the windpipe situation was real and the treatment actually did make her better"
+        "Answer_2": "That the windpipe situation was real and the treatment actually did make her better",
+        "merged_question": "Who is telling Eddie that the treatment actually did make Charlotte better?",
+        "answer": "House."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What does Taub hand House after he enters the room",
-        "Answer_2": "Taub hands House a folder"
+        "Answer_2": "Taub hands House a folder",
+        "merged_question": "Generated Multi-hop Question: Who is Taub handing the folder to when he enters the room?",
+        "answer": "House."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What did House do after he said ill join you?",
-        "Answer_2": "Pop pills"
+        "Answer_2": "Pop pills",
+        "merged_question": "What did House do after he joined 13 in talking about the patient?",
+        "answer": "Pop pills."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Why is Wilson really with House when they're at Kutner's apartment?",
-        "Answer_2": "To help House process his loss"
+        "Answer_2": "To help House process his loss",
+        "merged_question": "Who is House talking to about the patient when he is trying to process his loss?",
+        "answer": "Wilson"
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Why was House worried about the person coming up for parole when he was talking to Cuddy?",
-        "Answer_2": "Kutner testified at the hearings"
+        "Answer_2": "Kutner testified at the hearings",
+        "merged_question": "Generated Multi-hop Question: Why was House worried about the person coming up for parole when he was talking to the 13-year-old?",
+        "answer": "Kutner testified at the hearings."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What body part is House looking at before he starts speaking?",
-        "Answer_2": "Legs"
+        "Answer_2": "Legs",
+        "merged_question": "What body part is 13 talking about when she is telling the patient's information to House, who is looking at the patient's legs?",
+        "answer": "The answer cannot be determined from the provided information. However, we can infer that 13 is talking about the patient's legs, as House is looking at the patient's legs before speaking."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
