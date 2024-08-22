@@ -2722,121 +2722,161 @@
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "what did Chandler say he would buy everyone before Monica won her roll?",
-        "Answer_2": "steak dinner"
+        "Answer_2": "steak dinner",
+        "merged_question": "What did Chandler say he would buy everyone after walking into the room as Monica's boyfriend when she was in the room with Phoebe?",
+        "answer": "Steak dinner."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "How much would Chandler pay to see identical hands when asked by Joey?",
-        "Answer_2": "He can't put a price on it."
+        "Answer_2": "He can't put a price on it.",
+        "merged_question": "How much would Chandler pay to see his identical hands when Monica is in the room with Phoebe?",
+        "answer": "He can't put a price on it."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "Where was Chandler when Joey told him he found his identical hand twin? ",
-        "Answer_2": "Laying on the bed"
+        "Answer_2": "Laying on the bed",
+        "merged_question": "Where was Chandler when Joey told him he found his identical hand twin, and Monica's boyfriend was in the room with Phoebe?",
+        "answer": "Laying on the bed."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "Where did Joey do after Phoebe arrived at his and Chandler's hotel room?",
-        "Answer_2": "Joey left the hotel room"
+        "Answer_2": "Joey left the hotel room",
+        "merged_question": "Where did Joey go after Phoebe arrived at the hotel room where Chandler walked into as Monica's boyfriend, who was initially in the room with Phoebe and Monica?",
+        "answer": "Joey left the hotel room."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "What does Phoebe do after Chandler leaves the room?",
-        "Answer_2": "Puts on a hat."
+        "Answer_2": "Puts on a hat.",
+        "merged_question": "Generated Multi-hop Question: What action does Phoebe take after Chandler leaves the room where Monica is sitting?",
+        "answer": "Puts on a hat."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "Why is Chandler creeped out after he touches the statue?",
-        "Answer_2": "He touched the butt of the statue. "
+        "Answer_2": "He touched the butt of the statue. ",
+        "merged_question": "Why was Chandler creeped out when he walked into the room as Monica's boyfriend where she was with Phoebe?",
+        "answer": "He touched the butt of the statue."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "What Monica when she convinces Chandler her ex is not her soulmate?",
-        "Answer_2": "Kisses him"
+        "Answer_2": "Kisses him",
+        "merged_question": "What does Monica do when she convinces Phoebe's boyfriend that her ex is not her soulmate?",
+        "answer": "Kisses him."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "What color is Chandler's sweater when he is standing next to Monica?",
-        "Answer_2": "Light blue. "
+        "Answer_2": "Light blue. ",
+        "merged_question": "What color is Chandler's sweater when he walks into the room as Monica's boyfriend and she is in the room with Phoebe?",
+        "answer": "Light blue."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "Where is Chandler when Joey points at Monica?",
-        "Answer_2": "Chandler is standing next to Monica."
+        "Answer_2": "Chandler is standing next to Monica.",
+        "merged_question": "When Joey points at Monica, who is standing next to her?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "What does Chandler do after Joey puts up his hand?",
-        "Answer_2": "He lifts his eyebrows. "
+        "Answer_2": "He lifts his eyebrows. ",
+        "merged_question": "What does Chandler do after Joey puts up his hand in the room where he walks in as Monica's boyfriend when she's with Phoebe?",
+        "answer": "He lifts his eyebrows."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "Why was Ross confused when Chandler said \"art lover\"",
-        "Answer_2": "It was phrased like an insult but wasn't very insulting"
+        "Answer_2": "It was phrased like an insult but wasn't very insulting",
+        "merged_question": "Why was Ross confused when Chandler referred to Monica's boyfriend in a manner that was similar to how Chandler said \"art lover\"?",
+        "answer": "It was phrased like an insult but wasn't very insulting."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "What does Joey say people will pay to see when talking to Chandler?",
-        "Answer_2": "Freaky stuff."
+        "Answer_2": "Freaky stuff.",
+        "merged_question": "What will people pay to see when they see Chandler's relationship with Monica, who was in the room with Phoebe when Chandler walked in?",
+        "answer": "Freaky stuff."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "What were Chandler and Monica fighting about before they were playing the game?",
-        "Answer_2": "Because Monica had lunch with Rich"
+        "Answer_2": "Because Monica had lunch with Rich",
+        "merged_question": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe, after she had lunch with Rich?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "Who was at the door after Joey told Chandler he needs to document it before the dealer gets off break?",
-        "Answer_2": "Phoebe"
+        "Answer_2": "Phoebe",
+        "merged_question": "Who walks into the room as Monica's boyfriend when Phoebe is at the door after Joey told Chandler he needs to document it before the dealer gets off break?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "What does Chandler tell Monica that he forgot about after he says that he loves her?",
-        "Answer_2": "Chandler says he can't remember what they were fighting about"
+        "Answer_2": "Chandler says he can't remember what they were fighting about",
+        "merged_question": "What is the thing that Chandler says he forgot about when he tells Monica that he loves her?",
+        "answer": "What they were fighting about."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "Why is Monica upset when she is arguing with Chandler?",
-        "Answer_2": "He's trying to tell her what to do. "
+        "Answer_2": "He's trying to tell her what to do. ",
+        "merged_question": "Why is Monica upset when her boyfriend, who walks into the room as her boyfriend when she's in the room with Phoebe, tries to tell her what to do?",
+        "answer": "He's trying to tell her what to do."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "What is Joey amazed about when talking to Chandler?",
-        "Answer_2": "His identical hands to another person."
+        "Answer_2": "His identical hands to another person.",
+        "merged_question": "Who is Joey amazed about having identical hands to when he talks to him in the room where Monica is with Phoebe?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "Where are the light fixtures located when Joey and Chandler are talking?",
-        "Answer_2": "On the walls."
+        "Answer_2": "On the walls.",
+        "merged_question": "Where are the light fixtures located when Chandler is talking to Joey in the room with Monica and Phoebe?",
+        "answer": "On the walls."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "What does Chandler call Richard when he is talking to Joey about the situation?",
-        "Answer_2": "Her boyfriend Richard. "
+        "Answer_2": "Her boyfriend Richard. ",
+        "merged_question": "Generated Multi-hop Question: Who does Joey think is Monica's boyfriend when Chandler is actually her boyfriend?",
+        "answer": "Richard."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "Why was Chandler confused when Joey walked into his room?",
-        "Answer_2": "Chandler was confused about Joey's claim that he had met his \"identical hand twin\"."
+        "Answer_2": "Chandler was confused about Joey's claim that he had met his \"identical hand twin\".",
+        "merged_question": "Generated Multi-hop Question: Why was Chandler confused when Joey walked into the room where he was with Monica, who was sitting with Phoebe?",
+        "answer": "Chandler was confused about Joey's claim that he had met his \"identical hand twin\"."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
