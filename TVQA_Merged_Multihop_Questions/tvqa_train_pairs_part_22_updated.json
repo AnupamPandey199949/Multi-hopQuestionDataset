@@ -2403,121 +2403,161 @@
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What is House holding in his hand when talking to Nolan?",
-        "Answer_2": "cane"
+        "Answer_2": "cane",
+        "merged_question": "Who was House talking to when he was holding a cane?",
+        "answer": "Nolan."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What did House say was boring when He was talking to Nolan?",
-        "Answer_2": "Patients."
+        "Answer_2": "Patients.",
+        "merged_question": "Generated Multi-hop Question: What possible relevance does House see that his problems have to his patients?",
+        "answer": "None."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What is in Houses when Nolan says you gonna tell me what the note said",
-        "Answer_2": "The note"
+        "Answer_2": "The note",
+        "merged_question": "What possible relevance does this note have to House's problems?",
+        "answer": "The note."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Where is House when Nolan is talking to him?",
-        "Answer_2": "Sitting in a couch."
+        "Answer_2": "Sitting in a couch.",
+        "merged_question": "Where was House sitting when Nolan asked him about the differential's relevance to his problems?",
+        "answer": "A couch."
     },
     {
         "Question_1": "Who is House hiding from when Taub asks him?",
         "Answer_1": "Wilson",
         "Question_2": "What substance was on Wilson's gloves when he was treating his patient's hand.?",
-        "Answer_2": "Blood was on Wilson's gloves."
+        "Answer_2": "Blood was on Wilson's gloves.",
+        "merged_question": "Why was House hiding from Wilson when Taub asked him?",
+        "answer": "Because Wilson had blood on his gloves, implying he had been treating a patient."
     },
     {
         "Question_1": "Who is House hiding from when Taub asks him?",
         "Answer_1": "Wilson",
         "Question_2": "What did House do when he wanted Wilson to leave?",
-        "Answer_2": "House said he was going to pretend to work now."
+        "Answer_2": "House said he was going to pretend to work now.",
+        "merged_question": "What did House pretend to work on when Taub asked him to leave, but really wanted Wilson to leave?",
+        "answer": "Wilson."
     },
     {
         "Question_1": "Who is House hiding from when Taub asks him?",
         "Answer_1": "Wilson",
         "Question_2": "What was Wilson doing when he was talking to you House?",
-        "Answer_2": "He was standing with his hands on his waist."
+        "Answer_2": "He was standing with his hands on his waist.",
+        "merged_question": "What was House hiding from when Taub asked him, and that person was standing with their hands on their waist when talking to House?",
+        "answer": "Wilson."
     },
     {
         "Question_1": "Who is House hiding from when Taub asks him?",
         "Answer_1": "Wilson",
         "Question_2": "What did Wilson say to House right before stepping out of the room and slamming the door?",
-        "Answer_2": "Wilson had told House that it's great to see what a success his therapy was."
+        "Answer_2": "Wilson had told House that it's great to see what a success his therapy was.",
+        "merged_question": "What is House hiding from when Taub asks him, given that Wilson's previous statement about House's therapy success is a reason for House's current emotional state?",
+        "answer": "Wilson."
     },
     {
         "Question_1": "Who is House hiding from when Taub asks him?",
         "Answer_1": "Wilson",
         "Question_2": "Which part of his patient's body was Wilson cleaning off when he treating the patient?",
-        "Answer_2": "Wilson was cleaning off his patient's hands."
+        "Answer_2": "Wilson was cleaning off his patient's hands.",
+        "merged_question": "Why was House hiding from Wilson when Taub asked him, considering the situation where Wilson was treating a patient and cleaning off the patient's hands?",
+        "answer": "Because House was hiding from Wilson to avoid Wilson's patient."
     },
     {
         "Question_1": "Who is House hiding from when Taub asks him?",
         "Answer_1": "Wilson",
         "Question_2": "How did House react when Wilson said Cuddy was in love with him?",
-        "Answer_2": "House said Cuddy wasn't in love with him."
+        "Answer_2": "House said Cuddy wasn't in love with him.",
+        "merged_question": "How did House react when Taub asked him about Cuddy's feelings?",
+        "answer": "House said Cuddy wasn't in love with him."
     },
     {
         "Question_1": "Who is House hiding from when Taub asks him?",
         "Answer_1": "Wilson",
         "Question_2": "Why did House say he was going the extra mile for a guy when Wilson asked for a reason?",
-        "Answer_2": "House said he kind of smells good and makes him laugh."
+        "Answer_2": "House said he kind of smells good and makes him laugh.",
+        "merged_question": "Why was House hiding from Wilson?",
+        "answer": "House said he kind of smells good and makes him laugh."
     },
     {
         "Question_1": "Who is House hiding from when Taub asks him?",
         "Answer_1": "Wilson",
         "Question_2": "What did Wilson say House should have apologized for after he did something to her?",
-        "Answer_2": "House defaced Cuddy's photo."
+        "Answer_2": "House defaced Cuddy's photo.",
+        "merged_question": "Generated Multi-hop Question: What should House have apologized for after he defaced Cuddy's photo, according to Wilson?",
+        "answer": "Wilson didn't say what he should have apologized for after he defaced Cuddy's photo, he said what he should have apologized for after he did something to her."
     },
     {
         "Question_1": "Who is House hiding from when Taub asks him?",
         "Answer_1": "Wilson",
         "Question_2": "When Wilson stormed out of the room he was in with House, what did House holler after he left?",
-        "Answer_2": "House yelled after that, \"We said we'd never go to sleep angry!\""
+        "Answer_2": "House yelled after that, \"We said we'd never go to sleep angry!\"",
+        "merged_question": "What did House say to Taub when he was angry with Wilson?",
+        "answer": "We said we'd never go to sleep angry!"
     },
     {
         "Question_1": "Who is House hiding from when Taub asks him?",
         "Answer_1": "Wilson",
         "Question_2": "What did House do after he told Wilson he was going to pretend to go to work?",
-        "Answer_2": "He started to pretend he was typing."
+        "Answer_2": "He started to pretend he was typing.",
+        "merged_question": "What was House pretending to do when Taub asked him about hiding from Wilson?",
+        "answer": "He was pretending to type."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "What does Cameron say is wrong with Rodney's son when Rodney asks her from a church pew?",
-        "Answer_2": "Cameron says Rodney's son has primary amoebic meningoencephalitis"
+        "Answer_2": "Cameron says Rodney's son has primary amoebic meningoencephalitis",
+        "merged_question": "Generated Multi-hop Question: What does Rodney ask for advice about when he visits a church where Cameron is sitting?",
+        "answer": "Rodney's son."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "How did House say he screwed up when speaking with Cameron?",
-        "Answer_2": "He got the time wrong."
+        "Answer_2": "He got the time wrong.",
+        "merged_question": "How did House screw up when speaking with the person who was also in the room when Rodney visits Foreman?",
+        "answer": "He got the time wrong."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "Which item does House say was stolen before Cameron tells him about a biopsy she tested?",
-        "Answer_2": "House says cable, fertilizer, and water."
+        "Answer_2": "House says cable, fertilizer, and water.",
+        "merged_question": "What item was stolen before Cameron told House about the biopsy she tested, when Cameron is in the room with Foreman during Rodney's visit?",
+        "answer": "Cable, fertilizer, and water."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "Where was Cameron when she was talking to Rodney about his son?",
-        "Answer_2": "Cameron was in a church"
+        "Answer_2": "Cameron was in a church",
+        "merged_question": "Where was Rodney when he was talking to Cameron about his son?",
+        "answer": "Church."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "What does House say the sample is riddled with when he discusses water testing with Cameron?",
-        "Answer_2": "Cameron says Naegleria"
+        "Answer_2": "Cameron says Naegleria",
+        "merged_question": "What is the sample riddled with when House discusses water testing with the person also in the room when Rodney visits Foreman?",
+        "answer": "Naegleria."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "What does House say after Cameron names diseases that affect different races from hers?",
-        "Answer_2": "He says for them to check all of it especially anything that affects different races."
+        "Answer_2": "He says for them to check all of it especially anything that affects different races.",
+        "merged_question": "What does House tell Cameron to check for when Cameron names diseases that affect different races from hers, and they are in the same room as Rodney?",
+        "answer": "He tells Cameron to check all of it especially anything that affects different races."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
