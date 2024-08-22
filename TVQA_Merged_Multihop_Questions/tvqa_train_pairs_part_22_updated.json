@@ -643,121 +643,161 @@
         "Question_1": "Who follows behind House after he leaves his patient's room?",
         "Answer_1": "Foreman",
         "Question_2": "What was House using to walk with when he was talking to Foreman in the hospital hallway?",
-        "Answer_2": "He was using a cane to walk "
+        "Answer_2": "He was using a cane to walk ",
+        "merged_question": "Who follows behind House after he leaves his patient's room, considering that House was using a cane to walk at that time?",
+        "answer": "Foreman."
     },
     {
         "Question_1": "Who follows behind House after he leaves his patient's room?",
         "Answer_1": "Foreman",
         "Question_2": "Where is Foreman standing when he tells the patient there is a blood clot in his brain?",
-        "Answer_2": "To the patient's left. "
+        "Answer_2": "To the patient's left. ",
+        "merged_question": "Where is the blood clot in the patient's brain when Foreman tells the patient that there is a blood clot in his brain?",
+        "answer": "To the patient's left."
     },
     {
         "Question_1": "Who follows behind House after he leaves his patient's room?",
         "Answer_1": "Foreman",
         "Question_2": "What happened when Foreman walked in and said hi to Dr. Hamilton?",
-        "Answer_2": "They hugged"
+        "Answer_2": "They hugged",
+        "merged_question": "What did Dr. Hamilton do when Foreman walked in and said hi to her?",
+        "answer": "They hugged."
     },
     {
         "Question_1": "Who follows behind House after he leaves his patient's room?",
         "Answer_1": "Foreman",
         "Question_2": "What color shirt is Cameron wearing when she is standing in the office with Foreman, Chase, and House?",
-        "Answer_2": "purple"
+        "Answer_2": "purple",
+        "merged_question": "What color shirt is the doctor wearing who follows behind House after he leaves his patient's room?",
+        "answer": "purple."
     },
     {
         "Question_1": "Who follows behind House after he leaves his patient's room?",
         "Answer_1": "Foreman",
         "Question_2": "What was Foreman doing when he walked past Wilson?",
-        "Answer_2": "He was stirring his coffee."
+        "Answer_2": "He was stirring his coffee.",
+        "merged_question": "What was Foreman doing in the room after he walked behind House?",
+        "answer": "He was stirring his coffee."
     },
     {
         "Question_1": "Who follows behind House after he leaves his patient's room?",
         "Answer_1": "Foreman",
         "Question_2": "Where was Hamilton sitting when Foreman said something about blood thinner?",
-        "Answer_2": "On the desk."
+        "Answer_2": "On the desk.",
+        "merged_question": "Where was Hamilton sitting when House left his patient's room?",
+        "answer": "On the desk."
     },
     {
         "Question_1": "Who follows behind House after he leaves his patient's room?",
         "Answer_1": "Foreman",
         "Question_2": "Why does House say to hang on to the DNR document when he is talking to Foreman?",
-        "Answer_2": "The signature could be very valuable soon"
+        "Answer_2": "The signature could be very valuable soon",
+        "merged_question": "What is the significance of the DNR document that Foreman is holding onto as he follows behind House?",
+        "answer": "The signature on the DNR document could be very valuable soon."
     },
     {
         "Question_1": "Who follows behind House after he leaves his patient's room?",
         "Answer_1": "Foreman",
         "Question_2": "What is Foreman writing on when he is trying to find out what the patient has?",
-        "Answer_2": "a see thru board"
+        "Answer_2": "a see thru board",
+        "merged_question": "What is Foreman writing on when he is trying to find out what the patient has after House leaves the patient's room?",
+        "answer": "a see thru board."
     },
     {
         "Question_1": "Who follows behind House after he leaves his patient's room?",
         "Answer_1": "Foreman",
         "Question_2": "What was House doing when he asked Foreman if he was going to fire him?",
-        "Answer_2": "Playing with his cane in his face."
+        "Answer_2": "Playing with his cane in his face.",
+        "merged_question": "What action was House doing when he left the room of his patient, prompting Foreman to react in that manner?",
+        "answer": "Playing with his cane in his face."
     },
     {
         "Question_1": "Who follows behind House after he leaves his patient's room?",
         "Answer_1": "Foreman",
         "Question_2": "Where was John when he was speaking with Foreman about his arm?",
-        "Answer_2": "In the hospital bed."
+        "Answer_2": "In the hospital bed.",
+        "merged_question": "Where was John when Foreman was speaking with him about his arm after House left the room?",
+        "answer": "In the hospital bed."
     },
     {
         "Question_1": "Who follows behind House after he leaves his patient's room?",
         "Answer_1": "Foreman",
         "Question_2": "When does John say he wants to sign the DNR when he is talking to Foreman?",
-        "Answer_2": "He wants to sign it while his arm still works"
+        "Answer_2": "He wants to sign it while his arm still works",
+        "merged_question": "Why does John want to sign the DNR while his arm still works?",
+        "answer": "Because he wants to be able to sign it before he loses motor function."
     },
     {
         "Question_1": "Who follows behind House after he leaves his patient's room?",
         "Answer_1": "Foreman",
         "Question_2": "What does Foreman find House doing when he walks in his office?",
-        "Answer_2": "He finds him lying on the floor listening to music"
+        "Answer_2": "He finds him lying on the floor listening to music",
+        "merged_question": "What is the activity that Foreman finds House doing when he walks into his office?",
+        "answer": "Listening to music."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "What did Foreman say was going to happen to Margo after Margo asked for a birth control method?",
-        "Answer_2": "Foreman said Margo was going to kill her marriage and herself."
+        "Answer_2": "Foreman said Margo was going to kill her marriage and herself.",
+        "merged_question": "What is likely to happen to Margo's marriage if Foreman opens the car door after they walked out of the house?",
+        "answer": "Margo is likely to kill her marriage."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "Where was Foreman when the beeper sent a buzz?",
-        "Answer_2": "Foreman was standing in front of the whiteboard."
+        "Answer_2": "Foreman was standing in front of the whiteboard.",
+        "merged_question": "Generated Multi-hop Question: Where was Foreman standing when he opened the car door after they walked out of the house?",
+        "answer": "Foreman was standing in front of the whiteboard."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "What color is Foreman's neck tie when he standing over his patient talking",
-        "Answer_2": "The color of Foreman's tie is blue"
+        "Answer_2": "The color of Foreman's tie is blue",
+        "merged_question": "What color is the neck tie of the person who opens the car door after they walked out of the house?",
+        "answer": "Blue."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "Where did Cam say the MRI was clear and showed the mecidal issue Margo is having must be somewhere else when she and Foreman were going over her treatment and results?",
-        "Answer_2": "Her brain."
+        "Answer_2": "Her brain.",
+        "merged_question": "Where did Foreman and Margo go over her treatment and results after they walked out of the house?",
+        "answer": "Her brain."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "What is the name of the paralytic administered by Foreman and Cameron when asked how to stop spasms?",
-        "Answer_2": "Vecuronium"
+        "Answer_2": "Vecuronium",
+        "merged_question": "What is the action taken by Foreman and Cameron when asked how to stop spasms?",
+        "answer": "Vecuronium."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "What does the patient do after Foreman says that all of the signs are there?",
-        "Answer_2": "moves her head to the right"
+        "Answer_2": "moves her head to the right",
+        "merged_question": "What action does the patient perform immediately after Foreman confirms the presence of all signs?",
+        "answer": "moves her head to the right."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "Why did Cam push two milligrams of Ativan to Margo after Foreman grabbed her?",
-        "Answer_2": "Because Margo was having a psychotic break."
+        "Answer_2": "Because Margo was having a psychotic break.",
+        "merged_question": "Why did Cam push two milligrams of Ativan to Margo after she grabbed her car door handle?",
+        "answer": "Because Margo was having a psychotic break."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
         "Answer_1": "Foreman",
         "Question_2": "What does Foreman tell House is the problem with the patient when they are walking in the hallway?",
-        "Answer_2": "Live tumor"
+        "Answer_2": "Live tumor",
+        "merged_question": "What is the problem with the patient that Foreman tells House about while they are walking out of the house after opening the car door?",
+        "answer": "Live tumor."
     },
     {
         "Question_1": "Who opens the car door after they walked out of the house?",
