@@ -163,121 +163,161 @@
         "Question_1": "Who knocks on Joey and Chandler's door when she goes into the hallway?",
         "Answer_1": "Monica",
         "Question_2": "How many pounds did Monica say they had left to lose when she was dancing?",
-        "Answer_2": "1"
+        "Answer_2": "1",
+        "merged_question": "Generated Multi-hop Question: When Monica goes into the hallway and knocks on Joey and Chandler's door, what is one thing she is still working on?",
+        "answer": "Losing weight."
     },
     {
         "Question_1": "Who knocks on Joey and Chandler's door when she goes into the hallway?",
         "Answer_1": "Monica",
         "Question_2": "What was Chandler wearing when Monica called him a fat boy?",
-        "Answer_2": "A robe."
+        "Answer_2": "A robe.",
+        "merged_question": "What was Monica wearing when she called Chandler a fat boy in the hallway, after she had gone to knock on Joey and Chandler's door?",
+        "answer": "A robe."
     },
     {
         "Question_1": "Who knocks on Joey and Chandler's door when she goes into the hallway?",
         "Answer_1": "Monica",
         "Question_2": "What does Chandler do after Monica makes noises like a train?",
-        "Answer_2": "He leaves his apartment. "
+        "Answer_2": "He leaves his apartment. ",
+        "merged_question": "Why does Chandler leave his apartment?",
+        "answer": "Because Monica makes noises like a train, which prompts her to go into the hallway and knock on Joey and Chandler's door."
     },
     {
         "Question_1": "Who knocks on Joey and Chandler's door when she goes into the hallway?",
         "Answer_1": "Monica",
         "Question_2": "How many pounds does Monica say they have left when Chandler refuses to go running?",
-        "Answer_2": "Monica says they have three pounds left."
+        "Answer_2": "Monica says they have three pounds left.",
+        "merged_question": "How many pounds do Joey and Chandler have left when Monica goes into the hallway and knocks on their door?",
+        "answer": "Three pounds."
     },
     {
         "Question_1": "Who knocks on Joey and Chandler's door when she goes into the hallway?",
         "Answer_1": "Monica",
         "Question_2": "What sound does Monica imitate when trying to get Chandler excited?",
-        "Answer_2": "Monica imitates a train."
+        "Answer_2": "Monica imitates a train.",
+        "merged_question": "What sound does Joey get excited about when Monica knocks on the door?",
+        "answer": "Train."
     },
     {
         "Question_1": "What does Joey want to do on the sofa when Monica gets too loud?",
         "Answer_1": "nap",
         "Question_2": "Why does Joey say he is not napping at his place after he asks Monica for a better pillow?",
-        "Answer_2": "The duck got sick and it was not found or cleaned up immediately."
+        "Answer_2": "The duck got sick and it was not found or cleaned up immediately.",
+        "merged_question": "Why does Joey say he is not napping at Monica's place when she offers him a better pillow?",
+        "answer": "The duck got sick and it was not found or cleaned up immediately."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What do Joey and Chandler bring when they arrive for the barbecue?",
-        "Answer_2": "Charcoal"
+        "Answer_2": "Charcoal",
+        "merged_question": "Who is standing next to Joey when Phoebe and Monica are making food, and they have charcoal?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What is Chandler reading before Joey talks to him?",
-        "Answer_2": "The newspaper"
+        "Answer_2": "The newspaper",
+        "merged_question": "What is Chandler reading when he is standing next to Joey, while Phoebe and Monica are making food?",
+        "answer": "The newspaper."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What is Chandler eating before Joey talks to him?",
-        "Answer_2": "Cereal"
+        "Answer_2": "Cereal",
+        "merged_question": "What is Chandler eating when Joey talks to him while standing next to him?",
+        "answer": "Cereal."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What does Joey do when he tells Chandler to keep rubbing?",
-        "Answer_2": "He pats Chandler's knee."
+        "Answer_2": "He pats Chandler's knee.",
+        "merged_question": "What does Joey do when he tells Chandler to keep rubbing while Chandler is standing next to him in the room where Phoebe and Monica are making food?",
+        "answer": "He pats Chandler's knee."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "Where was Chandler sitting when Joey brought the envelope with 700 dollars?",
-        "Answer_2": "Recliner"
+        "Answer_2": "Recliner",
+        "merged_question": "Who was sitting in the Recliner when Joey brought the envelope with 700 dollars and Phoebe and Monica were making food?",
+        "answer": "Chandler"
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What did Chandler come back in the door with after he left?",
-        "Answer_2": "Chandler came back with pizza coupons"
+        "Answer_2": "Chandler came back with pizza coupons",
+        "merged_question": "What did Chandler come back with after he left when he was standing next to Joey while Phoebe and Monica were making food?",
+        "answer": "Pizza coupons."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "Which party goer gave Rachel the fruit basket before she opened the gift from Chandler?",
-        "Answer_2": "Melanie"
+        "Answer_2": "Melanie",
+        "merged_question": "At the party where Rachel received a gift from Chandler, which guest was standing next to Joey while Phoebe and Monica were making food?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What did Chandler say to Joey when he came out of his room?",
-        "Answer_2": "Hey, big Spender!"
+        "Answer_2": "Hey, big Spender!",
+        "merged_question": "What did Chandler say to the person standing next to Joey when Joey came out of his room?",
+        "answer": "Hey, big Spender!"
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What does Chandler do when he says \"do this\"?",
-        "Answer_2": "Chandler impersonates flight attendant signals with his hands."
+        "Answer_2": "Chandler impersonates flight attendant signals with his hands.",
+        "merged_question": "What does Chandler do when he says \"do this\" to Phoebe and Monica, who are standing next to Joey?",
+        "answer": "Chandler impersonates flight attendant signals with his hands."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What does Chandler pick up before asking about O.J,?",
-        "Answer_2": "A newspaper from the counter. "
+        "Answer_2": "A newspaper from the counter. ",
+        "merged_question": "What was Chandler picking up from the counter when he was standing next to Joey?",
+        "answer": "A newspaper."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "Why do Joey and Chandler talk funny when they enter the apartment?",
-        "Answer_2": "Joey and Chandler are pretending to be cavemen"
+        "Answer_2": "Joey and Chandler are pretending to be cavemen",
+        "merged_question": "Generated Multi-hop Question: Why is Chandler standing next to Joey when Phoebe and Monica are making food, if Joey and Chandler are pretending to be cavemen?",
+        "answer": "There is no clear reason in the given information that would justify this scenario, as the given information does not provide a context that suggests Joey and Chandler's caveman act is happening at the same time as Phoebe and Monica making food."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "Where was Chandler sitting when the show came on?",
-        "Answer_2": "Chandler was sitting on the arm of the sofa."
+        "Answer_2": "Chandler was sitting on the arm of the sofa.",
+        "merged_question": "Where was Phoebe and Monica making food when the show came on?",
+        "answer": "The arm of the sofa."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What did Chandler say when he stood up off of the sofa?",
-        "Answer_2": "Just a little extra air in my mouth."
+        "Answer_2": "Just a little extra air in my mouth.",
+        "merged_question": "What was happening to Chandler when he said \"Just a little extra air in my mouth\"?",
+        "answer": "He stood up off of the sofa."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What was Ross do to Chandler before He left?",
-        "Answer_2": "Hand him a box."
+        "Answer_2": "Hand him a box.",
+        "merged_question": "Who did Ross hand a box to before he left, and where was this person standing when Phoebe and Monica were making food?",
+        "answer": "Chandler, and he was standing next to Joey."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
