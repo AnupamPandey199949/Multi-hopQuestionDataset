@@ -1443,121 +1443,161 @@
         "Question_1": "Where are Monica, Chandler, and Rachel sitting when they are talking?",
         "Answer_1": "apartment",
         "Question_2": "What is Joey wearing when he enters Monicas apartment?",
-        "Answer_2": "An arm brace"
+        "Answer_2": "An arm brace",
+        "merged_question": "Generated Multi-hop Question: What is Joey wearing when he enters the room where Monica, Chandler, and Rachel are sitting?",
+        "answer": "An arm brace."
     },
     {
         "Question_1": "Where are Monica, Chandler, and Rachel sitting when they are talking?",
         "Answer_1": "apartment",
         "Question_2": "where is rachel when chandler is talking to the group at monicas apartment?",
-        "Answer_2": "sitting at the kitchen table"
+        "Answer_2": "sitting at the kitchen table",
+        "merged_question": "Where are Monica, Chandler, and Rachel sitting when Chandler is talking to the group at Monica's apartment?",
+        "answer": "Kitchen Table."
     },
     {
         "Question_1": "Where are Monica, Chandler, and Rachel sitting when they are talking?",
         "Answer_1": "apartment",
         "Question_2": "Why is Ross excited after some people come into the apartment?",
-        "Answer_2": "Ross is excited because his son is there"
+        "Answer_2": "Ross is excited because his son is there",
+        "merged_question": "Why is Ross excited after seeing Monica, Chandler, and Rachel, who are sitting in the apartment?",
+        "answer": "Ross is excited because his son is there."
     },
     {
         "Question_1": "What did Rachel say her boyfriend's name was after Phoebe called him Josh?",
         "Answer_1": "Joshua",
         "Question_2": "What size gloves does Rachel tell Joshua he needs when she's looking at his hands?",
-        "Answer_2": "Large"
+        "Answer_2": "Large",
+        "merged_question": "What size gloves does Rachel tell Joshua he needs when she's looking at his hands after Phoebe calls him by the name she previously said was not his name?",
+        "answer": "Large"
     },
     {
         "Question_1": "What did Rachel say her boyfriend's name was after Phoebe called him Josh?",
         "Answer_1": "Joshua",
         "Question_2": "Where did Joshua invite Rachel to before Rachel opened the door?",
-        "Answer_2": "A fancy club."
+        "Answer_2": "A fancy club.",
+        "merged_question": "Where did Joshua invite Rachel before she opened the door, after Phoebe had already called him Josh?",
+        "answer": "A fancy club."
     },
     {
         "Question_1": "What did Rachel say her boyfriend's name was after Phoebe called him Josh?",
         "Answer_1": "Joshua",
         "Question_2": "What does Joshua tell Rachel he needs when he's trying on his new clothes?",
-        "Answer_2": "Gloves"
+        "Answer_2": "Gloves",
+        "merged_question": "What did Joshua ask Rachel for when he was trying on his new clothes?",
+        "answer": "Gloves."
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "Where does Joey sit when he walking towards Rachel?",
-        "Answer_2": "On the stool at the counter. "
+        "Answer_2": "On the stool at the counter. ",
+        "merged_question": "Where does Joey sit when he walks towards Rachel?",
+        "answer": "On the stool at the counter."
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "What are the green objects Joey walks past when he is thinking about how to do a scene?",
-        "Answer_2": "Barstools"
+        "Answer_2": "Barstools",
+        "merged_question": "Generated Multi-hop Question: What objects was Rachel dreaming about Joey walking past?",
+        "answer": "Barstools."
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "What character was Joey reading lines for when going over the script?",
-        "Answer_2": "Drake"
+        "Answer_2": "Drake",
+        "merged_question": "Who was Joey reading lines for when going over the script in Rachel's dream?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "What color is Rachel's shirt when she is listening to Joey talk?",
-        "Answer_2": "Blue"
+        "Answer_2": "Blue",
+        "merged_question": "What was the color of the shirt of the person Rachel was dreaming about before she woke up?",
+        "answer": "Blue."
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "Who did Joey say isn't as good as him when Rachel said she had been thinking about the scene he read?",
-        "Answer_2": "his costars"
+        "Answer_2": "his costars",
+        "merged_question": "Who did Rachel dream about before she woke up, after Joey said that his costars aren't as good as him?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "What is on the door to the left of Rachel and Joey when they were talking about his scene?",
-        "Answer_2": "A big letter E"
+        "Answer_2": "A big letter E",
+        "merged_question": "What is Joey's scene in the movie that Rachel was dreaming about, which is located on the door to the left of Rachel and Joey when they were talking about it?",
+        "answer": "The movie \"Ewok\""
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "Who is helping Joey when he needs help practicing his lines?",
-        "Answer_2": "Rachel"
+        "Answer_2": "Rachel",
+        "merged_question": "Who is helping Joey when he needs help practicing his lines for a scene he is dreaming about?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "Where did Rachel set her things after she walked in the apartment to see Joey?",
-        "Answer_2": "The Foosball table"
+        "Answer_2": "The Foosball table",
+        "merged_question": "Where did Rachel set her things after she walked in the apartment to see the person she was dreaming about?",
+        "answer": "The Foosball table."
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "Where are Joey and Rachel when they are practicing Joey's lines together?",
-        "Answer_2": "In their apartment. "
+        "Answer_2": "In their apartment. ",
+        "merged_question": "Where were Joey and Rachel when Rachel was dreaming about Joey?",
+        "answer": "In their apartment."
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "Where was Rachel sitting when she talked to Joey about love and acting?",
-        "Answer_2": "In a black armchair"
+        "Answer_2": "In a black armchair",
+        "merged_question": "Where was Rachel sitting when she talked to Joey about love and acting, before she woke up from dreaming about him?",
+        "answer": "In a black armchair."
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "How does Olivia react when Joey is filming a scene in a soap opera?",
-        "Answer_2": "She slaps him. "
+        "Answer_2": "She slaps him. ",
+        "merged_question": "How does Rachel react when she is dreaming about Joey?",
+        "answer": "She does not, but the question is asking about a hypothetical scenario, the actual answer is not present in the given information. However, if we consider the given answer to Q2 and apply it to the scenario of Rachel dreaming about Joey, then it can be inferred that Rachel might react in a similar manner to Olivia in the soap opera, but the actual reaction is not specified."
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "How does Rachel feel when Joey is practicing his lines with her?",
-        "Answer_2": "She gets sucked in. "
+        "Answer_2": "She gets sucked in. ",
+        "merged_question": "How does Rachel feel when she is practicing lines with someone she was dreaming about before waking up?",
+        "answer": "She gets sucked in."
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "Where was Joey sitting when Rachel walked into the apartment?",
-        "Answer_2": "on the couch"
+        "Answer_2": "on the couch",
+        "merged_question": "Where was Rachel dreaming about when she woke up?",
+        "answer": "On the couch."
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "Why was Joey telling Rachel he was feeling insure before doing the scene with Olivia?",
-        "Answer_2": "He hoped she would compliment him and make him feel better."
+        "Answer_2": "He hoped she would compliment him and make him feel better.",
+        "merged_question": "Generated Multi-hop Question: Why was Rachel dreaming about Joey?",
+        "answer": "He hoped she would compliment him and make him feel better."
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
