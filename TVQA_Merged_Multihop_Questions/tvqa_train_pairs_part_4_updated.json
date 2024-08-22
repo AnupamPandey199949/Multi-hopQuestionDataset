@@ -1763,121 +1763,161 @@
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "Why did Phoebe say she would pound Monica before she got ready?",
-        "Answer_2": "Monica had touched her guitar"
+        "Answer_2": "Monica had touched her guitar",
+        "merged_question": "Why did Phoebe say she would pound Rachel before she got ready?",
+        "answer": "Because Rachel had touched her guitar."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "Why did Phoebe visit Chandler and Monica when they were in a room kissing?",
-        "Answer_2": "Phoebe wanted a small deposit."
+        "Answer_2": "Phoebe wanted a small deposit.",
+        "merged_question": "Why did Phoebe visit Chandler and Monica when they were in a romantic moment?",
+        "answer": "Phoebe wanted a small deposit."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "What does Phoebe have in her hands when Monica asks her why she isn't dressed yet?",
-        "Answer_2": "A guitar."
+        "Answer_2": "A guitar.",
+        "merged_question": "What is the reason Monica gives for why Phoebe is still in her pajamas when she is seen holding a guitar?",
+        "answer": "Because she and Ross just kissed."
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "How did Phoebe react after Chandler took her guitar away from her?",
-        "Answer_2": "Phoebe reacted non-challantly and said \"I'll pound on him in the morning.\""
+        "Answer_2": "Phoebe reacted non-challantly and said \"I'll pound on him in the morning.\"",
+        "merged_question": "How did Phoebe react when she overheard Rachel say she and Ross just kissed?",
+        "answer": "Phoebe reacted non-challantly and said \"I'll pound on him in the morning.\""
     },
     {
         "Question_1": "Who overhears what Rachel says when she says her and Ross just kissed?",
         "Answer_1": "Phoebe",
         "Question_2": "What does Monica see after she says to Phoebe they can finally start celebrating?",
-        "Answer_2": "Rachel and Ross kissing"
+        "Answer_2": "Rachel and Ross kissing",
+        "merged_question": "Who overhears Rachel and Ross's kiss after Phoebe and Monica start celebrating?",
+        "answer": "Phoebe."
     },
     {
         "Question_1": "What was Monica doing before she started talking?",
         "Answer_1": "sitting",
         "Question_2": "what was joey doing  when he was sitting at the table",
-        "Answer_2": "joey was holding the girls hand when he was sitting at the table"
+        "Answer_2": "joey was holding the girls hand when he was sitting at the table",
+        "merged_question": "What was Monica doing when she was holding someone's hand at the table?",
+        "answer": "Sitting."
     },
     {
         "Question_1": "What was Monica doing before she started talking?",
         "Answer_1": "sitting",
         "Question_2": "What does Phoebe take out of her purse when she is sitting on the couch?",
-        "Answer_2": "A pen. "
+        "Answer_2": "A pen. ",
+        "merged_question": "What does Phoebe take out of her purse when she is sitting, similar to what Monica was doing before she started talking?",
+        "answer": "A pen."
     },
     {
         "Question_1": "What was Monica doing before she started talking?",
         "Answer_1": "sitting",
         "Question_2": "how many people was on the couch when Joey was sitting down",
-        "Answer_2": " 2 people was on the couch when Joey was sitting down"
+        "Answer_2": " 2 people was on the couch when Joey was sitting down",
+        "merged_question": "How many people were on the couch when Monica was sitting down?",
+        "answer": "2 people was on the couch when Monica was sitting down."
     },
     {
         "Question_1": "What was Monica doing before she started talking?",
         "Answer_1": "sitting",
         "Question_2": "Where did Monica point with her finger when she was sitting?",
-        "Answer_2": "Monica pointed at a picture."
+        "Answer_2": "Monica pointed at a picture.",
+        "merged_question": "What was Monica doing before she started talking when she was pointing at a picture?",
+        "answer": "Sitting."
     },
     {
         "Question_1": "What was Monica doing before she started talking?",
         "Answer_1": "sitting",
         "Question_2": "What does Chandler do before sitting on the couch?",
-        "Answer_2": "Throw a jacket on the couch?"
+        "Answer_2": "Throw a jacket on the couch?",
+        "merged_question": "Generated Multi-hop Question: What was Monica doing before she started talking, given that Chandler throws a jacket on the couch before sitting down?",
+        "answer": "sitting."
     },
     {
         "Question_1": "What was Monica doing before she started talking?",
         "Answer_1": "sitting",
         "Question_2": "how many people was sitting at the table when joey was on the date",
-        "Answer_2": "2 people was sitting at the table when joey was on the date"
+        "Answer_2": "2 people was sitting at the table when joey was on the date",
+        "merged_question": "How many people were sitting at the table when Monica started talking?",
+        "answer": "2 people."
     },
     {
         "Question_1": "Who was Monica with when she was in her apartment?",
         "Answer_1": "Chandler",
         "Question_2": "What is Chandler's dad's drag name when he appears on stage?",
-        "Answer_2": "He is announced as Helena Handbasket."
+        "Answer_2": "He is announced as Helena Handbasket.",
+        "merged_question": "What was the name of Helena Handbasket's partner when she appeared at Monica's apartment?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who was Monica with when she was in her apartment?",
         "Answer_1": "Chandler",
         "Question_2": "Where does Monica tell Chandler they are going when she brings suitcases in the room?",
-        "Answer_2": "Monica tells Chandler they are going to Las Vegas"
+        "Answer_2": "Monica tells Chandler they are going to Las Vegas",
+        "merged_question": "Generated Multi-hop Question: Where does Monica and Chandler go when Monica brings suitcases in the room where they are both sitting?",
+        "answer": "Las Vegas."
     },
     {
         "Question_1": "Who was Monica with when she was in her apartment?",
         "Answer_1": "Chandler",
         "Question_2": "What color lamp shads are on the table when Chandler and Monica are sitting at the table?",
-        "Answer_2": "blue"
+        "Answer_2": "blue",
+        "merged_question": "Generated Multi-hop Question: What color lamp shades are on the table when Monica and Chandler are sitting together in Monica's apartment?",
+        "answer": "Blue."
     },
     {
         "Question_1": "Who was Monica with when she was in her apartment?",
         "Answer_1": "Chandler",
         "Question_2": "Where are Chandler and Monica when Monica asks Chandler if he is okay?",
-        "Answer_2": "sitting at table"
+        "Answer_2": "sitting at table",
+        "merged_question": "Where were Chandler and Monica when Monica asked Chandler if he is okay?",
+        "answer": "Sitting at a table."
     },
     {
         "Question_1": "Who was Monica with when she was in her apartment?",
         "Answer_1": "Chandler",
         "Question_2": "What does Monica tell Chandler he doesn't get to do anymore when they are married? ",
-        "Answer_2": "Chandler doesn't get to win anymore"
+        "Answer_2": "Chandler doesn't get to win anymore",
+        "merged_question": "What is something that Chandler can no longer do when he is with Monica in her apartment after they get married?",
+        "answer": "win anymore."
     },
     {
         "Question_1": "Who was Monica with when she was in her apartment?",
         "Answer_1": "Chandler",
         "Question_2": "How does Chandler respond to Helena when she speaks on stage?",
-        "Answer_2": "Chandler calls Helena daddy."
+        "Answer_2": "Chandler calls Helena daddy.",
+        "merged_question": "Generated Multi-hop Question: How does Chandler respond to Helena when she is in Monica's apartment?",
+        "answer": "Chandler calls Helena daddy."
     },
     {
         "Question_1": "Who was Monica with when she was in her apartment?",
         "Answer_1": "Chandler",
         "Question_2": "How does Chandler react when he first hears where he and Monica are going?",
-        "Answer_2": "Chandler gets all excited because he thinks Monica wants to elope"
+        "Answer_2": "Chandler gets all excited because he thinks Monica wants to elope",
+        "merged_question": "How does Chandler react when he first hears that he and Monica are going to get married?",
+        "answer": "Chandler gets all excited because he thinks Monica wants to elope."
     },
     {
         "Question_1": "Who was Monica with when she was in her apartment?",
         "Answer_1": "Chandler",
         "Question_2": "What shirt was Monica wearing when Chandler was talking?",
-        "Answer_2": "A white blouse."
+        "Answer_2": "A white blouse.",
+        "merged_question": "What was Chandler talking to Monica about when she was wearing a white blouse in her apartment?",
+        "answer": "(This answer cannot be determined from the given information, however, we can infer that the multihop question is asking for a description of the situation, but not a specific topic of conversation.)"
     },
     {
         "Question_1": "Who was Monica with when she was in her apartment?",
         "Answer_1": "Chandler",
         "Question_2": "Where did Helena go after she asked Chandler a questions?",
-        "Answer_2": "To Monica"
+        "Answer_2": "To Monica",
+        "merged_question": "Where did Helena go after she asked Chandler a question in the apartment where Monica and Chandler were?",
+        "answer": "To Monica."
     },
     {
         "Question_1": "Who was Monica with when she was in her apartment?",
