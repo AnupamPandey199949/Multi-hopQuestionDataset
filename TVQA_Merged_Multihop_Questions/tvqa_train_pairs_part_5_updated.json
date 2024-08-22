@@ -1123,121 +1123,161 @@
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What color of blanket is on Rachel when she talks to Ross about the man looking at her? ",
-        "Answer_2": "Pink."
+        "Answer_2": "Pink.",
+        "merged_question": "What color of blanket was Rachel wearing when she said something about another contraction that made Ross grab her?",
+        "answer": "Pink."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "How does Rachel react when Ross chooses Isabella as the baby's name?",
-        "Answer_2": "Rachel doesn't like it."
+        "Answer_2": "Rachel doesn't like it.",
+        "merged_question": "How does Rachel react when Ross chooses a name that is a contraction of a name she previously mentioned?",
+        "answer": "Rachel doesn't like it."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What did Rachel tell the Nurses and Doctor about after they were wrapping her up?",
-        "Answer_2": "be careful with her, because she is really tiny"
+        "Answer_2": "be careful with her, because she is really tiny",
+        "merged_question": "What did Ross grab after being warned about the tiny baby?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Why did Rachel not want Ross to leave when his mother peeked in?",
-        "Answer_2": "The couple she was sharing the room with weirded her out."
+        "Answer_2": "The couple she was sharing the room with weirded her out.",
+        "merged_question": "Why did Rachel not want Ross to leave after she said something about another contraction?",
+        "answer": "The couple she was sharing the room with weirded her out."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Where was Ross and Rachel when he was in bed with her?",
-        "Answer_2": "At the Hospital."
+        "Answer_2": "At the Hospital.",
+        "merged_question": "What was Ross doing at the Hospital when Rachel mentioned another contraction?",
+        "answer": "He was grabbing Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Where is Rachel when Johanna introduces herself?",
-        "Answer_2": "Rachel is in a hospital bed."
+        "Answer_2": "Rachel is in a hospital bed.",
+        "merged_question": "What did Ross grab after Johanna introduced herself in the hospital?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Why was Ross and Rachel at the hospital  when Janice came into the room?",
-        "Answer_2": "She was giving birth"
+        "Answer_2": "She was giving birth",
+        "merged_question": "Why did Ross grab Rachel after she mentioned another contraction?",
+        "answer": "She was giving birth."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "How long did Phoebe say to Ross that it's been since he wanted to be with Rachel when she says he might get everything thing he wanted?",
-        "Answer_2": "Since he was 15."
+        "Answer_2": "Since he was 15.",
+        "merged_question": "How long had it been since Ross wanted to be with Rachel, considering that she said he might get everything he wanted after she mentioned another contraction?",
+        "answer": "Since he was 15."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Where is Rachel when she is handed her newborn baby?",
-        "Answer_2": "At the hospital. "
+        "Answer_2": "At the hospital. ",
+        "merged_question": "Where is Ross when Rachel is handed her newborn baby?",
+        "answer": "At the hospital."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Who does Ross say is outside after Rachel asks him?",
-        "Answer_2": "New People"
+        "Answer_2": "New People",
+        "merged_question": "Generated Multi-hop Question: Who did Ross grab after Rachel said something about another contraction and then Ross said someone was outside?",
+        "answer": "New People."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What does Rachel do after she says and so it begins?",
-        "Answer_2": "She leans over and looks in the baby's crib."
+        "Answer_2": "She leans over and looks in the baby's crib.",
+        "merged_question": "What does Rachel do after she says something about another contraction, given that it marks the beginning of an event that prompts her to lean over and look in the baby's crib?",
+        "answer": "She leans over and looks in the baby's crib."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Where is Rachel when Joey comes to visit her?",
-        "Answer_2": "The hospital."
+        "Answer_2": "The hospital.",
+        "merged_question": "What did Ross grab after Rachel said something about another contraction while she was in the hospital?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What is Rachel holding in her arms when Ross is leaned over?",
-        "Answer_2": "a baby"
+        "Answer_2": "a baby",
+        "merged_question": "What did Ross grab after Rachel said something about another contraction and Rachel was holding in her arms?",
+        "answer": "a baby"
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What is Rachel holding when talking to Monica",
-        "Answer_2": "A baby"
+        "Answer_2": "A baby",
+        "merged_question": "What did Ross grab after Rachel said something about another contraction, given that she was holding a baby when talking to Monica.",
+        "answer": "A baby."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "How was Rachel wearing her hair when she was in the hospital bed? ",
-        "Answer_2": "In pig tails"
+        "Answer_2": "In pig tails",
+        "merged_question": "What did Ross grab after he saw Rachel wearing her hair in pig tails while she was in the hospital bed?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Where was Rachel when she was holding the baby?",
-        "Answer_2": "In the hospital bed."
+        "Answer_2": "In the hospital bed.",
+        "merged_question": "Generated Multi-hop Question: What did Ross grab after Rachel said something about another contraction while holding the baby in the hospital bed?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What name does Ross choose after Rachel lets him choose?",
-        "Answer_2": "Isabella."
+        "Answer_2": "Isabella.",
+        "merged_question": "What name did Ross choose after Rachel let him choose, and what did he grab after Rachel mentioned another contraction?",
+        "answer": "Isabella, Rachel"
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What did Rachel do after the nurse said something about the next patient?",
-        "Answer_2": "Waved her hand"
+        "Answer_2": "Waved her hand",
+        "merged_question": "What did Ross grab after the nurse said something about the next patient?",
+        "answer": "Rachel"
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Where was Rachel when Ross came back into the room?",
-        "Answer_2": "Standing up bent over the end of the bed."
+        "Answer_2": "Standing up bent over the end of the bed.",
+        "merged_question": "What did Ross grab after he came back into the room where Rachel was standing up bent over the end of the bed?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What fell out of Ross's coat when Joey was getting Rachel another box of tissue? ",
-        "Answer_2": "A ring. "
+        "Answer_2": "A ring. ",
+        "merged_question": "What fell out of Ross's coat after Rachel said something about another contraction?",
+        "answer": "A ring."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
