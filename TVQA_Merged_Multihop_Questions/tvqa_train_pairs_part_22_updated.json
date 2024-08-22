@@ -1763,121 +1763,161 @@
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What was Taub holding in his hand when he spoke to Dr. House?",
-        "Answer_2": "a mobile phone"
+        "Answer_2": "a mobile phone",
+        "merged_question": "What was the patient thinking about after seeing the star and stripes pattern on Taub's mobile phone?",
+        "answer": "The sky."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Whose phone is House texting from when they are in the conference room",
-        "Answer_2": "House is texting from Taub's phone"
+        "Answer_2": "House is texting from Taub's phone",
+        "merged_question": "Who is texting about the patient's thoughts from Taub's phone in the conference room?",
+        "answer": "House."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What was on the wall when House entered the room?",
-        "Answer_2": "A lamp."
+        "Answer_2": "A lamp.",
+        "merged_question": "What was on the wall when House entered the room and saw the patient thinking about the sky after Taub says he sees a star and stripes?",
+        "answer": "A lamp."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What does House ask Taub after he says he's headed out?",
-        "Answer_2": "If Taub is having an affair"
+        "Answer_2": "If Taub is having an affair",
+        "merged_question": "What does House suspect Taub is thinking about after Taub says he sees a star and stripes, prompting House to ask if Taub is having an affair?",
+        "answer": "The sky."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What does House tell Taub about texting after he gets his phone back",
-        "Answer_2": "House tells Taub texting doesn't prove you are faithful"
+        "Answer_2": "House tells Taub texting doesn't prove you are faithful",
+        "merged_question": "Generated Multi-hop Question: What does House think about Taub's fidelity after Taub texts the phrase \"star and stripes\" to someone?",
+        "answer": "House thinks texting doesn't prove you are faithful."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Why does Dr House look behind him when Wilson sits down?",
-        "Answer_2": "He thinks Wilson wants to talk to someone else."
+        "Answer_2": "He thinks Wilson wants to talk to someone else.",
+        "merged_question": "Why does Dr House look behind him when he thinks Wilson wants to talk to someone else, after he says the patient is thinking about the sky after seeing a star and stripes?",
+        "answer": "He thinks Wilson wants to talk to someone else."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What was Taub holding when House turned away from the table? ",
-        "Answer_2": "A phone."
+        "Answer_2": "A phone.",
+        "merged_question": "What was the patient thinking about when House turned away from the table after Taub said he saw a star and stripes, and what was Taub holding at that time?",
+        "answer": "The patient was thinking about the sky, and Taub was holding a phone."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What was Artie holding when he was talking to Dr. House?",
-        "Answer_2": "A cup"
+        "Answer_2": "A cup",
+        "merged_question": "What was Artie holding when he was talking to Dr. House after House mentioned the star and stripes?",
+        "answer": "A cup."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What did Taub do after House knocked on his window?",
-        "Answer_2": "He rolled down the window."
+        "Answer_2": "He rolled down the window.",
+        "merged_question": "Generated Multi-hop Question: What action did House provoke in Taub after House said the patient is thinking about the sky?",
+        "answer": "He rolled down the window."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Where were Taub's hands when he told House he wasn't fighting with his wife?",
-        "Answer_2": "On the table in front of him."
+        "Answer_2": "On the table in front of him.",
+        "merged_question": "Where were Taub's hands when he told House about the patient who was thinking about the sky after seeing a star and stripes?",
+        "answer": "On the table in front of him."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What was Dr. House wearing on his wrist when talking to Artie?",
-        "Answer_2": "A watch"
+        "Answer_2": "A watch",
+        "merged_question": "What was House wearing on his wrist when talking to Artie after Taub says he sees a star and stripes?",
+        "answer": "A watch."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What is Taub eating when he is talking with House at the table?",
-        "Answer_2": "Nothing"
+        "Answer_2": "Nothing",
+        "merged_question": "What is House eating when he is talking with Taub at the table?",
+        "answer": "Nothing."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "what does House do after he notices the white sheet?",
-        "Answer_2": "House walks over to uncover it"
+        "Answer_2": "House walks over to uncover it",
+        "merged_question": "What does House do after he notices the white sheet, which is in the same location where he previously noticed the patient thinking about the sky?",
+        "answer": "House walks over to uncover it."
     },
     {
         "Question_1": "Who asked Taub if he had glitter on him after he came in? ",
         "Answer_1": "Ruby",
         "Question_2": "What is behind Taub when Ruby says they will talk in the morning?",
-        "Answer_2": "A lamp and chair"
+        "Answer_2": "A lamp and chair",
+        "merged_question": "Who asked Taub if he had glitter on him after he came in, and what objects were behind Taub at that time?",
+        "answer": "Ruby, A lamp and chair."
     },
     {
         "Question_1": "Who asked Taub if he had glitter on him after he came in? ",
         "Answer_1": "Ruby",
         "Question_2": "What does Taub do when he talks to Ruby",
-        "Answer_2": "He grabs her hand"
+        "Answer_2": "He grabs her hand",
+        "merged_question": "What does Ruby do when Taub talks to her?",
+        "answer": "She grabs his hand."
     },
     {
         "Question_1": "Who asked Taub if he had glitter on him after he came in? ",
         "Answer_1": "Ruby",
         "Question_2": "What did Taub tell Ruby after he told her about the conversation he had with a patient?",
-        "Answer_2": "He wanted to have the baby."
+        "Answer_2": "He wanted to have the baby.",
+        "merged_question": "Generated Multi-hop Question: Who asked Taub if he had glitter on him after he came in, and then later found out about his patient's desire to have a baby?",
+        "answer": "Ruby."
     },
     {
         "Question_1": "Who asked Taub if he had glitter on him after he came in? ",
         "Answer_1": "Ruby",
         "Question_2": "Where was Taub when he said to call Ruby?",
-        "Answer_2": "In the car."
+        "Answer_2": "In the car.",
+        "merged_question": "Who called for Ruby to be told to call from the car?",
+        "answer": "Taub."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What was the object in the picture House was talking about when he was pointing something out?",
-        "Answer_2": "A brain."
+        "Answer_2": "A brain.",
+        "merged_question": "Generated Multi-hop Question: To what aspect of the brain was Nolan referring when he asked House about the differential's relevance?",
+        "answer": "The brain's aspect that Nolan was referring to is the differential's relevance to House's problems was the brain's blood flow."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Who did Nolan ask which character House talk to when he made a certain statement?",
-        "Answer_2": "Wilson"
+        "Answer_2": "Wilson",
+        "merged_question": "Who did Wilson ask which character House talked to when he made the statement \"What possible relevance does this differential have to your problems?\"",
+        "answer": "Nolan."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Why did Nolan suggest that House was in the bar looking for a fight when House said that he provoked it? ",
-        "Answer_2": "House was looking for a fight to punish himself for something."
+        "Answer_2": "House was looking for a fight to punish himself for something.",
+        "merged_question": "Why did House provoke the situation that led to Nolan talking to him in the bar, given that House was looking for a fight to punish himself for something?",
+        "answer": "House was looking for a fight to punish himself for something."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
