@@ -1443,121 +1443,161 @@
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "What did House do to Masters after he asked her to stand up? ",
-        "Answer_2": "Hugged her"
+        "Answer_2": "Hugged her",
+        "merged_question": "What did House do to the doctor who told Diane that there is still hope when she asked if it could kill the patient?",
+        "answer": "Hugged her."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "Where does Masters say Bert's problem moved to when discussing his condition in the conference room?",
-        "Answer_2": "Brain"
+        "Answer_2": "Brain",
+        "merged_question": "Generated Multi-hop Question: When discussing Bert's condition, which doctor tells Diane that there is still hope, and where does he say Bert's problem has moved to?",
+        "answer": "Masters says Bert's problem has moved to the Brain."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "What did Masters say about the patient after it was suggested he was at a construction site?",
-        "Answer_2": "She said he was lying about his job."
+        "Answer_2": "She said he was lying about his job.",
+        "merged_question": "What did Diane infer about the patient after Masters said he was lying about his job, especially in relation to her previous concern about the patient's safety?",
+        "answer": "Diane inferred that the patient was not at a construction site as he claimed, and therefore, Masters' initial assessment that there was still hope for the patient's recovery was likely incorrect."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "Why did Chase grimace when Masters told him his joke was amusing?",
-        "Answer_2": "Chase was annoyed and felt that Masters ruined the joke by explaining it."
+        "Answer_2": "Chase was annoyed and felt that Masters ruined the joke by explaining it.",
+        "merged_question": "Generated Multi-hop Question: Why did Diane feel that Masters ruined her medical diagnosis by explaining it to her?",
+        "answer": "Diane was annoyed and felt that Masters ruined her diagnosis by explaining it, similar to how Chase felt when Masters ruined his joke."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "How did Bert begin responding when Chase and Masters told him about skin contamination?",
-        "Answer_2": "Bert's fever began quickly spiking."
+        "Answer_2": "Bert's fever began quickly spiking.",
+        "merged_question": "Generated Multi-hop Question: When Diane asks if the treatment could kill the patient, what happens to Bert's fever after Chase and Masters inform him about skin contamination?",
+        "answer": "Bert's fever began quickly spiking."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "How did Foreman and Taub feel when House, Chase, and Masters compared them to Bert and Ernie?",
-        "Answer_2": "Foreman and Taub felt awkward."
+        "Answer_2": "Foreman and Taub felt awkward.",
+        "merged_question": "How did Foreman and Taub feel when they were compared to Bert and Ernie by the doctors who included the one that told Diane there is still hope?",
+        "answer": "Foreman and Taub felt awkward."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "What does Diane tell Masters after she tells her she should go check on Bert ?",
-        "Answer_2": "That Bert has a fever"
+        "Answer_2": "That Bert has a fever",
+        "merged_question": "What is the condition of the patient that Diane asks Dr. Masters to check on, prompting him to tell her there is still hope?",
+        "answer": "The patient has a fever."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "What is the man doing when Masters is talking to the Diane? ",
-        "Answer_2": "Laying in a hospital bed"
+        "Answer_2": "Laying in a hospital bed",
+        "merged_question": "What is the condition of the patient when Diane asks if it could kill them, and Masters responds that there is still hope?",
+        "answer": "Laying in a hospital bed."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "What does Bert complain about when Chase and Masters go into his room while he has a fever?",
-        "Answer_2": "Bert complains that he can't hear"
+        "Answer_2": "Bert complains that he can't hear",
+        "merged_question": "Why does Bert complain when Chase and Masters go into his room?",
+        "answer": "Because he can't hear."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "How did Masters respond when House asked her what the patient said when she called him a liar?",
-        "Answer_2": "She said she didn't tell him."
+        "Answer_2": "She said she didn't tell him.",
+        "merged_question": "Generated Multi-hop Question: How did the doctor who told Diane there was still hope respond when House asked her what the patient said when he called her a liar?",
+        "answer": "She said she didn't tell him."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "Who is Masters talking to when she says its for the best?",
-        "Answer_2": "Chase"
+        "Answer_2": "Chase",
+        "merged_question": "To whom is Dr. Masters saying it's for the best when she believes there's still hope for the patient?",
+        "answer": "Chase."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Who does House say is in the girl's visions after asking if this person travels for work?",
-        "Answer_2": "The boyfriend's dad"
+        "Answer_2": "The boyfriend's dad",
+        "merged_question": "Who does House say is in the girl's visions after asking if the person who sees a star and stripes is someone who travels for work?",
+        "answer": "The boyfriend's dad."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Where was House cane before he used it",
-        "Answer_2": "On the table"
+        "Answer_2": "On the table",
+        "merged_question": "Where did House get the cane that he used after Taub said he sees a star and stripes?",
+        "answer": "On the table."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What is House holding when Thirteen is talking to him?",
-        "Answer_2": "A brain"
+        "Answer_2": "A brain",
+        "merged_question": "What is House holding when he says the patient is thinking about the sky after Taub says he sees a star and stripes?",
+        "answer": "A brain"
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What did House compare the experimental technology to when Foreman called it a magic trick?",
-        "Answer_2": "House said that hand washing was also once experimental. "
+        "Answer_2": "House said that hand washing was also once experimental. ",
+        "merged_question": "What did House compare the experimental technology to when Foreman called it a magic trick, in the context of House's previous observation that the patient is thinking about the sky after seeing a star and stripes?",
+        "answer": "House said that hand washing was also once experimental."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What did House tell Taub that he needs to check after House said he had a cool magic show about to start?",
-        "Answer_2": "his spare"
+        "Answer_2": "his spare",
+        "merged_question": "What does House tell Taub he needs to check after House says he had a cool magic show about to start, which makes Taub see a star and stripes, making House think the patient is thinking about the sky?",
+        "answer": "his spare"
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Where is House sitting when Foreman walks into his office?",
-        "Answer_2": "House is sitting at his desk"
+        "Answer_2": "House is sitting at his desk",
+        "merged_question": "Who is sitting at their desk when Foreman walks in and Taub says he sees a star and stripes?",
+        "answer": "House."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Who does House think had sex with Artie's son's girlfriend before she got an allergy to a parasite?",
-        "Answer_2": "House thinks Artie"
+        "Answer_2": "House thinks Artie",
+        "merged_question": "Who does House think had sex with Artie's son's girlfriend before she got an allergy to a parasite, and what were they thinking about when they were together?",
+        "answer": "House thinks Artie, and they were thinking about the sky."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "When did House say Inspiration point opens after Taub rolled down the car window?",
-        "Answer_2": "after dark"
+        "Answer_2": "after dark",
+        "merged_question": "Generated Multi-hop Question: When does the \"star and stripes\" usually appear, according to House?",
+        "answer": "after dark."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Where is House when Taub comes into the room after laying on the table",
-        "Answer_2": "House is in the scans viewing room"
+        "Answer_2": "House is in the scans viewing room",
+        "merged_question": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes when he is in the scans viewing room?",
+        "answer": "House."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
