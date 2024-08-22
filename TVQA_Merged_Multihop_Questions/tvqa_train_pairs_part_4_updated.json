@@ -163,121 +163,161 @@
         "Question_1": "Who does Ross say is radiant before he gives Rachel his pager number?",
         "Answer_1": "Joey",
         "Question_2": "How does Joey feel about Ross's feelings when discussing his feelings for Rachel?",
-        "Answer_2": "Terrible"
+        "Answer_2": "Terrible",
+        "merged_question": "How does Ross feel when he is discussing his feelings for Rachel, considering Joey's feelings about Ross's feelings for Rachel?",
+        "answer": "Terrible."
     },
     {
         "Question_1": "Who does Ross say is radiant before he gives Rachel his pager number?",
         "Answer_1": "Joey",
         "Question_2": "What did Rachel do when she thanked Joey?",
-        "Answer_2": "hugged him"
+        "Answer_2": "hugged him",
+        "merged_question": "Generated Multi-hop Question: What did Ross do when Rachel thanked the person she hugged?",
+        "answer": "gave her his pager number."
     },
     {
         "Question_1": "Who does Ross say is radiant before he gives Rachel his pager number?",
         "Answer_1": "Joey",
         "Question_2": "What was Joey suggesting when he was talking to Chandler?",
-        "Answer_2": "Joey suggested Monica was keeping Richard in the room"
+        "Answer_2": "Joey suggested Monica was keeping Richard in the room",
+        "merged_question": "What was Ross suggesting when he said that Joey was radiant before he gave Rachel his pager number?",
+        "answer": "Ross was suggesting that Joey was being radiant because he was talking to Monica about keeping Richard in the room."
     },
     {
         "Question_1": "Who does Ross say is radiant before he gives Rachel his pager number?",
         "Answer_1": "Joey",
         "Question_2": "What did Joey do before opening the door?",
-        "Answer_2": "grabbed their jackets"
+        "Answer_2": "grabbed their jackets",
+        "merged_question": "What did Joey do before Ross said he was radiant?",
+        "answer": "grabbed their jackets."
     },
     {
         "Question_1": "Who does Ross say is radiant before he gives Rachel his pager number?",
         "Answer_1": "Joey",
         "Question_2": "How does Joey really feel after coming to terms with the fact that he's alone?",
-        "Answer_2": "Joy feels sad and depressed."
+        "Answer_2": "Joy feels sad and depressed.",
+        "merged_question": "How does Ross feel when he says someone is radiant before he gives Rachel his pager number?",
+        "answer": "Since Ross says Joey is radiant, he probably feels the opposite of what Joey feels after coming to terms with being alone, which is sad and depressed. Therefore, Ross likely feels happy."
     },
     {
         "Question_1": "Who does Ross say is radiant before he gives Rachel his pager number?",
         "Answer_1": "Joey",
         "Question_2": "Where did Joey and Rachel go after they left the apartment?",
-        "Answer_2": "They went to the hospital."
+        "Answer_2": "They went to the hospital.",
+        "merged_question": "Where did Ross tell Joey to call him before he gave Joey his pager number, after Joey and Rachel left for?",
+        "answer": "the hospital."
     },
     {
         "Question_1": "Who does Ross say is radiant before he gives Rachel his pager number?",
         "Answer_1": "Joey",
         "Question_2": "What does Joey suggest they use when they are trying to unlock the door?",
-        "Answer_2": "Credit Card"
+        "Answer_2": "Credit Card",
+        "merged_question": "What item does Joey suggest they use to unlock the door before Ross says he is radiant?",
+        "answer": "Credit Card."
     },
     {
         "Question_1": "Who does Ross say is radiant before he gives Rachel his pager number?",
         "Answer_1": "Joey",
         "Question_2": "Why was Rachel uncomfortable when Joey walked into the room?",
-        "Answer_2": "Rachel was feeling weird from the pregnancy"
+        "Answer_2": "Rachel was feeling weird from the pregnancy",
+        "merged_question": "Why was Ross comfortable giving Rachel his pager number when Joey walked into the room, despite Rachel being in an awkward situation?",
+        "answer": "Because Ross was not aware of Rachel's pregnancy, he was only aware that Joey was radiant."
     },
     {
         "Question_1": "Who does Ross say is radiant before he gives Rachel his pager number?",
         "Answer_1": "Joey",
         "Question_2": "What did Joey say after Ross asked \"What happened?\"",
-        "Answer_2": "Something called Braxton Hicks contraction."
+        "Answer_2": "Something called Braxton Hicks contraction.",
+        "merged_question": "What did Ross say Joey is before he gives Rachel his pager number after Ross asked \"What happened?\"",
+        "answer": "Radiant."
     },
     {
         "Question_1": "Who was standing on the desk when the group was trying to listen through the door?",
         "Answer_1": "Monica",
         "Question_2": "What did Monica tell her Dad to turn off before he said it is off?",
-        "Answer_2": "Monica told her dad to turn off the video recorder."
+        "Answer_2": "Monica told her dad to turn off the video recorder.",
+        "merged_question": "What was the group trying to listen through the door that Monica was trying to turn off?",
+        "answer": "Video recorder."
     },
     {
         "Question_1": "Who was standing on the desk when the group was trying to listen through the door?",
         "Answer_1": "Monica",
         "Question_2": "Where are Monica, Phoebe and their friends when they are watching the video?",
-        "Answer_2": "Monica, Phoebe and their friends are in the living area."
+        "Answer_2": "Monica, Phoebe and their friends are in the living area.",
+        "merged_question": "Generated Multi-hop Question: Where were Monica and Phoebe when they were trying to listen through the door?",
+        "answer": "The living area."
     },
     {
         "Question_1": "Who was standing on the desk when the group was trying to listen through the door?",
         "Answer_1": "Monica",
         "Question_2": "What does Ross do after Mr. Geller says oh no and Monica and Rachel say good bye don't wait up?",
-        "Answer_2": "He stands at the top of the stairs in a black tux, with flowers in his hands and a look of surprise."
+        "Answer_2": "He stands at the top of the stairs in a black tux, with flowers in his hands and a look of surprise.",
+        "merged_question": "What is Ross doing in the scene where Mr. Geller says \"oh no\" and Monica and Rachel say \"good bye don't wait up\", and Monica was previously seen standing on a desk trying to listen through the door?",
+        "answer": "He stands at the top of the stairs in a black tux, with flowers in his hands and a look of surprise."
     },
     {
         "Question_1": "Who was standing on the desk when the group was trying to listen through the door?",
         "Answer_1": "Monica",
         "Question_2": "Why couldn't Rachel drive to the hospital when she mentioned it to Monica?",
-        "Answer_2": "Rachel didn't have a car."
+        "Answer_2": "Rachel didn't have a car.",
+        "merged_question": "Why couldn't Rachel drive to the hospital when she mentioned it to the person standing on the desk when the group was trying to listen through the door?",
+        "answer": "Rachel didn't have a car."
     },
     {
         "Question_1": "Who was standing on the desk when the group was trying to listen through the door?",
         "Answer_1": "Monica",
         "Question_2": "What does Rachel do when talking to Monica?",
-        "Answer_2": "She starts to cry"
+        "Answer_2": "She starts to cry",
+        "merged_question": "Why did Rachel start crying when talking to the person standing on the desk when the group was trying to listen through the door?",
+        "answer": "She starts to cry when talking to Monica."
     },
     {
         "Question_1": "Who rubs her hands together like Joey after Monica shows everyone the lottery tickets?",
         "Answer_1": "Rachel",
         "Question_2": "What are Ross and Rachel looking at before Ross kisses Rachel?",
-        "Answer_2": "A book"
+        "Answer_2": "A book",
+        "merged_question": "What is Rachel looking at before Ross kisses her, which is the same action she performs after seeing the lottery tickets?",
+        "answer": "A book."
     },
     {
         "Question_1": "Who rubs her hands together like Joey after Monica shows everyone the lottery tickets?",
         "Answer_1": "Rachel",
         "Question_2": "What is on the table when Rachel discusses what she hopes to be Emma's first word?",
-        "Answer_2": "A plate of food"
+        "Answer_2": "A plate of food",
+        "merged_question": "What does Rachel hope Emma's first word will be while looking at a plate of food?",
+        "answer": "Not directly related, however, looking at the answers we can say that the plate of food is not related to the first answer and we can assume that Rachel hopes Emma's first word will be something related to food."
     },
     {
         "Question_1": "Who rubs her hands together like Joey after Monica shows everyone the lottery tickets?",
         "Answer_1": "Rachel",
         "Question_2": "When Rachel takes the bowl how does Joey react after?",
-        "Answer_2": "Joey is surprised and in pain."
+        "Answer_2": "Joey is surprised and in pain.",
+        "merged_question": "Why is Joey in pain after Rachel takes the bowl?",
+        "answer": "Because Joey burns his hand when he touches the bowl."
     },
     {
         "Question_1": "Who rubs her hands together like Joey after Monica shows everyone the lottery tickets?",
         "Answer_1": "Rachel",
         "Question_2": "What is in the background when Rachel says she doesn't care about the Knicks?",
-        "Answer_2": "A gray television."
+        "Answer_2": "A gray television.",
+        "merged_question": "What is in the background when Rachel says she doesn't care about the Knicks, after she shows everyone the lottery tickets and starts rubbing her hands together like Joey?",
+        "answer": "A gray television."
     },
     {
         "Question_1": "Who rubs her hands together like Joey after Monica shows everyone the lottery tickets?",
         "Answer_1": "Rachel",
         "Question_2": "Where is Rachel standing when she is discussing Emma's first word with Ross",
-        "Answer_2": "Rachel is standing behind the couch"
+        "Answer_2": "Rachel is standing behind the couch",
+        "merged_question": "Where is Rachel standing when she is discussing Emma's first word with Ross, similar to the scene where she rubs her hands together like Joey after seeing the lottery tickets?",
+        "answer": "Rachel is standing behind the couch."
     },
     {
         "Question_1": "Who rubs her hands together like Joey after Monica shows everyone the lottery tickets?",
         "Answer_1": "Rachel",
         "Question_2": "What is Chandler holding when he is standing in the living room with Monica, Rachel, Phoebe, and Joey?",
-        "Answer_2": "A wine bottle. "
+        "Answer_2": "A wine bottle. ",
+        "merged_question": "Who rubs her hands together like Joey after someone shows everyone in the living room the lottery tickets while Chandler is holding a wine bottle?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who rubs her hands together like Joey after Monica shows everyone the lottery tickets?",
