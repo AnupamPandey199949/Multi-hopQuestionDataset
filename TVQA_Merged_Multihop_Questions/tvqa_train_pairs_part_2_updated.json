@@ -4,7 +4,7 @@
         "Answer_1": "Rachel",
         "Question_2": "Who does Rachel tell Phoebe she is going to have dinner with after Phoebe asks her to see a movie?",
         "Answer_2": "Rachel is going to have dinner with Melissa.",
-        "merged_question": "Who walks in Joey's apartment when Phoebe and Joey are playing chess and then tells Phoebe she is going to have dinner with Melissa?",
+        "merged_question": "Who walks in Joey's apartment when Phoebe and Joey are playing chess, after Phoebe asked Rachel to see a movie and Rachel told Phoebe she was going to have dinner with Melissa?",
         "answer": "Rachel."
     },
     {
@@ -12,15 +12,15 @@
         "Answer_1": "Rachel",
         "Question_2": "What did Rachel have in her hand when she was talking to Monica about talking with the cute bar tender?",
         "Answer_2": "A book",
-        "merged_question": "What was Rachel doing when she walked into Joey's apartment?",
-        "answer": "Playing Chess."
+        "merged_question": "What was Rachel holding when she walked into Joey's apartment to see him and Phoebe playing chess?",
+        "answer": "A book."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "What are Phoebe, Melissa, and Rachel drinking when they are talking?",
         "Answer_2": "They are drinking a red cocktail.",
-        "merged_question": "What is Rachel drinking when she walks in on Joey and Phoebe playing chess in his apartment?",
+        "merged_question": "What is Rachel drinking when she walks into Joey's apartment?",
         "answer": "A red cocktail."
     },
     {
@@ -28,15 +28,15 @@
         "Answer_1": "Rachel",
         "Question_2": "What was Melissa about to do when Rachel stopped her?",
         "Answer_2": "Melissa wanted to kiss Rachel.",
-        "merged_question": "What was Rachel about to stop in Joey's apartment when she walked in on Phoebe and Joey playing chess?",
-        "answer": "Melissa wanting to kiss Rachel."
+        "merged_question": "What was Rachel trying to prevent from happening when she walked into Joey's apartment where Phoebe and Joey were playing chess?",
+        "answer": "Rachel was trying to prevent Melissa from kissing her."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "What color of dress was wearing Melissa when talking to Rachel about their kiss?",
         "Answer_2": "Blue.",
-        "merged_question": "What color dress was Rachel wearing when she walked into Joey's apartment?",
+        "merged_question": "What color of dress was Rachel wearing when she walked into Joey's apartment to play chess with Phoebe?",
         "answer": "Blue."
     },
     {
@@ -44,7 +44,7 @@
         "Answer_1": "Rachel",
         "Question_2": "Why does Rachel turn away from Joey after he offers them a view inside his mind?",
         "Answer_2": "Rachel can not imagine being inside Joey's mind.",
-        "merged_question": "Why does Rachel turn away from Joey after he walks into his apartment when she and Joey are playing chess?",
+        "merged_question": "Why does Rachel turn away from Joey after walking into his apartment when they are playing chess?",
         "answer": "Rachel can not imagine being inside Joey's mind."
     },
     {
@@ -52,31 +52,31 @@
         "Answer_1": "Rachel",
         "Question_2": "What did Joey do before Rachel said \"that is not a problem\"",
         "Answer_2": "Leaned on the couch",
-        "merged_question": "What action was Rachel referring to when she said \"that is not a problem\"?",
-        "answer": "Leaned on the couch."
+        "merged_question": "What did Rachel see Joey doing when she walked into his apartment and he said \"that is not a problem\"?",
+        "answer": "Joey Leaned on the couch."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "Where is Rachel when she tries to convince Phoebe?",
         "Answer_2": "Rachel is in the apartment.",
-        "merged_question": "Who walks in Joey's apartment when Phoebe and Rachel are playing chess?",
-        "answer": "Rachel."
+        "merged_question": "Who walks in Joey's apartment when Phoebe and Phoebe are playing chess?",
+        "answer": "Rachel"
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "What kind of vehicle does Melissa use when she leaves Rachel and Phoebe",
         "Answer_2": "A taxi cab",
-        "merged_question": "Generated Multi-hop Question: What kind of vehicle does Rachel use when she leaves Joey's apartment?",
-        "answer": "A taxi cab."
+        "merged_question": "Generated Multi-hop Question: What mode of transportation does Rachel use when she leaves Phoebe's apartment?",
+        "answer": "A taxi cab"
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "Where did Monica say Rachel may have to sit when she was rearranging the seating?",
         "Answer_2": "At the bar.",
-        "merged_question": "Where did Rachel sit when she walked into Joey's apartment to play chess with him?",
+        "merged_question": "Where did Rachel sit when she walked in on Joey and Phoebe playing chess?",
         "answer": "At the bar."
     },
     {
@@ -84,7 +84,7 @@
         "Answer_1": "Rachel",
         "Question_2": "How does Melissa react after Rachel describes their actions?",
         "Answer_2": "Melissa is apprehensive and scrunches her face.",
-        "merged_question": "How does Melissa react when Rachel describes her and Joey playing chess in Joey's apartment?",
+        "merged_question": "How does Melissa react when Rachel describes Joey and Phoebe playing chess in Joey's apartment?",
         "answer": "Melissa is apprehensive and scrunches her face."
     },
     {
@@ -92,7 +92,7 @@
         "Answer_1": "Rachel",
         "Question_2": "What game is on the counter between Phoebe and Joey when they and Rachel are at his apartment?",
         "Answer_2": "Chess",
-        "merged_question": "Who walks in on Phoebe and Joey while they are playing Chess at his apartment?",
+        "merged_question": "Who walks in Joey's apartment when Phoebe and Joey are playing Chess?",
         "answer": "Rachel."
     },
     {
@@ -100,15 +100,15 @@
         "Answer_1": "Rachel",
         "Question_2": "How does Joey react when he hears Rachel is going out to dinner with Melissa?",
         "Answer_2": "Joey asks if he can come with.",
-        "merged_question": "How does Joey react when Rachel walks into his apartment?",
-        "answer": "Joey asks if he can come with."
+        "merged_question": "How does Joey react when Rachel walks in his apartment while he is playing chess with Phoebe?",
+        "answer": "Joey asks if he can come with (Rachel to dinner)."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "Why was felling Melissa for Rachel when she wanted to kiss her?",
         "Answer_2": "Melissa likes Rachel.",
-        "merged_question": "Why was Phoebe feeling jealous when Rachel walked in on her and Joey playing chess?",
+        "merged_question": "Why did Joey feel bad for Rachel when she walked in on him and Phoebe playing chess?",
         "answer": "Melissa likes Rachel."
     },
     {
@@ -116,7 +116,7 @@
         "Answer_1": "Rachel",
         "Question_2": "Why was Rachel so upset before Pheobe started talking?",
         "Answer_2": "Ricona did not remember Rachel and her kissing",
-        "merged_question": "Why was Rachel so upset when she walked into Joey's apartment where Phoebe and Joey were playing chess?",
+        "merged_question": "Generated Multi-hop Question: Why was Rachel so upset when she walked into Joey's apartment and saw Phoebe and Joey playing chess?",
         "answer": "Ross did not remember Rachel and they had kissed."
     },
     {
@@ -124,31 +124,31 @@
         "Answer_1": "Rachel",
         "Question_2": "Who did Rachel kiss after the Sigma Chi luau?",
         "Answer_2": "Melissa.",
-        "merged_question": "Who did Rachel kiss after walking into Joey's apartment when Phoebe and Joey were playing chess?",
-        "answer": "Melissa."
+        "merged_question": "Who walks in Joey's apartment after Rachel's kiss with Melissa?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "What did Rachel do when she was in Las Vegas?",
         "Answer_2": "Rachel became drunk and married Ross.",
-        "merged_question": "What happened to Ross when Phoebe and Joey were playing chess in his apartment?",
-        "answer": "Rachel walked in."
+        "merged_question": "What happened to Rachel when she was drunk in Las Vegas, which led to a situation where she was seen walking into Joey's apartment while he was playing chess with Phoebe.",
+        "answer": "Rachel got married to Ross."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "What type of necklace is Melissa wearing when she's talking to Phoebe and Rachel?",
         "Answer_2": ".She's wearing a pearl necklace.",
-        "merged_question": "What type of person walks into Joey's apartment when Phoebe and Joey are playing chess, just like the type of person that Melissa is talking to while wearing a pearl necklace?",
-        "answer": "Rachel."
+        "merged_question": "What type of necklace is Rachel wearing when she walks into Joey's apartment to see Phoebe and Joey playing chess?",
+        "answer": "A pearl necklace."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "Who is at dinner with Rachel and Phoebe when they are talking about sororities?",
         "Answer_2": "Rachel's old friend.",
-        "merged_question": "Who walks in Joey's apartment when Phoebe and Rachel's old friend are playing chess?",
+        "merged_question": "Who walks in Joey's apartment when Rachel and Rachel's old friend are playing chess?",
         "answer": "Rachel's old friend."
     },
     {
@@ -156,7 +156,7 @@
         "Answer_1": "Rachel",
         "Question_2": "What remembered Melissa when talking to Rachel?",
         "Answer_2": "A kiss.",
-        "merged_question": "What did Rachel remember when she walked into Joey's apartment where Phoebe and Joey were playing chess?",
+        "merged_question": "What did Rachel remember when she walked in on Phoebe and Joey playing chess?",
         "answer": "A kiss."
     },
     {
@@ -164,15 +164,15 @@
         "Answer_1": "Rachel",
         "Question_2": "What was Rachel doing when Joey came in and started walking toward her?",
         "Answer_2": "Reading",
-        "merged_question": "What was Rachel doing when she walked into Joey's apartment?",
-        "answer": "Reading."
+        "merged_question": "What was Rachel doing when she walked in Joey's apartment?",
+        "answer": "Reading"
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "Why does Rachel look confused when Phoebe is talking about her sorority?",
         "Answer_2": "Because Phoebe made it up.",
-        "merged_question": "Why is Rachel confused when Phoebe talks about her sorority while they're playing chess in Joey's apartment?",
+        "merged_question": "Why does Rachel look confused when she walks into Joey's apartment and sees Phoebe talking about her sorority?",
         "answer": "Because Phoebe made it up."
     },
     {
@@ -180,23 +180,23 @@
         "Answer_1": "Rachel",
         "Question_2": "Where was Rachel when she was talking to Chandler about tuxedos?",
         "Answer_2": "Standing next to a rack of tuxedos.",
-        "merged_question": "Where was Rachel when she was talking to Chandler about tuxedos, and who was with her at that time?",
-        "answer": "Rachel was standing next to a rack of tuxedos, and she was with Phoebe at that time."
+        "merged_question": "Where was Rachel standing when she walked into Joey's apartment and saw him and Phoebe playing chess?",
+        "answer": "Standing next to a rack of tuxedos."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "Where was Rachel sitting when Monica and Chandler were working on seating for their wedding?",
         "Answer_2": "Sitting on the sofa.",
-        "merged_question": "Where was Rachel sitting when she walked into Joey's apartment while Phoebe and Joey were playing chess?",
-        "answer": "Sitting on the sofa."
+        "merged_question": "Where was Rachel sitting when she walked into Joey's apartment to play chess with him?",
+        "answer": "The sofa."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "How does Melissa's face look when Rachel says how can you not remember us kissing?",
         "Answer_2": "She looks confused.",
-        "merged_question": "How does Melissa look when Rachel says how can you not remember us kissing, which happens when she walks in Joey's apartment where Phoebe and Joey are playing chess?",
+        "merged_question": "Generated Multi-hop Question: How does Melissa look when Rachel says how can you not remember us kissing in Joey's apartment?",
         "answer": "She looks confused."
     },
     {
@@ -204,15 +204,15 @@
         "Answer_1": "Rachel",
         "Question_2": "When was the Sigma Chi luau event that happened before Rachel kissed Melissa?",
         "Answer_2": "It was during Rachel's senior year in college.",
-        "merged_question": "What event was happening in Joey's apartment when Rachel walked in on Phoebe and Joey playing chess, which is around the same time she was in college?",
-        "answer": "The event was likely a reminder of the Sigma Chi luau event that happened before Rachel kissed Melissa, which occurred during her senior year in college."
+        "merged_question": "Generated Multi-hop Question: Who walked in Joey's apartment during Rachel's senior year in college when Phoebe and Joey were playing chess?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "How was Phoebe when Rachel mentioned the kiss she shared with Melissa?",
         "Answer_2": "Phoebe was skeptical.",
-        "merged_question": "Generated Multi-hop Question: What was Rachel's reaction to Phoebe when she mentioned the kiss she shared with Melissa while they were playing chess in Joey's apartment?",
+        "merged_question": "What was Phoebe's reaction when Rachel mentioned the kiss she shared with Melissa while they were in Joey's apartment?",
         "answer": "Phoebe was skeptical."
     },
     {
@@ -220,47 +220,47 @@
         "Answer_1": "Rachel",
         "Question_2": "What sorority does Phoebe say that she was in when she is talking to Rachel's friend?",
         "Answer_2": "Thigh Mega Tampon.",
-        "merged_question": "Who walks in Joey's apartment when Joey and Phoebe are playing chess, and what sorority does Phoebe claim to have been in?",
-        "answer": "Phoebe claims to have been in Thigh Mega Tampon sorority, however this is likely a joke and not accurate, the answer to the first part of the question is still Rachel."
+        "merged_question": "Generated Multi-hop Question: Who walks in Joey's apartment when Phoebe is talking to Rachel's friend about the sorority she was in?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "What is Phoebe drinking when she is out with Rachel and her friend?",
         "Answer_2": "A martini.",
-        "merged_question": "What is Rachel drinking when she walks in Joey's apartment?",
-        "answer": "A martini."
+        "merged_question": "Who walks in Joey's apartment when Phoebe is drinking a martini with Rachel and her friend?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "Where are Phoebe and Rachel when they are with a new friend?",
         "Answer_2": "A restaurant. ",
-        "merged_question": "Where are Phoebe and Rachel when they are with a new friend, and Rachel walks in on Phoebe and Joey playing chess?",
-        "answer": "A restaurant."
+        "merged_question": "Generated Multi-hop Question: Who walks in Joey's apartment when Phoebe and Rachel are with a new friend?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "Why does Rachel look at Phoebe after she speaks?",
         "Answer_2": "Rachel is annoyed Melissa denied what happened.",
-        "merged_question": "Generated Multi-hop Question: Why is Rachel annoyed when she walks into Joey's apartment?",
-        "answer": "Rachel is annoyed because Melissa denied what happened."
+        "merged_question": "Why does Rachel walk into Joey's apartment when Phoebe and Joey are playing chess?",
+        "answer": "Rachel is annoyed Melissa denied what happened."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "What did Phoebe really think happened after Rachel claimed she kissed Melissa for several minutes?",
         "Answer_2": "Phoebe thinks Rachel had a couple of spritzers and a quick peck on the cheek.",
-        "merged_question": "What was Rachel doing when Phoebe thought she had a couple of spritzers and a quick peck on the cheek?",
-        "answer": "Playing chess with Joey in Joey's apartment."
+        "merged_question": "Generated Multi-hop Question: What does Rachel do after walking in on Joey and Phoebe playing chess, based on Phoebe's actual account of the situation?",
+        "answer": "Rachel has a couple of spritzers and a quick peck on the cheek."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "What game is on the counter in between Joey and Phoebe when Rachel walks past them?",
         "Answer_2": "Chess",
-        "merged_question": "What is the name of the person who walks in on Joey and Phoebe while they are playing the game that is on the counter in between them?",
+        "merged_question": "Who walks in Joey's apartment when they are playing the game on the counter?",
         "answer": "Rachel."
     },
     {
@@ -268,7 +268,7 @@
         "Answer_1": "Rachel",
         "Question_2": "How did Rachel respond when Monica said she may have to sit at the bar?",
         "Answer_2": "She said that is not a problem.",
-        "merged_question": "How did Rachel respond when she walked in on Joey and Phoebe playing chess in his apartment?",
+        "merged_question": "How did Rachel respond when she walked in on Joey and Phoebe playing chess at his apartment?",
         "answer": "She said that is not a problem."
     },
     {
@@ -276,23 +276,23 @@
         "Answer_1": "Rachel",
         "Question_2": "Why Melissa laugh and said when Rachel told sorry?",
         "Answer_2": "Because it was funny and Melissa said not to be worry.",
-        "merged_question": "Generated Multi-hop Question: Why did Melissa laugh and say not to be worried when Rachel walked in on Phoebe and Joey playing chess in her apartment?",
-        "answer": "Because it was funny."
+        "merged_question": "Why did Melissa laugh when Rachel walked into Joey's apartment?",
+        "answer": "Because it was funny and Melissa said not to be worry."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "What did Melissa do after thinking Rachel was admitting to loving of her?",
         "Answer_2": "tried to kiss her",
-        "merged_question": "What was Rachel's reaction when she thought Phoebe was going to kiss her?",
-        "answer": "None, (Note: It's actually Melissa who tried to kiss Rachel, not Phoebe. However, based on the information given in Q1/A1 and Q2/A2, the correct answer is that there is no reaction from Rachel as she was not thinking about kissing Phoebe in the scenario described in Q1/A1.)"
+        "merged_question": "What was Rachel's reaction when Melissa tried to kiss her?",
+        "answer": "Rachel walked in on Phoebe and Joey playing chess in Joey's apartment."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "What did Melissa do after she thought Rachel was being shy?",
         "Answer_2": "touches her hair",
-        "merged_question": "What did Melissa do when she thought Rachel was shy while Rachel walked into Joey's apartment to see Phoebe and Joey playing chess?",
+        "merged_question": "What did Melissa do after she thought Rachel was being shy when she walked in on Phoebe and Joey playing chess in Joey's apartment?",
         "answer": "touches her hair."
     },
     {
@@ -300,7 +300,7 @@
         "Answer_1": "Monica",
         "Question_2": "How did Rachel get into Chandler and Monica's room after they got comfortable in bed",
         "Answer_2": "Rachel came through the adjoining door",
-        "merged_question": "How did Rachel get into the room where Chandler grabbed Monica by the arm after talking to Phoebe's boyfriend?",
+        "merged_question": "Generated Multi-hop Question: How did Rachel get into the room where Chandler grabbed Monica by the arm after talking to Phoebe's boyfriend?",
         "answer": "Rachel came through the adjoining door."
     },
     {
@@ -308,7 +308,7 @@
         "Answer_1": "Monica",
         "Question_2": "Why doesn't Phoebe think it matters that she loves Mike when Monica tells her David is about to propose?",
         "Answer_2": "Mike doesn't want to marry her.",
-        "merged_question": "Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend?",
+        "merged_question": "Why does Chandler grab Monica by the arm after talking to Phoebe's boyfriend?",
         "answer": "Because Phoebe's boyfriend (Mike) doesn't want to marry Phoebe."
     },
     {
@@ -316,7 +316,7 @@
         "Answer_1": "Monica",
         "Question_2": "Why does Monica say that Chandler gave David bad advice when she is talking to Phoebe?",
         "Answer_2": "Chandler suggested that David propose, but Phoebe is in love with someone else",
-        "merged_question": "Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend David?",
+        "merged_question": "Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend?",
         "answer": "Chandler suggested that David propose, but Phoebe is in love with someone else."
     },
     {
@@ -324,47 +324,47 @@
         "Answer_1": "Monica",
         "Question_2": "How do Rachel and Monica react after Chandler reminds them about Ross's speech?",
         "Answer_2": "Rachel and Monica are disappointed they can't go to the pool.",
-        "merged_question": "Why was Chandler grabbing Monica's arm after talking to Phoebe's boyfriend?",
-        "answer": "Because Chandler reminded Rachel and Monica about Ross's speech."
+        "merged_question": "What did Chandler remind Rachel and Monica about after grabbing Monica by the arm near Phoebe's boyfriend?",
+        "answer": "Ross's speech."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What was Phoebe doing before Monica pulled her off to the side.",
         "Answer_2": "She was having a drink with Rachel.",
-        "merged_question": "Who did Chandler grab by the arm after talking to the person Phoebe was having a drink with?",
-        "answer": "Rachel."
+        "merged_question": "Who was Chandler talking to in the scene before grabbing Monica by the arm, after the person had stopped having a drink with Rachel?",
+        "answer": "Phoebe's boyfriend."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "How does Monica try to fix the situation after she finds out Phoebe is going to say \"yes\" to David?",
         "Answer_2": "Monica calls Mike",
-        "merged_question": "After finding out Phoebe is going to say \"yes\" to David, who does Monica call to try and fix the situation, and then who does Chandler grab by the arm?",
-        "answer": "Mike, then Monica."
+        "merged_question": "After grabbing Monica by the arm, what does Chandler do next, which ultimately leads to Monica calling Mike?",
+        "answer": "The question does not provide a clear answer for this scenario. However, it can be inferred that after grabbing Monica by the arm, Chandler likely talked to her about Phoebe's boyfriend and the situation with Phoebe and David, which led to Monica calling Mike to fix the situation."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What color shirt is Chandler wearing when he is sitting next to Monica?",
         "Answer_2": "Red. ",
-        "merged_question": "What color shirt was Chandler wearing when he grabbed Monica by the arm after talking to Phoebe's boyfriend?",
-        "answer": "Red."
+        "merged_question": "What action did Chandler take immediately after talking to Phoebe's boyfriend, and what color shirt was Chandler wearing at that time?",
+        "answer": "Chandler grabbed Monica by the arm, and he was wearing a red shirt."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What does Monica say is her sickness after Chandler asks her to stop playing Ping-Pong?",
         "Answer_2": "Monica says her sickness is being too competitive.",
-        "merged_question": "Generated Multi-hop Question: Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend?",
-        "answer": "Chandler grabbed Monica by the arm because she was being too competitive."
+        "merged_question": "Generated Multi-hop Question: Why did Chandler grab Monica by the arm after she was playing Ping-Pong?",
+        "answer": "Monica says her sickness is being too competitive."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What does Monica do after knocking Chandler on the floor?",
         "Answer_2": "Keep playing",
-        "merged_question": "What does Monica do after knocking Chandler on the floor, which happened after Chandler grabbed her by the arm after talking to Phoebe's boyfriend?",
+        "merged_question": "What did Monica do after Chandler grabbed her by the arm after talking to Phoebe's boyfriend and then knocked Chandler on the floor?",
         "answer": "Keep playing."
     },
     {
@@ -372,23 +372,23 @@
         "Answer_1": "Monica",
         "Question_2": "What did Monica do when Rachel giggled?",
         "Answer_2": "smiled",
-        "merged_question": "What was Chandler's reaction after talking to Phoebe's boyfriend, and what happened immediately after that reaction?",
-        "answer": "Chandler grabbed Monica by the arm, and then Monica smiled."
+        "merged_question": "What did Chandler do in response to hearing Rachel giggle?",
+        "answer": "He smiled."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "Where did Phoebe get the quarter from when Monica asked for it?",
         "Answer_2": "Out of her bra.",
-        "merged_question": "Where was the quarter that Phoebe got out of her bra that Monica asked for, when Chandler grabbed Monica by the arm after talking to Phoebe's boyfriend?",
-        "answer": "Phoebe's bra."
+        "merged_question": "After talking to Phoebe's boyfriend, why did Chandler grab Monica by the arm?",
+        "answer": "Because Monica asked Phoebe for a quarter, which Phoebe retrieved from her bra."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What was Chandler doing when Monica asked everyone what they were going to do today?",
         "Answer_2": "Had his hands in his pocket",
-        "merged_question": "What was Chandler doing when Monica, whom he had grabbed by the arm after talking to Phoebe's boyfriend, asked everyone what they were going to do today?",
+        "merged_question": "What was Chandler doing when he grabbed Monica by the arm after talking to Phoebe's boyfriend?",
         "answer": "Had his hands in his pocket."
     },
     {
@@ -396,15 +396,15 @@
         "Answer_1": "Monica",
         "Question_2": "Why does Monica think Phoebe should be upset when David is going propose?",
         "Answer_2": "Phoebe is in love with Mike",
-        "merged_question": "Generated Multi-hop Question: Why did Monica think Phoebe should be upset when David was going to propose?",
-        "answer": "Phoebe is in love with Mike."
+        "merged_question": "Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend?",
+        "answer": "Chandler grabbed Monica by the arm after talking to Phoebe's boyfriend because Phoebe is in love with Mike, and David is going to propose to her."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "Why is Monica surprised when she watches Chandler play ping pong?",
         "Answer_2": "Monica didn't realize Chandler was good at ping pong",
-        "merged_question": "Why is Monica surprised when she watches Chandler play ping pong after he grabbed her by the arm after talking to Phoebe's boyfriend?",
+        "merged_question": "Generated Multi-hop Question: Why is Monica surprised when she watches Chandler play ping pong after he grabbed her by the arm after talking to Phoebe's boyfriend?",
         "answer": "Monica didn't realize Chandler was good at ping pong."
     },
     {
@@ -412,7 +412,7 @@
         "Answer_1": "Monica",
         "Question_2": "Why is Monica's hair so puffy when she is in the restaurant?",
         "Answer_2": "The humidity",
-        "merged_question": "Why was Monica's hair so puffy when Chandler grabbed her by the arm after talking to Phoebe's boyfriend in the restaurant?",
+        "merged_question": "Why was Monica's hair so puffy when Chandler grabbed her by the arm after talking to Phoebe's boyfriend?",
         "answer": "The humidity."
     },
     {
@@ -420,23 +420,23 @@
         "Answer_1": "Monica",
         "Question_2": "What color cup was Pheobe's boyfriend holding after talking to Monica?",
         "Answer_2": "Pheobe's boyfriend was holding a blue cup",
-        "merged_question": "What color cup was Chandler holding after talking to Phoebe's boyfriend?",
-        "answer": "Blue."
+        "merged_question": "What color cup was Monica holding after talking to Phoebe's boyfriend?",
+        "answer": "Blue cup"
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What is one of the things Monica did when she last played Ping-Pong?",
         "Answer_2": "Monica punched Chandler and Phoebe.",
-        "merged_question": "What did Chandler experience from Phoebe's boyfriend after talking to him, considering what Monica did when she last played Ping-Pong with Chandler and Phoebe?",
-        "answer": "He was punched."
+        "merged_question": "Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend?",
+        "answer": "Monica had previously punched Chandler and Phoebe, suggesting a history of conflict between Monica and Chandler."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What does Monica hold when they are standing in the lobby? ",
         "Answer_2": "Luggage. ",
-        "merged_question": "What was Chandler grabbing from Monica when they were standing in the lobby?",
+        "merged_question": "What was Chandler holding when he grabbed Monica by the arm after talking to Phoebe's boyfriend, and they were both standing in the lobby?",
         "answer": "Luggage."
     },
     {
@@ -444,7 +444,7 @@
         "Answer_1": "Monica",
         "Question_2": "What did Rachel do when she came to Monica and Chandler bedroom ?",
         "Answer_2": "Rachel ran to the window and pulled the curtain",
-        "merged_question": "What did Rachel do when she came to Monica's room, where Chandler had grabbed her by the arm after talking to Phoebe's boyfriend?",
+        "merged_question": "Generated Multi-hop Question: What did Rachel do when she came to Monica's room after Chandler grabbed Monica by the arm after talking to Phoebe's boyfriend?",
         "answer": "Rachel ran to the window and pulled the curtain."
     },
     {
@@ -468,15 +468,15 @@
         "Answer_1": "Monica",
         "Question_2": "What does Monica do after Phoebe asks Chandler if he's turned on right now?",
         "Answer_2": "She sniffs her arm pit. ",
-        "merged_question": "What action does Chandler take immediately after Phoebe asks him if he's turned on right now?",
-        "answer": "Grab Monica by the arm."
+        "merged_question": "What does Chandler do immediately after Phoebe asks him if he's turned on right now?",
+        "answer": "He grabs Monica by the arm."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "Who ran into Chandler and Monica's room after they said they could stay in the bed all day",
         "Answer_2": "Rachel ran into their room",
-        "merged_question": "Who did Rachel run into in the room that Chandler grabbed by the arm after talking to Phoebe's boyfriend?",
+        "merged_question": "Who grabbed the arm of the person who ran into Chandler and Monica's room after they said they could stay in the bed all day?",
         "answer": "Monica."
     },
     {
@@ -484,7 +484,7 @@
         "Answer_1": "Monica",
         "Question_2": "What was behind Chandler when he was talking to Monica about how competitive she gets?",
         "Answer_2": "A bouquet of flowers",
-        "merged_question": "What was behind Chandler when he was talking to Monica about how competitive she gets after talking to Phoebe's boyfriend?",
+        "merged_question": "What was behind Chandler when he was talking to Phoebe's boyfriend's girlfriend about how competitive she gets?",
         "answer": "A bouquet of flowers."
     },
     {
@@ -492,7 +492,7 @@
         "Answer_1": "Monica",
         "Question_2": "What color shirt was Chanler wearing before Monica started talking to Pheobe's boyfriend?",
         "Answer_2": "Chanler is wearing a red shirt",
-        "merged_question": "What action did Chandler take after wearing a red shirt and before talking to Phoebe's boyfriend?",
+        "merged_question": "Generated Multi-hop Question: What action did Chandler take after wearing a red shirt and before Phoebe's boyfriend started talking to Monica?",
         "answer": "Grabbed Monica by the arm."
     },
     {
@@ -508,7 +508,7 @@
         "Answer_1": "Monica",
         "Question_2": "What color is the shirt that Monica is wearing when she say's \"I guess in ten year's\"?",
         "Answer_2": "White",
-        "merged_question": "What was the color of Monica's shirt when Chandler grabbed her by the arm after talking to Phoebe's boyfriend?",
+        "merged_question": "Generated Multi-hop Question: What color is the shirt that Chandler's girlfriend was wearing when he grabbed her by the arm after talking to Phoebe's boyfriend?",
         "answer": "White."
     },
     {
@@ -516,16 +516,16 @@
         "Answer_1": "Monica",
         "Question_2": "What is Monica carrying when she tells Phoebe that David is planning to propose?",
         "Answer_2": "A fruity drink",
-        "merged_question": "Generated Multi-hop Question: What was Chandler grabbing Monica with when she told Phoebe that David was planning to propose?",
-        "answer": "A fruity drink."
+        "merged_question": "What was Chandler grabbing onto after talking to Phoebe's boyfriend, who was about to propose to Monica?",
+        "answer": "Monica's arm."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What does Phoebe compare watching the game to when she and Monica are watching it?",
         "Answer_2": "Porn",
-        "merged_question": "Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend?",
-        "answer": "Because Phoebe compared watching the game to porn, implying it was an intense or uncomfortable experience, prompting Chandler to intervene."
+        "merged_question": "Generated Multi-hop Question: Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend, and what was Phoebe's comparison to watching the game with Monica?",
+        "answer": "Chandler grabbed Monica by the arm after talking to Phoebe's boyfriend because he was upset, and Phoebe compared watching the game with Monica to watching \"porn\" because it was so boring."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
@@ -533,22 +533,22 @@
         "Question_2": "Why does Ross say Monica's name before he leaves the room?",
         "Answer_2": "Ross says Monica's name because her hair looks unusual.",
         "merged_question": "Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend?",
-        "answer": "The question does not directly relate to the information given in A2. However, we can infer that the reason for Chandler grabbing Monica by the arm might be related to the unusual hair style. But since there is no information in A1 that suggests the hair style, we can say that the multihop question generated does not have a direct answer based on the information provided."
+        "answer": "This question requires more information than what is provided. However, based on the context of the question, one possible answer is that Ross said Monica's name because her hair looked unusual, and Chandler overheard this and grabbed her by the arm."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What does Monica do after she grabs Phoebe in the coffee house?",
         "Answer_2": "She walks out the door with her. ",
-        "merged_question": "What does Chandler do after talking to Phoebe's boyfriend in the coffee house?",
-        "answer": "He walks out the door with Monica."
+        "merged_question": "What does Chandler do with Phoebe after talking to her boyfriend?",
+        "answer": "He walks out the door with her."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "How long does Monica say that David and Phoebe have been going out when she's discussing the relationship with Chandler? ",
         "Answer_2": "Monica says they've only been going out for a few weeks. ",
-        "merged_question": "How long had Phoebe's boyfriend been dating her when Chandler grabbed Monica by the arm?",
+        "merged_question": "How long had Phoebe's boyfriend, David, been dating Phoebe when Chandler grabbed Monica by the arm?",
         "answer": "A few weeks."
     },
     {
@@ -556,8 +556,8 @@
         "Answer_1": "Monica",
         "Question_2": "When did Chandler say it is hard to take Monica seriously after Monica said Phoebe is in love with Mike?",
         "Answer_2": "when she looks like that",
-        "merged_question": "Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend, considering that he often finds it hard to take Monica seriously when she looks a certain way?",
-        "answer": "Because Monica looks like that."
+        "merged_question": "What makes it hard for Chandler to take Monica seriously, as he mentioned after talking to Phoebe's boyfriend?",
+        "answer": "when she looks like that."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
@@ -572,7 +572,7 @@
         "Answer_1": "Monica",
         "Question_2": "Why is Rachel upset when Phoebe and Monica are talking about what hotel rooms they want?",
         "Answer_2": "Rachel is there alone",
-        "merged_question": "Why is Rachel upset when Chandler grabs Monica by the arm after talking to Phoebe's boyfriend?",
+        "merged_question": "Why is Rachel upset when Phoebe and Chandler's girlfriend are talking about what hotel rooms they want?",
         "answer": "Rachel is there alone."
     },
     {
@@ -588,8 +588,8 @@
         "Answer_1": "Monica",
         "Question_2": "Why did Rachel come into Chandler and Monica room after they got comfortable",
         "Answer_2": "to show them the sun was out",
-        "merged_question": "After seeing the sun was out, what did Rachel interrupt Chandler and Monica doing in their room?",
-        "answer": "Monica."
+        "merged_question": "Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend, considering that Rachel came into their room after they got comfortable to show them the sun was out?",
+        "answer": "Since Rachel came into their room after they got comfortable to show them the sun was out, Chandler grabbed Monica by the arm likely because he wanted to get up and see the sun with her."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
@@ -597,14 +597,14 @@
         "Question_2": "Why does Phoebe ask Monica if she is leaving the Supremes when they are at the resort?",
         "Answer_2": "Her hair is wild and frizzy",
         "merged_question": "Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend at the resort?",
-        "answer": "Because Monica's hair is wild and frizzy."
+        "answer": "Because her hair was wild and frizzy."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "How does Phoebe trash talk Monica when Mike is playing against her?",
         "Answer_2": "She tells him to knock that dog off of her head. ",
-        "merged_question": "How does Phoebe trash talk Monica when Mike is playing golf against her, specifically after Chandler grabs Monica by the arm?",
+        "merged_question": "How does Phoebe trash talk Monica when Mike is playing golf against her, after Chandler grabbed Monica by the arm?",
         "answer": "She tells him to knock that dog off of her head."
     },
     {
@@ -612,23 +612,23 @@
         "Answer_1": "Monica",
         "Question_2": "Where was Monica when she was watching TV?",
         "Answer_2": "Sitting on the bed.",
-        "merged_question": "Where was Chandler when he grabbed Monica by the arm after talking to Phoebe's boyfriend, if Monica was sitting on the bed while watching TV?",
-        "answer": "The bed."
+        "merged_question": "Where was Monica sitting when Chandler grabbed her by the arm after talking to Phoebe's boyfriend?",
+        "answer": "Sitting on the bed."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "How does Monica hurt herself after she finishes her argument with Chandler?",
         "Answer_2": "Monica hurts herself by hitting the table when she swings at the ball.",
-        "merged_question": "Generated Multi-hop Question: What action led to Monica hurting herself after she finished arguing with Chandler?",
-        "answer": "Monica hurt herself after she swung at the ball."
+        "merged_question": "How does Monica hurt herself after she finishes her argument with Phoebe's boyfriend?",
+        "answer": "Monica hurts herself by hitting the table when she swings at the ball."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "Why does Monica interrupt when she is congratulating Chandler?",
         "Answer_2": "Monica calls Mike a loser",
-        "merged_question": "Generated Multi-hop Question: Why did Monica interrupt when congratulating Chandler after he grabbed her by the arm?",
+        "merged_question": "Why does Monica interrupt when she is congratulating Chandler after he grabbed her by the arm after talking to Phoebe's boyfriend Mike?",
         "answer": "Monica calls Mike a loser."
     },
     {
@@ -636,39 +636,39 @@
         "Answer_1": "Monica",
         "Question_2": "Where did Monica say she was going after talking to Chanler?",
         "Answer_2": "Monica said she was going to pick up a few things for the trip",
-        "merged_question": "Where was Monica going to pick up a few things for the trip after Chandler grabbed her by the arm after talking to Phoebe's boyfriend?",
-        "answer": "The trip."
+        "merged_question": "Where was Monica going after Chandler grabbed her by the arm after talking to Phoebe's boyfriend?",
+        "answer": "To pick up a few things for the trip."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What did David set down before Monica said she was trying to explain something?",
         "Answer_2": "A coffe cup",
-        "merged_question": "What was Monica trying to explain to Chandler when she was holding the arm he had grabbed after talking to Phoebe's boyfriend, and what was on the table in front of her before she started explaining?",
-        "answer": "The answer cannot be directly derived from the given information. However, a plausible answer can be inferred based on the context of the scenario. Given the information, it is likely that Monica was trying to explain something related to Phoebe's boyfriend, possibly their relationship issues. However, the exact nature of the explanation and what was on the table in front of her cannot be determined from the provided information.\n\nHowever, if we rephrase the multihop question, the answer can be derived as follows:\n\nGenerated Multihop Question: What was on the table in front of Monica when she was trying to explain something to Chandler, who had grabbed her arm after talking to Phoebe's boyfriend?\nAns: A coffe cup."
+        "merged_question": "What did David set down before Monica said she was trying to explain something to Chandler after he grabbed her by the arm after talking to Phoebe's boyfriend?",
+        "answer": "A coffe cup."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What does Chandler say that shocks Monica when they're sitting on the couch? ",
         "Answer_2": "Chandler says that David's going to propose to Phoebe. ",
-        "merged_question": "What is the reason Chandler grabs Monica by the arm after talking to Phoebe's boyfriend?",
-        "answer": "Chandler says that David's going to propose to Phoebe."
+        "merged_question": "What is the reaction of the person that Chandler grabbed by the arm after talking to Phoebe's boyfriend when Chandler reveals that David is going to propose to Phoebe?",
+        "answer": "Monica."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "Who did Monica say that it was clear that Phoebe is in love with after saying she couldn't believe Phoebe was going to say yes to David?",
         "Answer_2": "Mike",
-        "merged_question": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend who Phoebe said it was clear she was in love with?",
-        "answer": "Mike."
+        "merged_question": "Generated Multi-hop Question: After talking to Phoebe's boyfriend, who did Chandler grab by the arm, and what did Monica say it was clear Phoebe is in love with?",
+        "answer": "Monica, Mike."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "Who was with Monica when she was watching Chandler play ping pong?",
         "Answer_2": "Phoebe.",
-        "merged_question": "Who was with Monica when Chandler grabbed her by the arm after talking to her friend's boyfriend?",
+        "merged_question": "Who was Chandler grabbing by the arm after talking to Phoebe's boyfriend's companion?",
         "answer": "Phoebe."
     },
     {
@@ -676,7 +676,7 @@
         "Answer_1": "Monica",
         "Question_2": "How many people walked behind Chandler after he calls Monica \"honey?\" ",
         "Answer_2": "Two ",
-        "merged_question": "Who walked behind Chandler after he called Monica \"honey\"?",
+        "merged_question": "Who walked behind Chandler after he called Monica \"honey\" and grabbed her by the arm after talking to Phoebe's boyfriend?",
         "answer": "Monica."
     },
     {
@@ -684,63 +684,63 @@
         "Answer_1": "Monica",
         "Question_2": "Who cheers Mike on before he plays ping pong against Monica?",
         "Answer_2": "Phoebe",
-        "merged_question": "Who cheers Chandler on before he plays ping pong against Monica?",
-        "answer": "Phoebe."
+        "merged_question": "Who does Phoebe cheer on before he plays ping pong against Monica, and then grabs Monica by the arm afterwards?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What does the sign behind Phoebe say when she tells Monica she's sorry?",
         "Answer_2": "Do No Enter.",
-        "merged_question": "Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend?",
-        "answer": "Because Phoebe told Monica to \"Do No Enter\"."
+        "merged_question": "Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend who was standing behind the \"Do No Enter\" sign?",
+        "answer": "Because Phoebe's boyfriend was standing behind the \"Do No Enter\" sign."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What else does Monica do when she is wiping the sweat off her forehead?",
         "Answer_2": "Sniff her armpit",
-        "merged_question": "What does Chandler usually do when he is wiping the sweat off his forehead after grabbing someone by the arm after talking to Phoebe's boyfriend?",
-        "answer": "Sniff their armpit."
+        "merged_question": "Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend?",
+        "answer": "Because Chandler noticed Monica was about to sniff her armpit."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "Where does Chandler land after Monica knocks him down?",
         "Answer_2": "On the floor",
-        "merged_question": "After Chandler grabbed Monica by the arm, what happened to him as a result of their interaction?",
-        "answer": "He landed on the floor."
+        "merged_question": "Where does Chandler land after talking to Phoebe's boyfriend and Monica knocks him down?",
+        "answer": "On the floor."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What sport are Mike and Monica playing when Chandler and Phoebe are watching them?",
         "Answer_2": "table tennis",
-        "merged_question": "Who was Chandler grabbing by the arm after watching Mike and Monica play a game of table tennis?",
-        "answer": "Monica."
+        "merged_question": "What sport were Chandler and Phoebe watching when Chandler grabbed Monica by the arm after talking to Phoebe's boyfriend?",
+        "answer": "Table Tennis."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What is Chandler doing when Rachel and Monica are planning their pool trip?",
         "Answer_2": "Chandler just woke up.",
-        "merged_question": "What was Chandler doing immediately before waking up while Rachel and Monica were planning their pool trip?",
-        "answer": "Talking to Phoebe's boyfriend."
+        "merged_question": "What was Chandler doing when he grabbed Monica by the arm after talking to Phoebe's boyfriend?",
+        "answer": "Chandler just woke up."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "Where is the motorcycle when Phoebe pointed to Monica?",
         "Answer_2": "Behind Phoebe.",
-        "merged_question": "After talking to Phoebe's boyfriend, Chandler grabbed Monica by the arm and she was standing behind what?",
-        "answer": "Motorcycle."
+        "merged_question": "Where was the motorcycle when Chandler grabbed Monica by the arm after talking to Phoebe's boyfriend?",
+        "answer": "Behind Phoebe."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What color hat is Monica wearing when she is standing next to Rachel?",
         "Answer_2": "White. ",
-        "merged_question": "What color hat is Monica wearing when she is standing next to the person Chandler grabbed by the arm after talking to Phoebe's boyfriend?",
+        "merged_question": "What color hat is Monica wearing when Chandler grabs her by the arm after talking to Phoebe's boyfriend?",
         "answer": "White."
     },
     {
@@ -748,39 +748,39 @@
         "Answer_1": "Monica",
         "Question_2": "What was Monica and the man in purple doing when the blonde lady cheered them up?",
         "Answer_2": "They were playing table tennis",
-        "merged_question": "What was Chandler doing with Monica after talking to Phoebe's boyfriend when they were being cheered up by the blonde lady?",
-        "answer": "They were playing table tennis."
+        "merged_question": "Who was Chandler grabbing by the arm after talking to Phoebe's boyfriend, who was then cheered up by a blonde lady while playing a game with Monica?",
+        "answer": "Monica."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "Why aren't Rachel and Monica at the beach when they meet up with Ross and Charlie?",
         "Answer_2": "It's raining",
-        "merged_question": "Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend?",
-        "answer": "It was likely because he wanted to tell her something urgent, or perhaps something about Phoebe's boyfriend's situation that he thought Monica should know, but the specific reason is not provided in the given information."
+        "merged_question": "Generated Multi-hop Question: Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend?",
+        "answer": "It was raining.\n\nExplanation: The generated question requires the test-taker to make connections between the information in Q1/A1 and Q2/A2. By merging Q2 in Q1 at a relevant point, the test-taker needs to infer that Chandler grabbing Monica by the arm is likely due to the rainy weather, as this is the reason given for Rachel and Monica not being at the beach. This requires intermediate to advanced multihop reasoning skills."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What does Monica do when Chandler walks into the hotel room?",
         "Answer_2": "She puts the phone down. ",
-        "merged_question": "What was Chandler talking to Phoebe's boyfriend about when he grabbed Monica by the arm after she put the phone down?",
-        "answer": "The question does not provide enough information to determine what Chandler was talking to Phoebe's boyfriend about. However, we can infer that it was likely something related to the phone call that Monica was on, which Chandler interrupted by grabbing her arm."
+        "merged_question": "What was Monica doing when Chandler walked into the hotel room after talking to Phoebe's boyfriend?",
+        "answer": "She was on the phone."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What was Monica holding when Phoebe said I love David?",
         "Answer_2": "A fruity drink.",
-        "merged_question": "What was Chandler grabbing from Monica's hand after talking to Phoebe's boyfriend, just after Phoebe said 'I love David'?",
-        "answer": "A fruity drink."
+        "merged_question": "Generated Multi-hop Question: What was Chandler grabbing from Phoebe when she said 'I love David', who was holding a fruity drink?",
+        "answer": "Monica."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "What game was Monica and Mike about to play when they were betting?",
         "Answer_2": "Table Tennis.",
-        "merged_question": "What game was Monica about to play with Mike when Chandler grabbed her by the arm after talking to Phoebe's boyfriend?",
+        "merged_question": "What game was Monica about to play when Chandler grabbed her by the arm after talking to Phoebe's boyfriend?",
         "answer": "Table Tennis."
     },
     {
@@ -788,8 +788,8 @@
         "Answer_1": "Monica",
         "Question_2": "What is Monica saying is unfair when she and Phoebe walk in the room?",
         "Answer_2": "No beach because of rain",
-        "merged_question": "Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend?",
-        "answer": "Because Phoebe's boyfriend said there would be no beach due to rain."
+        "merged_question": "Generated Multi-hop Question: Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend?",
+        "answer": "Because Monica was upset that she and Phoebe wouldn't be going to the beach due to the rain."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
@@ -797,22 +797,22 @@
         "Question_2": "Why doesn't Monica want to be in a room next to Phoebe when they are checking into the hotel?",
         "Answer_2": "Phoebe asked for a very sexual room",
         "merged_question": "Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend?",
-        "answer": "Phoebe asked for a very sexual room."
+        "answer": "Because Phoebe asked for a very sexual room."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "Where did Pheobe say she was going after Monica said she was going to pick up a few things?",
         "Answer_2": "Pheobe said she was going to join Monica",
-        "merged_question": "Where was Phoebe going after Monica said she was going to pick up a few things, and who grabbed Monica by the arm after talking to Phoebe's boyfriend?",
-        "answer": "Phoebe said she was going to join Monica, and Monica."
+        "merged_question": "Where was Phoebe going after Chandler grabbed Monica by the arm, and what was Monica doing before Phoebe decided to join her?",
+        "answer": "Phoebe said she was going to join Monica, who was going to pick up a few things."
     },
     {
         "Question_1": "Who did Chandler grab by the arm after talking to Phoebe's boyfriend?",
         "Answer_1": "Monica",
         "Question_2": "How did Chandler say he can get rid of the I'm going to kill you look when Monica is mad?",
         "Answer_2": "kiss her",
-        "merged_question": "What did Chandler do to remove the \"I'm going to kill you\" look on Monica's face after talking to Phoebe's boyfriend?",
+        "merged_question": "What action did Chandler take after talking to Phoebe's boyfriend to prevent Monica from looking like she's going to kill him?",
         "answer": "Kiss her."
     },
     {
@@ -820,16 +820,16 @@
         "Answer_1": "Monica",
         "Question_2": "Why does Chandler say he doesn't want to play Ping-Pong after Monica suggests it?",
         "Answer_2": "Chandler says that Monica gets competitive.",
-        "merged_question": "Generated Multi-hop Question: Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend?",
-        "answer": "Chandler grabbed Monica by the arm after talking to Phoebe's boyfriend because he says she gets competitive."
+        "merged_question": "Why did Chandler grab Monica by the arm after talking to Phoebe's boyfriend?",
+        "answer": "Chandler grabbed Monica by the arm after talking to Phoebe's boyfriend because he was concerned that she would get competitive."
     },
     {
         "Question_1": "Who was laying on the bed when Monica and Chandler walked into the room?",
         "Answer_1": "Rachel",
         "Question_2": "Why did Ross want Rachel with him when he got on the plane? ",
         "Answer_2": "Ross said to Rachel he needed a friend. ",
-        "merged_question": "Generated Multi-hop Question: Why did Ross need a friend when he got on the plane, and who was he hoping would be that friend when he walked into the room with Monica and Chandler?",
-        "answer": "Ross said he needed a friend, and he was hoping Rachel would be that friend when he walked into the room with Monica and Chandler."
+        "merged_question": "Generated Multi-hop Question: Why did Ross want Rachel to be with him when he got on the plane, considering she was still lying on the bed when Monica and Chandler walked into the room?",
+        "answer": "Ross said to Rachel he needed a friend."
     },
     {
         "Question_1": "Who was laying on the bed when Monica and Chandler walked into the room?",
@@ -837,14 +837,14 @@
         "Question_2": "Why was Ross disappointed when he was talking to Rachel?",
         "Answer_2": "Because his lady friend hadn't shown up to the airport",
         "merged_question": "Why was Ross disappointed when Monica and Chandler walked into the room?",
-        "answer": "Because his lady friend hadn't shown up to the airport."
+        "answer": "Because his lady friend hadn't shown up to the airport"
     },
     {
         "Question_1": "Who was laying on the bed when Monica and Chandler walked into the room?",
         "Answer_1": "Rachel",
         "Question_2": "Where does Chandler suggest he and Monica change when Rachel gets on the phone with Phoebe?",
         "Answer_2": "His room.",
-        "merged_question": "Who was on the phone with Phoebe when Monica and Chandler walked into the room?",
+        "merged_question": "Who was laying on the bed when Chandler and Monica walked into the room?",
         "answer": "Rachel."
     },
     {
@@ -852,7 +852,7 @@
         "Answer_1": "Rachel",
         "Question_2": "How does Ross react when Rachel stands up to talk to him?",
         "Answer_2": "Ross thinks things could be better.",
-        "merged_question": "How does Ross react when Rachel stands up to talk to him in the room where she was laying on the bed when Monica and Chandler walked in?",
+        "merged_question": "How does Ross react when Rachel stands up to talk to him in the room where Monica and Chandler found her laying on the bed?",
         "answer": "Ross thinks things could be better."
     },
     {
@@ -860,7 +860,7 @@
         "Answer_1": "Rachel",
         "Question_2": "Where would Rachel be when Ross was crying over his failed relationship? ",
         "Answer_2": "Rachel would be lying on the beach. ",
-        "merged_question": "Where would Monica and Chandler find Ross when he was crying over his failed relationship?",
+        "merged_question": "Where would Rachel be when Ross was crying over his failed relationship, and Monica and Chandler walked into the room?",
         "answer": "The beach."
     },
     {
@@ -868,15 +868,15 @@
         "Answer_1": "Rachel",
         "Question_2": "Why does Joey talk to Ross when Ross and Rachel are talking?",
         "Answer_2": "Joey tells Ross the band is ready for the first dance.",
-        "merged_question": "Why does Joey talk to Ross when Ross and Rachel are talking, and Monica and Chandler walk into the room?",
-        "answer": "Joey tells Ross the band is ready for the first dance.\n\nThis multihop question requires the test-taker to make connections between the information in Q1/A1 and Q2/A2. The question is engaging, fluent, and requires intermediate multihop reasoning."
+        "merged_question": "Why does Joey interrupt Ross when Ross and Rachel are talking in the room where Rachel was laying on the bed when Monica and Chandler walked in?",
+        "answer": "Joey tells Ross the band is ready for the first dance."
     },
     {
         "Question_1": "Who was laying on the bed when Monica and Chandler walked into the room?",
         "Answer_1": "Rachel",
         "Question_2": "What did Rachel think would be good for Ross after his girl didn't show? ",
         "Answer_2": "It would be good for Ross if he went on the trip anyway. ",
-        "merged_question": "What did Monica and Chandler think would be good for Ross after his girl didn't show?",
+        "merged_question": "What would be good for Ross when Monica and Chandler walked into the room where he was laying on the bed?",
         "answer": "It would be good for Ross if he went on the trip anyway."
     },
     {
@@ -884,7 +884,7 @@
         "Answer_1": "Rachel",
         "Question_2": "Where was Mrs. Geller before Rachel left Monica?",
         "Answer_2": "Behind Monica.",
-        "merged_question": "Who was behind Monica before Rachel left her?",
+        "merged_question": "Who was behind Monica before Rachel left the apartment?",
         "answer": "Mrs. Geller."
     },
     {
@@ -892,31 +892,31 @@
         "Answer_1": "Rachel",
         "Question_2": "Why is Monica so preoccupied when Rachel is trying to talk to her about Ross?",
         "Answer_2": "She is trying to sneak a moment with Chandler. ",
-        "merged_question": "Why is Rachel laying on the bed when Monica and Chandler walked into the room?",
-        "answer": "Monica is trying to sneak a moment with Chandler."
+        "merged_question": "Why is Rachel trying to talk to Monica about Ross when Monica is trying to sneak a moment with Chandler in the room?",
+        "answer": "Because she was laying on the bed when Monica and Chandler walked into the room."
     },
     {
         "Question_1": "Who was laying on the bed when Monica and Chandler walked into the room?",
         "Answer_1": "Rachel",
         "Question_2": "How was Rachel's reaction comical after Ross's offer? ",
         "Answer_2": "Rachel at first seemed reluctant and then suddenly interested. ",
-        "merged_question": "What was Rachel's initial reaction when Ross made his offer to her?",
-        "answer": "Rachel at first seemed reluctant."
+        "merged_question": "Generated Multi-hop Question: What was Rachel's reaction after Monica and Chandler walked into the room, and then Ross made his offer to her?",
+        "answer": "Rachel at first seemed reluctant and then suddenly interested."
     },
     {
         "Question_1": "Who was laying on the bed when Monica and Chandler walked into the room?",
         "Answer_1": "Rachel",
         "Question_2": "What was the gate number that was on the wall when Ross and Rachel were talking",
         "Answer_2": "Gate 23",
-        "merged_question": "When Monica and Chandler walked into the room, what was on the wall near Rachel, who was laying on the bed?",
-        "answer": "Gate 23."
+        "merged_question": "Generated Multi-hop Question: Who was laying on the bed when Ross and Rachel were talking.",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who was laying on the bed when Monica and Chandler walked into the room?",
         "Answer_1": "Rachel",
         "Question_2": "What does Rachel use after picking up her purse?",
         "Answer_2": "The phone.",
-        "merged_question": "What did Rachel use after picking up her purse in the room where Monica and Chandler found her?",
+        "merged_question": "What did Rachel use after picking up her purse in the room where Monica and Chandler found her laying on the bed?",
         "answer": "The phone."
     },
     {
@@ -924,7 +924,7 @@
         "Answer_1": "Rachel",
         "Question_2": "How long did Monica tell Rachel it would be before they will be down for drinks after Chandler said \"5 minutes\"?",
         "Answer_2": "15 minutes.",
-        "merged_question": "How long did it take for Rachel to hear Chandler say \"5 minutes\" before Monica and Chandler walked into the room where she was laying on the bed?",
+        "merged_question": "How long did Rachel have to wait before Monica and Chandler would be ready for drinks, after Chandler said \"5 minutes\" when they walked into the room where Rachel was laying on the bed?",
         "answer": "15 minutes."
     },
     {
@@ -932,7 +932,7 @@
         "Answer_1": "Rachel",
         "Question_2": "Where were Ross and Rachel when Ross asked if he was a complete idiot?",
         "Answer_2": "The airport terminal.",
-        "merged_question": "Who was Ross talking to at the airport terminal when he asked if he was a complete idiot?",
+        "merged_question": "Who was Ross asking if he was a complete idiot when he was in the airport terminal with?",
         "answer": "Rachel."
     },
     {
@@ -940,7 +940,7 @@
         "Answer_1": "Rachel",
         "Question_2": "What was Rachel doing at the airport before Ross invited her to go with him?",
         "Answer_2": "Waiting for her flight.",
-        "merged_question": "Generated Multi-hop Question: What was Rachel doing when Monica and Chandler walked into the room?",
+        "merged_question": "What was Rachel doing when Monica and Chandler walked into the room, given that she was waiting for her flight at the airport earlier?",
         "answer": "Waiting for her flight."
     },
     {
@@ -948,7 +948,7 @@
         "Answer_1": "Rachel",
         "Question_2": "What is the hotel room number that Rachel is in when Chandler and Monica are trying to leave?",
         "Answer_2": "609",
-        "merged_question": "What is the hotel room number that Rachel is in when Monica and Chandler walked into the room?",
+        "merged_question": "What hotel room number was Rachel in when Chandler and Monica walked into the room?",
         "answer": "609."
     },
     {
@@ -956,7 +956,7 @@
         "Answer_1": "Rachel",
         "Question_2": "Why did Rachel say she thought Ross should go to Athens alone after the last call for the flight was announced?",
         "Answer_2": "She thought he should get some distance and clear his head",
-        "merged_question": "Why did Rachel think Ross should go to Athens alone after Monica and Chandler walked into the room?",
+        "merged_question": "Generated Multi-hop Question: Why did Rachel want Ross to go to Athens alone after Monica and Chandler walked into the room?",
         "answer": "She thought he should get some distance and clear his head."
     },
     {
