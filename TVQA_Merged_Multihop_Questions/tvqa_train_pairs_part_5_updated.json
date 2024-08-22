@@ -2562,121 +2562,161 @@
         "Question_1": "Who is Phoebe sitting next to when Rachel tosses the coin?",
         "Answer_1": "Joey",
         "Question_2": "Why are things so awkward between Joey and Ross when Ross comes over?",
-        "Answer_2": "They napped together. "
+        "Answer_2": "They napped together. ",
+        "merged_question": "Why are things so awkward between Joey and Ross when Rachel tosses the coin, and Phoebe is sitting next to Joey?",
+        "answer": "They napped together."
     },
     {
         "Question_1": "Who is Phoebe sitting next to when Rachel tosses the coin?",
         "Answer_1": "Joey",
         "Question_2": "Who was standing behind Joey in a purple shirt when he asked why ten was the highest?",
-        "Answer_2": "Phoebe."
+        "Answer_2": "Phoebe.",
+        "merged_question": "Who was standing behind Joey when he asked why ten was the highest, and who was Joey sitting next to when Rachel tossed the coin?",
+        "answer": "Phoebe"
     },
     {
         "Question_1": "Who is Phoebe sitting next to when Rachel tosses the coin?",
         "Answer_1": "Joey",
         "Question_2": "Who is Rachel arguing with about being a maid of honor when Joey is also there?",
-        "Answer_2": "Phoebe."
+        "Answer_2": "Phoebe.",
+        "merged_question": "Who is Joey sitting next to when Rachel is arguing with Phoebe about being a maid of honor?",
+        "answer": "Phoebe."
     },
     {
         "Question_1": "Who was trying the salmon mousse when Monica was holding a wood spoon?",
         "Answer_1": "Joey",
         "Question_2": "Where was Chandler standing when Joey was eating?",
-        "Answer_2": "Chandler was standing behind and between Joey and Ross."
+        "Answer_2": "Chandler was standing behind and between Joey and Ross.",
+        "merged_question": "Who was standing behind and between Joey and Ross when Joey was eating?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who was trying the salmon mousse when Monica was holding a wood spoon?",
         "Answer_1": "Joey",
         "Question_2": "What does Joey do after Ross eats a piece of bread?",
-        "Answer_2": "Joey picks up a piece of bread. "
+        "Answer_2": "Joey picks up a piece of bread. ",
+        "merged_question": "What does Joey do after Ross eats a piece of bread, considering the situation where Monica was holding a wood spoon and Joey was trying the salmon mousse.",
+        "answer": "Joey picks up a piece of bread."
     },
     {
         "Question_1": "Who was trying the salmon mousse when Monica was holding a wood spoon?",
         "Answer_1": "Joey",
         "Question_2": "What was Joey holding in his had when he was stationary?",
-        "Answer_2": "Joey was holding a sandwitch."
+        "Answer_2": "Joey was holding a sandwitch.",
+        "merged_question": "What was Joey holding in his hand when he was stationary, which was the same time Monica was holding a wood spoon while trying the salmon mousse?",
+        "answer": "A sandwich."
     },
     {
         "Question_1": "Who was trying the salmon mousse when Monica was holding a wood spoon?",
         "Answer_1": "Joey",
         "Question_2": "Why did Joey not find Ross's inability to dirty talk to a girl a big deal when Ross told him about it?",
-        "Answer_2": "Joey felt Ross should just say what he wanted to to do with the girl."
+        "Answer_2": "Joey felt Ross should just say what he wanted to to do with the girl.",
+        "merged_question": "Why didn't Joey get upset when Monica was holding a wood spoon?",
+        "answer": "Joey felt Monica should just say what she wanted to do with the salmon mousse."
     },
     {
         "Question_1": "Who was trying the salmon mousse when Monica was holding a wood spoon?",
         "Answer_1": "Joey",
         "Question_2": "What did Chandler leaning on when Ross and Joey were speaking?",
-        "Answer_2": "Chandler was leaning on a wooden chair."
+        "Answer_2": "Chandler was leaning on a wooden chair.",
+        "merged_question": "Who was speaking with Ross while Chandler was leaning on a wooden chair?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who was trying the salmon mousse when Monica was holding a wood spoon?",
         "Answer_1": "Joey",
         "Question_2": "What did Joey tell Ross to tell him that he wants to caress before Ross told him to turn around?",
-        "Answer_2": "Butt"
+        "Answer_2": "Butt",
+        "merged_question": "What did Joey tell Ross to tell Monica to do to him before Ross told him to turn around?",
+        "answer": "caress his Butt."
     },
     {
         "Question_1": "Who was trying the salmon mousse when Monica was holding a wood spoon?",
         "Answer_1": "Joey",
         "Question_2": "What was behind Joey and Ross before Joey said something about lips?",
-        "Answer_2": "A chair."
+        "Answer_2": "A chair.",
+        "merged_question": "What was behind Joey when he was trying the salmon mousse that Monica was holding a wood spoon for?",
+        "answer": "A chair."
     },
     {
         "Question_1": "Who was trying the salmon mousse when Monica was holding a wood spoon?",
         "Answer_1": "Joey",
         "Question_2": "What did Joey do when Ross said I don't think so?",
-        "Answer_2": "He took a bite of food."
+        "Answer_2": "He took a bite of food.",
+        "merged_question": "What did Joey do when Ross said \"I don't think so\" while Monica was holding a wood spoon?",
+        "answer": "He took a bite of food."
     },
     {
         "Question_1": "Who was trying the salmon mousse when Monica was holding a wood spoon?",
         "Answer_1": "Joey",
         "Question_2": "What was Joey eating when he was practicing talking dirty with Ross?",
-        "Answer_2": "sandwich"
+        "Answer_2": "sandwich",
+        "merged_question": "What was Joey eating when he was practicing talking dirty with Ross and Monica was holding a wood spoon?",
+        "answer": "Sandwich"
     },
     {
         "Question_1": "Who was trying the salmon mousse when Monica was holding a wood spoon?",
         "Answer_1": "Joey",
         "Question_2": "What did Joey ask Ross after he got up?",
-        "Answer_2": "Joey asked Ross how it go with Celia"
+        "Answer_2": "Joey asked Ross how it go with Celia",
+        "merged_question": "What did Joey ask Ross after Joey got up from trying the salmon mousse when Monica was holding a wood spoon?",
+        "answer": "Joey asked Ross how it went with Celia."
     },
     {
         "Question_1": "Who was trying the salmon mousse when Monica was holding a wood spoon?",
         "Answer_1": "Joey",
         "Question_2": "What color is Joey's shirt when he is talking to Ross?",
-        "Answer_2": "Joey's shirt is black"
+        "Answer_2": "Joey's shirt is black",
+        "merged_question": "What color shirt was Joey wearing when he was trying the salmon mousse?",
+        "answer": "Joey's shirt was not mentioned in the context of the salmon mousse, however, we know that Joey was trying the salmon mousse and his shirt was black when he was talking to Ross."
     },
     {
         "Question_1": "Who was trying the salmon mousse when Monica was holding a wood spoon?",
         "Answer_1": "Joey",
         "Question_2": "What part of his body did Ross say he wanted to feel hot soft skin with when Joey was turned around?",
-        "Answer_2": "Lips"
+        "Answer_2": "Lips",
+        "merged_question": "Who was Ross wanting to feel hot, soft skin with when Joey was trying the salmon mousse that Monica was holding a wood spoon for?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who was trying the salmon mousse when Monica was holding a wood spoon?",
         "Answer_1": "Joey",
         "Question_2": "What was Ross doing when Joey was asking about Celia? ",
-        "Answer_2": "pouring coffee"
+        "Answer_2": "pouring coffee",
+        "merged_question": "Who was Joey asking about while Ross was pouring coffee?",
+        "answer": "Celia."
     },
     {
         "Question_1": "Who was trying the salmon mousse when Monica was holding a wood spoon?",
         "Answer_1": "Joey",
         "Question_2": "What did Chandler say in reaction when Ross and Joey slowly looked at him?",
-        "Answer_2": "Chandler said 'With?'"
+        "Answer_2": "Chandler said 'With?'",
+        "merged_question": "What was Joey trying when Chandler said 'With?'.",
+        "answer": "Salmon Mousse."
     },
     {
         "Question_1": "Who was trying the salmon mousse when Monica was holding a wood spoon?",
         "Answer_1": "Joey",
         "Question_2": "What did Ross tell Joey to do after Joey told him to say he wants to caress his butt?",
-        "Answer_2": "turn around"
+        "Answer_2": "turn around",
+        "merged_question": "What did Joey do after he was told to turn around by Ross?",
+        "answer": "Joey turned around."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "Where is Monica when Chandler leaves to find her?",
-        "Answer_2": "A casino."
+        "Answer_2": "A casino.",
+        "merged_question": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe, after Chandler has left to find her at the casino?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "Who does Chandler say Monica is talking to after Phoebe says it is so weird?",
-        "Answer_2": "Chandler says Monica is talking to Richard."
+        "Answer_2": "Chandler says Monica is talking to Richard.",
+        "merged_question": "Who does Chandler think Monica is talking to when he walks into the room where she is sitting with Phoebe?",
+        "answer": "Richard."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
