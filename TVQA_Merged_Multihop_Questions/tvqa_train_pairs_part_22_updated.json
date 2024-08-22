@@ -483,121 +483,161 @@
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "Why didn't House answer his phone when the team tried to call him?",
-        "Answer_2": "Because the team already texted House that they were doing something stupid."
+        "Answer_2": "Because the team already texted House that they were doing something stupid.",
+        "merged_question": "Why was Taub trying to call House when the team already knew he wouldn't answer due to their previous communication with him?",
+        "answer": "Because the team already texted House that they were doing something stupid."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "What does Taub do after House tells Kutner to do the nerve test?",
-        "Answer_2": "Taub takes a sip from his cup."
+        "Answer_2": "Taub takes a sip from his cup.",
+        "merged_question": "What does House tell Kutner to do after Taub tries to call him?",
+        "answer": "The nerve test."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "What does Dr. Wilson do when he says to Dr. House, death to monster trucks?",
-        "Answer_2": "He puts up his fist and holds it up for a moment.  "
+        "Answer_2": "He puts up his fist and holds it up for a moment.  ",
+        "merged_question": "What action did Dr. House expect Dr. Wilson to perform when he said 'death to monster trucks'?",
+        "answer": "He expected Dr. Wilson to put up his fist and hold it up for a moment."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "Where does House say Wilson's assistant said he was when House was looking for him?",
-        "Answer_2": "He says the assistant said Wilson was taking a walk."
+        "Answer_2": "He says the assistant said Wilson was taking a walk.",
+        "merged_question": "Why was Taub trying to call House when he was looking for Wilson?",
+        "answer": "Because House was looking for Wilson who was taking a walk."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "What medical determination did House make about Wilson's brother after he said his brother overreacted too?",
-        "Answer_2": "His glucose was normal"
+        "Answer_2": "His glucose was normal",
+        "merged_question": "What medical condition was House trying to diagnose when he called Wilson, given that House had previously made a medical determination about Wilson's brother, whose glucose was normal?",
+        "answer": "Since House was trying to call Wilson, it is likely that House was trying to ask Wilson about his brother's condition. Given that Wilson's brother's glucose was normal, House was probably trying to diagnose Wilson's brother for something else. However, the question does not provide enough information about Wilson's brother's condition, so we can only speculate that House was trying to diagnose Wilson's brother for a condition unrelated to low blood sugar."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "What was House staring at when he was standing in the hallway?",
-        "Answer_2": "The door to Wilson's office."
+        "Answer_2": "The door to Wilson's office.",
+        "merged_question": "Who was Taub trying to call when he dialed his phone, but House was standing in the hallway staring at the door to Wilson's office?",
+        "answer": "House."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "Where did Wilson say he would be tomorrow night after House looked at his appointment book",
-        "Answer_2": "Wilson is playing racquetball tomorrow night "
+        "Answer_2": "Wilson is playing racquetball tomorrow night ",
+        "merged_question": "Who was Taub trying to call when he dialed his phone, and where was he supposed to find him?",
+        "answer": "Taub was trying to call House, and he was supposed to find him playing racquetball tomorrow night."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "Who is House with when he is walking down the hospital hallway? ",
-        "Answer_2": "Wiolson"
+        "Answer_2": "Wiolson",
+        "merged_question": "Who is Taub trying to call when he dialed his phone, and House is walking with him?",
+        "answer": "House"
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "Who does Wilson say he is going to be with tomorrow night after House looked at his appointment book",
-        "Answer_2": "Wilson said he was going to be with Taub"
+        "Answer_2": "Wilson said he was going to be with Taub",
+        "merged_question": "Who was Wilson going to be with tomorrow night after House looked at his appointment book, as per Taub's phone call?",
+        "answer": "Taub."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "What did House toss to Taub when he rose up from laying down?",
-        "Answer_2": "House tossed a red ball to Taub."
+        "Answer_2": "House tossed a red ball to Taub.",
+        "merged_question": "Generated Multi-hop Question: What was House tossing to Taub when he rose up from laying down, in an attempt to get Taub's attention, who was trying to call him?",
+        "answer": "House tossed a red ball to Taub."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "Why does Wilson come to see House when he's watching Chase perform surgery?",
-        "Answer_2": "To admit that he overreacted"
+        "Answer_2": "To admit that he overreacted",
+        "merged_question": "Generated Multi-hop Question: Why does Wilson come to see House when he's watching Chase perform surgery, and what is House's reaction to this?",
+        "answer": "To admit that he overreacted, and House is likely listening."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "What is House wearing when him and Wilson walk out of the elevator alongside each other?",
-        "Answer_2": "House is wearing a backpack."
+        "Answer_2": "House is wearing a backpack.",
+        "merged_question": "Who was Taub trying to call when he dialed his phone, and at the same time, House and Wilson were walking out of the elevator alongside each other?",
+        "answer": "House."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "Where does Foreman say their new case came from when House arrives?",
-        "Answer_2": "Cameron brought it up from the ER"
+        "Answer_2": "Cameron brought it up from the ER",
+        "merged_question": "Who brought the new case from the ER where House was trying to reach Taub?",
+        "answer": "Cameron."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "Who walks up behind House when he is on the computer looking for something?",
-        "Answer_2": "Taub"
+        "Answer_2": "Taub",
+        "merged_question": "Who was walking behind House when he was trying to call?",
+        "answer": "House."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "Who did House say they found when he's telling the story of finding a man sleeping in the lobby of a building in Manhattan to Wilson?",
-        "Answer_2": "Wilson's brother"
+        "Answer_2": "Wilson's brother",
+        "merged_question": "Who was Taub trying to call when he dialed his phone, if House had found Wilson's brother sleeping in the lobby of a building in Manhattan?",
+        "answer": "House."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "What did House pull out of her suit jacket after taking food off of Wilson's plate?",
-        "Answer_2": "A fork."
+        "Answer_2": "A fork.",
+        "merged_question": "What did House pull out of his phone after taking a call from Taub?",
+        "answer": "A fork."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "What is Dr. House doing when he is talking to Wilson? ",
-        "Answer_2": "Eating lunch. "
+        "Answer_2": "Eating lunch. ",
+        "merged_question": "What was Taub trying to do when he was trying to call House, who was eating lunch at that time?",
+        "answer": "Taub was trying to call House while he was eating lunch."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "What does Dr. Wilson do after Dr. House ask why would someone choose that?",
-        "Answer_2": "He takes the straw out of his mouth to reach for something."
+        "Answer_2": "He takes the straw out of his mouth to reach for something.",
+        "merged_question": "Generated Multi-hop Question: Why did Dr. House ask Taub to call him back after Taub dialed his phone?",
+        "answer": "Because Dr. House wanted to know why someone would choose to have a straw in their mouth."
     },
     {
         "Question_1": "Who follows behind House after he leaves his patient's room?",
         "Answer_1": "Foreman",
         "Question_2": "Why does Foreman say they can't intubate the patient after Chase says that's what they have to do?",
-        "Answer_2": "The patient is DNR"
+        "Answer_2": "The patient is DNR",
+        "merged_question": "Why can't Foreman and Chase intubate the patient who is DNR?",
+        "answer": "The patient is DNR."
     },
     {
         "Question_1": "Who follows behind House after he leaves his patient's room?",
         "Answer_1": "Foreman",
         "Question_2": "What is Foreman carrying in his hand when walking into House's office?",
-        "Answer_2": "Foreman is carrying a folder."
+        "Answer_2": "Foreman is carrying a folder.",
+        "merged_question": "What is Foreman carrying in his hand when walking into House's office after House leaves the patient's room?",
+        "answer": "A folder."
     },
     {
         "Question_1": "Who follows behind House after he leaves his patient's room?",
