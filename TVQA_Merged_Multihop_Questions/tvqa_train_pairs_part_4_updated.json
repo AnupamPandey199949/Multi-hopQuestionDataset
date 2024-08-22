@@ -643,121 +643,161 @@
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "Why does Rachel point to Ross when she is arguing with the nurse?",
-        "Answer_2": "Rachel is pretending that Ross is a lawyer and can sue the nurse."
+        "Answer_2": "Rachel is pretending that Ross is a lawyer and can sue the nurse.",
+        "merged_question": "Why is Rachel holding onto Ross after she has a contraction?",
+        "answer": "Rachel is pretending that Ross is a lawyer and can sue the nurse."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What color of blanket is on Rachel when she talks to Ross about the man looking at her? ",
-        "Answer_2": "Pink."
+        "Answer_2": "Pink.",
+        "merged_question": "Who holds Rachel after she has a contraction while she is wrapped in a pink blanket?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "How does Rachel react when Ross chooses Isabella as the baby's name?",
-        "Answer_2": "Rachel doesn't like it."
+        "Answer_2": "Rachel doesn't like it.",
+        "merged_question": "How does Rachel react when she has a contraction after talking to Julie, and Ross takes her after it?",
+        "answer": "Rachel doesn't like it."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "Why did Rachel not want Ross to leave when his mother peeked in?",
-        "Answer_2": "The couple she was sharing the room with weirded her out."
+        "Answer_2": "The couple she was sharing the room with weirded her out.",
+        "merged_question": "Who holds Rachel after she has a contraction after talking to Julie, as she's sharing the room with people that weird her out?",
+        "answer": "Ross"
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "Where was Ross and Rachel when he was in bed with her?",
-        "Answer_2": "At the Hospital."
+        "Answer_2": "At the Hospital.",
+        "merged_question": "Where was Ross when Rachel had a contraction after talking to Julie?",
+        "answer": "At the Hospital."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What did Ross's mom show Ross when they were outside the room? ",
-        "Answer_2": "A ring"
+        "Answer_2": "A ring",
+        "merged_question": "What did Ross's mom show Ross when he was holding Rachel after she had a contraction, and they were outside the room?",
+        "answer": "A ring."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "Why was Ross and Rachel at the hospital  when Janice came into the room?",
-        "Answer_2": "She was giving birth"
+        "Answer_2": "She was giving birth",
+        "merged_question": "Why was Janice visiting Ross and Rachel at the hospital?",
+        "answer": "She was giving birth."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "How long did Phoebe say to Ross that it's been since he wanted to be with Rachel when she says he might get everything thing he wanted?",
-        "Answer_2": "Since he was 15."
+        "Answer_2": "Since he was 15.",
+        "merged_question": "How long has it been since Ross started wanting to be with Rachel after she had a contraction, which was after talking to Julie?",
+        "answer": "Since he was 15."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What is Ross doing with the camera before Monica, Phoebe, Chandler and Joey enter the room?",
-        "Answer_2": "taking pictures of the baby"
+        "Answer_2": "taking pictures of the baby",
+        "merged_question": "Who is taking pictures of the baby before Monica, Phoebe, Chandler, and Joey enter the room?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "Who does Ross say is outside after Rachel asks him?",
-        "Answer_2": "New People"
+        "Answer_2": "New People",
+        "merged_question": "Who is outside after Rachel asks Ross, who is holding her after she has a contraction after talking to Julie?",
+        "answer": "New People."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "How did Ross help Rachel when she had her contractions?",
-        "Answer_2": "Ross held her up so she wouldn't fall over."
+        "Answer_2": "Ross held her up so she wouldn't fall over.",
+        "merged_question": "Generated Multi-hop Question: Who helped Rachel after talking to Julie and she had a contraction?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What does the strange man do after Ross closes the curtain?",
-        "Answer_2": "The man gets on a nearby couch to get a closer look."
+        "Answer_2": "The man gets on a nearby couch to get a closer look.",
+        "merged_question": "Who is on the couch after Ross closes the curtain to protect Rachel from the contraction?",
+        "answer": "The strange man."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What is Rachel holding in her arms when Ross is leaned over?",
-        "Answer_2": "a baby"
+        "Answer_2": "a baby",
+        "merged_question": "Who is holding a baby after Rachel has a contraction?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What was Ross wearing when Rachel had her contractions?",
-        "Answer_2": "Ross was wearing a tan coat."
+        "Answer_2": "Ross was wearing a tan coat.",
+        "merged_question": "Who holds Rachel after she has a contraction, while Ross is wearing a tan coat?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "Who is holding the baby when Racheal is first talking to Ross and Monica?",
-        "Answer_2": "Racheal"
+        "Answer_2": "Racheal",
+        "merged_question": "Who holds the baby when Rachel is having a contraction after talking to Julie?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What name does Ross choose after Rachel lets him choose?",
-        "Answer_2": "Isabella."
+        "Answer_2": "Isabella.",
+        "merged_question": "What name does Ross choose for his daughter after Rachel lets him choose, and who is holding Rachel at that time?",
+        "answer": "Isabella, Ross."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "Where was Rachel when Ross came back into the room?",
-        "Answer_2": "Standing up bent over the end of the bed."
+        "Answer_2": "Standing up bent over the end of the bed.",
+        "merged_question": "Who was holding Rachel after she had a contraction while standing up bent over the end of the bed?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What fell out of Ross's coat when Joey was getting Rachel another box of tissue? ",
-        "Answer_2": "A ring. "
+        "Answer_2": "A ring. ",
+        "merged_question": "What fell out of Ross's coat when he was holding Rachel after she had a contraction after talking to Julie?",
+        "answer": "A ring."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What does Ross do after he says did you see the kid on that nose?",
-        "Answer_2": "He takes off his jacket and puts it on the chair."
+        "Answer_2": "He takes off his jacket and puts it on the chair.",
+        "merged_question": "After saying \"Did you see the kid on that nose?\" what does Ross do, who is holding Rachel after she has a contraction?",
+        "answer": "Ross takes off his jacket and puts it on the chair."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What did Rachel happened after Ross told her to ignore them?",
-        "Answer_2": "a man was starring at her"
+        "Answer_2": "a man was starring at her",
+        "merged_question": "Who holds Rachel after she has a contraction after the man was starring at her?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
