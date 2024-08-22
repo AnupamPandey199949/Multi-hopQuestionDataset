@@ -2875,121 +2875,161 @@
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "What does Ross do after he thinks Rachel is tired and confused about the proposal?",
-        "Answer_2": "He sits beside her on the bed and puts his arm around her."
+        "Answer_2": "He sits beside her on the bed and puts his arm around her.",
+        "merged_question": "What does Ross do after he thinks Rachel is tired and confused about the proposal for the ring his mom wanted him to give to Rachel?",
+        "answer": "He sits beside her on the bed and puts his arm around her."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "What is floating over the table when Ross goes into Rachel's hospital room?",
-        "Answer_2": "Two pink balloons and a silver balloon."
+        "Answer_2": "Two pink balloons and a silver balloon.",
+        "merged_question": "What is floating over the table when Ross goes into the hospital room where his mom wants him to propose to Rachel?",
+        "answer": "Two pink balloons and a silver balloon."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "Why did Monica think Rachel was crazy when Rachel said she said yes to Joey?",
-        "Answer_2": "Rachel just had Ross' baby."
+        "Answer_2": "Rachel just had Ross' baby.",
+        "merged_question": "Why did Monica think Rachel was crazy when she said yes to Joey's proposal, given that Ross' mom had previously asked him to propose to Rachel and he had a child with her?",
+        "answer": "Because Rachel just had Ross' baby."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "What does the big balloon behind Monica have written on it when she is giving advice to Rachel?",
-        "Answer_2": "It's a girl!"
+        "Answer_2": "It's a girl!",
+        "merged_question": "What would Ross' mom have wanted him to propose to if she knew the outcome of the pregnancy that Monica was excited about?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "What does Rachel find in the box before Joey walks in the room? ",
-        "Answer_2": "A ring."
+        "Answer_2": "A ring.",
+        "merged_question": "What was the reason behind Ross' mom giving him the ring, which Rachel found in the box before Joey walked in the room?",
+        "answer": "To propose to Rachel."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "What color is the baby's hat when Rachel is holding her?",
-        "Answer_2": "Pink"
+        "Answer_2": "Pink",
+        "merged_question": "Generated Multi-hop Question: What color was the baby's hat when Ross' mom wanted him to propose to her?",
+        "answer": "Pink."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "Why didn't Joey tell Rachel he was't proposing when he was in the delivery room.",
-        "Answer_2": "Because Rachel had the engagement ring on."
+        "Answer_2": "Because Rachel had the engagement ring on.",
+        "merged_question": "Why didn't Joey tell Rachel he wasn't proposing when he was in the delivery room, considering that Ross' mom wanted him to propose to Rachel?",
+        "answer": "Because Rachel had the engagement ring on."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "What does Ross say he heard about after entering Rachel's hospital room?",
-        "Answer_2": "The engagement."
+        "Answer_2": "The engagement.",
+        "merged_question": "What was Ross' mom expecting him to do after he heard about the engagement?",
+        "answer": "Propose."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "Who is leaving when Ross sat next to Rachel that holds a baby?",
-        "Answer_2": "Joel."
+        "Answer_2": "Joel.",
+        "merged_question": "Who was Ross sitting next to when he was given the ring by his mom, and who was leaving at that time holding a baby?",
+        "answer": "Rachel and Joel."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "What does Monica do when she is sitting on Rachel's hospital bed?",
-        "Answer_2": "She touches Rachel's hair. "
+        "Answer_2": "She touches Rachel's hair. ",
+        "merged_question": "What does Monica do when she is sitting on Ross' mom's intended bride's hospital bed?",
+        "answer": "She touches Rachel's hair."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "What does Rachel put on her finger before Joey enters the room?",
-        "Answer_2": "A ring"
+        "Answer_2": "A ring",
+        "merged_question": "What does Ross' mom want him to propose to the woman who puts a ring on her finger before Joey enters the room?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "What did Rachel say after Monica ask her if really wanted to marry Joey.",
-        "Answer_2": "Rachel said no she did not want to marry Joey."
+        "Answer_2": "Rachel said no she did not want to marry Joey.",
+        "merged_question": "Why did Ross' mom want him to propose to Rachel?",
+        "answer": "Because Rachel said no to marrying Joey."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "Where are Rachel and Monica when they're talking about Rachel getting married?",
-        "Answer_2": "In Rachel's hospital room"
+        "Answer_2": "In Rachel's hospital room",
+        "merged_question": "Where were Ross' mom and Ross when she gave him the ring to propose to Rachel?",
+        "answer": "In Ross' mom's house, but since Ross was going to propose to Rachel in the hospital, the answer is Rachel's hospital room."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "Who does Rachel thank when Monica notices Rachel's ring is bigger than hers?",
-        "Answer_2": "Days of Our Lives."
+        "Answer_2": "Days of Our Lives.",
+        "merged_question": "Who does Ross' mom want him to propose to, after Rachel thanks, for the bigger ring she got?",
+        "answer": "Days of Our Lives."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "What is Rachel holding when she is talking to Ross?",
-        "Answer_2": "A Baby"
+        "Answer_2": "A Baby",
+        "merged_question": "Why was Ross' mom wanting him to propose to Rachel?",
+        "answer": "Because Rachel is holding a baby."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "What did Joey do with his hands after Rachel and Ross when silent?",
-        "Answer_2": "Tapped his finger on his mouth."
+        "Answer_2": "Tapped his finger on his mouth.",
+        "merged_question": "Generated Multi-hop Question: Why did Joey tap his finger on his mouth after Ross and Rachel were silent?",
+        "answer": "Because Ross was supposed to propose to Rachel, and Joey knew that Ross' mom had given him the ring for that purpose."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "Who walked into the hospital room when Ross and Rachel were talking?",
-        "Answer_2": "Joey"
+        "Answer_2": "Joey",
+        "merged_question": "Generated Multi-hop Question: Who walked into the room when Ross was talking to the woman his mom wanted him to propose to?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "Where was Rachel sitting when she was talking with Monica.",
-        "Answer_2": "Rachel was sitting on a hospital bed."
+        "Answer_2": "Rachel was sitting on a hospital bed.",
+        "merged_question": "Where was Ross' mom's preferred bride sitting when she was talking with Monica?",
+        "answer": "A hospital bed."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "What was the shape of the top ballon behind Rachel when they were talking about proposing?",
-        "Answer_2": "Yellow duck"
+        "Answer_2": "Yellow duck",
+        "merged_question": "What shape was the top balloon behind the woman Ross' mom wanted him to propose to when they were talking about proposing?",
+        "answer": "Yellow duck."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "What does Rachel do after Ross gestures with his hands?",
-        "Answer_2": "She gestures with her hands. "
+        "Answer_2": "She gestures with her hands. ",
+        "merged_question": "What action does Ross' mom want him to propose to Rachel with, given that Rachel also responds with the same action?",
+        "answer": "The action of gesturing with his hands."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
