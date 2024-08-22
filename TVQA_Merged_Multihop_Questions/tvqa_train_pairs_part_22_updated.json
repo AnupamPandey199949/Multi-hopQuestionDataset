@@ -1603,121 +1603,161 @@
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Why did House tell Artie that he had no need to explain after Artie admitted to sleeping with his son's girlfriend?",
-        "Answer_2": "House said that she was technically legal."
+        "Answer_2": "House said that she was technically legal.",
+        "merged_question": "Why did House tell Taub that he had no need to explain after Taub said he saw a star and stripes, implying the American flag?",
+        "answer": "House said that she was technically legal."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "who enters the house after House does?",
-        "Answer_2": "Wilson"
+        "Answer_2": "Wilson",
+        "merged_question": "Who enters the house after House identifies the patient's hallucination of the sky?",
+        "answer": "Wilson."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What does House take off the Table after saying not usually?",
-        "Answer_2": "House took his cane off the table."
+        "Answer_2": "House took his cane off the table.",
+        "merged_question": "What does House take off the table after saying \"not usually\" in a situation where he is observing a patient who is thinking about the sky?",
+        "answer": "House took his cane off the table."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Who did House accuse of using a decorator after House entered the home?",
-        "Answer_2": "Wilson"
+        "Answer_2": "Wilson",
+        "merged_question": "Who did House accuse of decorating his home after he noticed the patient thinking about the sky after seeing a star and stripes?",
+        "answer": "Wilson."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Why did Foreman and Chase object when House suggested using experimental technology on the patient?",
-        "Answer_2": "Foreman and Chase thought the technology wasn't ready to be used, and that it would waste time."
+        "Answer_2": "Foreman and Chase thought the technology wasn't ready to be used, and that it would waste time.",
+        "merged_question": "Generated Multi-hop Question: Why did House object when Foreman and Chase suggested using experimental technology on the patient?",
+        "answer": "House likely objected because Foreman and Chase thought the technology wasn't ready to be used, and that it would waste time."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Where does Taub tell House he is going after he enters the room?",
-        "Answer_2": "Out"
+        "Answer_2": "Out",
+        "merged_question": "Where does House go after he says the patient is thinking about the sky?",
+        "answer": "Out."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Which doctor took Taub's phone from House when they were in the conference room",
-        "Answer_2": "Foreman took Taub's phone from House"
+        "Answer_2": "Foreman took Taub's phone from House",
+        "merged_question": "Who took Taub's phone from the doctor who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
+        "answer": "Foreman."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What color is the shirt House is wearing when he say's \"As we predicted.\"?",
-        "Answer_2": "Blue"
+        "Answer_2": "Blue",
+        "merged_question": "What color is the shirt House is wearing when he predicts that the patient is thinking about the sky after seeing a star and stripes?",
+        "answer": "Blue."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What is Dr. House eating when Wilson sits down?",
-        "Answer_2": "French fries"
+        "Answer_2": "French fries",
+        "merged_question": "What is House eating when Wilson sits down?",
+        "answer": "French fries"
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Why does Taub shake his head when he looks at Dr. House?",
-        "Answer_2": "He doesn't think Dr. House's idea will work."
+        "Answer_2": "He doesn't think Dr. House's idea will work.",
+        "merged_question": "Why does Taub think Dr. House's idea about the patient thinking about the sky after seeing a star and stripes won't work?",
+        "answer": "He doesn't think Dr. House's idea will work."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What does Cuddy give Wilson after she tell his not to take House's advice about furniture",
-        "Answer_2": "Cuddy gives Wilson a phone number for Beatrice"
+        "Answer_2": "Cuddy gives Wilson a phone number for Beatrice",
+        "merged_question": "What advice does House give Wilson about furniture, which Cuddy later tells him not to take, and what happens as a result of Cuddy's warning?",
+        "answer": "The answer to this question cannot be determined as there is no mention of House giving Wilson advice about furniture in Q1/A1. However, we can infer that Wilson was given a phone number for Beatrice, but it is not clear what this has to do with the advice House gave him."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "How did Taub say the patient's body was affected after House asked what happened during her out of body experience?",
-        "Answer_2": "Taub said that the patient's blood pressure increased to a dangerous level and she bit her tongue."
+        "Answer_2": "Taub said that the patient's blood pressure increased to a dangerous level and she bit her tongue.",
+        "merged_question": "What happened to the patient's body after she had an out-of-body experience and House said she was thinking about the sky?",
+        "answer": "The patient's blood pressure increased to a dangerous level and she bit her tongue."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What reason does House give when the doctors discuss the diagnosis?",
-        "Answer_2": "He was trying to judge Taub"
+        "Answer_2": "He was trying to judge Taub",
+        "merged_question": "What reason does House give when the doctors discuss the diagnosis, which is also related to why the patient is thinking about the sky after Taub says he sees a star and stripes?",
+        "answer": "He was trying to judge Taub."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What did House do before he entered the room?",
-        "Answer_2": "He opened the door."
+        "Answer_2": "He opened the door.",
+        "merged_question": "What action did House take before entering the room where he observed the patient thinking about the sky after Taub said he saw a star and stripes?",
+        "answer": "He opened the door."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Which type of business does Artie say he has before House talks about a parasite?",
-        "Answer_2": "Artie has a food import business"
+        "Answer_2": "Artie has a food import business",
+        "merged_question": "What type of business does House talk about in relation to a parasite, which is also relevant to the patient thinking about the sky after seeing a star and stripes?",
+        "answer": "Food Import Business"
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Why is House upset when Foreman mentions the patient could have a Middle Eastern parasite",
-        "Answer_2": "because the patient hasn't been within 6000 miles of the middle east"
+        "Answer_2": "because the patient hasn't been within 6000 miles of the middle east",
+        "merged_question": "Why is House upset when Foreman mentions the patient could have a Middle Eastern parasite, given that the patient was thinking about the sky after seeing a star and stripes?",
+        "answer": "Because the patient hasn't been within 6000 miles of the Middle East."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Where does Artie say he travelled with his business before House talks about a parasite?",
-        "Answer_2": "Artie says France, Italy and the Mediterranean"
+        "Answer_2": "Artie says France, Italy and the Mediterranean",
+        "merged_question": "Where did House travel with Taub before they discussed the patient who was thinking about the sky after seeing a star and stripes?",
+        "answer": "France, Italy and the Mediterranean"
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "Where is the group when House steals Taub's cellphone",
-        "Answer_2": "They are in the conference room"
+        "Answer_2": "They are in the conference room",
+        "merged_question": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes while the group is in the conference room?",
+        "answer": "House."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "What did WIlson do for House when House arrived at the apartment?",
-        "Answer_2": "Wilson furnitured the apartment"
+        "Answer_2": "Wilson furnitured the apartment",
+        "merged_question": "What did Wilson do for House when House arrived at the apartment where he was thinking about the sky after seeing a star and stripes?",
+        "answer": "Wilson furnished the apartment."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
         "Answer_1": "House",
         "Question_2": "How many years ago does Taub say the girl's father died when House asks about the dad?",
-        "Answer_2": "Ten years"
+        "Answer_2": "Ten years",
+        "merged_question": "How many years ago was the girl's father thinking about the sky when House says the patient is thinking about the sky?",
+        "answer": "Ten years."
     },
     {
         "Question_1": "Who says the patient is thinking about the sky after Taub says he sees a star and stripes?",
