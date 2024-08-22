@@ -323,121 +323,161 @@
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "Why does Chandler tell Rachel she can't go to the airport when he runs into her in the hallway?",
-        "Answer_2": "Because there's so much stuff he hasn't done in his life"
+        "Answer_2": "Because there's so much stuff he hasn't done in his life",
+        "merged_question": "Why is Chandler telling Rachel she can't go to the airport when he runs into her in the hallway, and who is standing next to him at that moment?",
+        "answer": "Because there's so much stuff he hasn't done in his life, and Joey is standing next to him."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What does Chandler do after Joey mentions another level?",
-        "Answer_2": "Chandler looks at Joey stupefied."
+        "Answer_2": "Chandler looks at Joey stupefied.",
+        "merged_question": "What does Joey say that leaves Chandler looking at him stupefied when Phoebe and Monica are making food?",
+        "answer": "Another level."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "Where does Rachel tell Chandler she is going when she sees him in the hallway?",
-        "Answer_2": "To the airport"
+        "Answer_2": "To the airport",
+        "merged_question": "Where is Chandler heading to after seeing Rachel in the hallway, when he is standing next to Joey while Phoebe and Monica are making food?",
+        "answer": "The airport."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What did Chandler say to Rachel before he left?",
-        "Answer_2": "Chandler said Happy Birthday, and to hang in there"
+        "Answer_2": "Chandler said Happy Birthday, and to hang in there",
+        "merged_question": "What message did Chandler give to Rachel before he left, while standing next to Joey when Phoebe and Monica were making food?",
+        "answer": "Chandler said Happy Birthday, and to hang in there."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What does Joey do after Chandler mention the parade route?",
-        "Answer_2": "Joey nods his head and gestures with his hand to the side."
+        "Answer_2": "Joey nods his head and gestures with his hand to the side.",
+        "merged_question": "What does Joey do after Chandler, who is standing next to Joey when Phoebe and Monica are making food, mentions the parade route?",
+        "answer": "Joey nods his head and gestures with his hand to the side."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What is behind Chandler when he is talking?",
-        "Answer_2": "A bunch of big balloons."
+        "Answer_2": "A bunch of big balloons.",
+        "merged_question": "What is behind the person standing next to Joey when Phoebe and Monica are making food?",
+        "answer": "A bunch of big balloons."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "Who did Chandler sit next to when he went to the table where Joey was sitting?",
-        "Answer_2": "Chandler sat next to Phoebe on the arm of the sofa."
+        "Answer_2": "Chandler sat next to Phoebe on the arm of the sofa.",
+        "merged_question": "Who was sitting next to Phoebe when Monica was making food?",
+        "answer": "Chandler"
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What colorful objects can you see behind Rachel when Chandler asks if there's a mute button on this woman?",
-        "Answer_2": "Some balloons."
+        "Answer_2": "Some balloons.",
+        "merged_question": "Generated Multi-hop Question: What colorful objects can you see behind Rachel when Phoebe and Monica are making food and Chandler is standing next to Joey?",
+        "answer": "Some balloons."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What was Joey doing before Chandler went through the window?",
-        "Answer_2": "Hugged Ross."
+        "Answer_2": "Hugged Ross.",
+        "merged_question": "Who was Joey hugging before Chandler went through the window?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What is Chandler doing after Rachel says Oh my god?",
-        "Answer_2": "He holds his head and goes into denial"
+        "Answer_2": "He holds his head and goes into denial",
+        "merged_question": "What is Chandler's reaction when he finds out that Phoebe and Monica are making food?",
+        "answer": "He holds his head and goes into denial."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "Where was Ross when he spoke to Joey and Chandler?",
-        "Answer_2": "Ross was standing next to Joey and in front of Chandler."
+        "Answer_2": "Ross was standing next to Joey and in front of Chandler.",
+        "merged_question": "Generated Multi-hop Question: When Phoebe and Monica were making food, where was Ross standing in relation to Joey and Chandler?",
+        "answer": "Ross was standing next to Joey and in front of Chandler."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What hand gesture does Joey give after slapping Chandler on the leg?",
-        "Answer_2": "A thumbs-up"
+        "Answer_2": "A thumbs-up",
+        "merged_question": "What action does Chandler do immediately after Joey gives him a thumbs-up?",
+        "answer": "Slapping."
     },
     {
         "Question_1": "Who is standing next to Joey when Phoebe and Monica are making food?",
         "Answer_1": "Chandler",
         "Question_2": "What did Rachel discover the gift from Chandler was when she opened it?",
-        "Answer_2": "travel scrabble"
+        "Answer_2": "travel scrabble",
+        "merged_question": "What did Rachel discover the gift from the person standing next to Joey when Phoebe and Monica are making food was when she opened it?",
+        "answer": "travel Scrabble."
     },
     {
         "Question_1": "Who does Ross hug first when he enters the apartment?",
         "Answer_1": "Monica",
         "Question_2": "Who walked through the door when Joey was talking to Phoebe, Rachael, and Monica?",
-        "Answer_2": "Chandler"
+        "Answer_2": "Chandler",
+        "merged_question": "Who does Chandler hug first when he enters the apartment?",
+        "answer": "Monica."
     },
     {
         "Question_1": "Who does Ross hug first when he enters the apartment?",
         "Answer_1": "Monica",
         "Question_2": "why Monica was upset when she looked in the mirror ?",
-        "Answer_2": "She looked stupid after Phoebe gave her a hair cut"
+        "Answer_2": "She looked stupid after Phoebe gave her a hair cut",
+        "merged_question": "Why was Ross hugging Monica first when he entered the apartment?",
+        "answer": "Monica looked stupid after Phoebe gave her a hair cut."
     },
     {
         "Question_1": "Who does Ross hug first when he enters the apartment?",
         "Answer_1": "Monica",
         "Question_2": "Where is Phoebe and Monica when they are talking about Demi Moore's hair?",
-        "Answer_2": "In Monica's bedroom"
+        "Answer_2": "In Monica's bedroom",
+        "merged_question": "Where is Ross hugging when he enters the apartment?",
+        "answer": "Monica's bedroom."
     },
     {
         "Question_1": "Who does Ross hug first when he enters the apartment?",
         "Answer_1": "Monica",
         "Question_2": "What is in Phoebe's hands when she is talking to Monica at the table?",
-        "Answer_2": "Playing cards"
+        "Answer_2": "Playing cards",
+        "merged_question": "Who is Ross hugging when he enters the apartment, and what is in that person's hands while talking to Monica at the table?",
+        "answer": "Monica and Playing cards.\n\nAlternatively, \nGenerated Multihop Question: What is in Monica's hands while Ross is hugging her when he enters the apartment?\nAns: Playing cards."
     },
     {
         "Question_1": "Who does Ross hug first when he enters the apartment?",
         "Answer_1": "Monica",
         "Question_2": "What is Phoebe doing at the table before Monica starts talking to her",
-        "Answer_2": "Phoebe is playing cards at the table"
+        "Answer_2": "Phoebe is playing cards at the table",
+        "merged_question": "When Ross enters the apartment, who is Phoebe interacting with before Ross starts talking to her?",
+        "answer": "Monica."
     },
     {
         "Question_1": "Who does Ross hug first when he enters the apartment?",
         "Answer_1": "Monica",
         "Question_2": "What does Chandler do when Monica mentions and expression?",
-        "Answer_2": "Chandler waves his hand to the side while looking down."
+        "Answer_2": "Chandler waves his hand to the side while looking down.",
+        "merged_question": "What does Chandler do when Ross enters the apartment?",
+        "answer": "Chandler waves his hand to the side while looking down."
     },
     {
         "Question_1": "Who does Ross hug first when he enters the apartment?",
         "Answer_1": "Monica",
         "Question_2": "What was Phoebe doing when she was talking to Monica?",
-        "Answer_2": "Playing cards"
+        "Answer_2": "Playing cards",
+        "merged_question": "Who was Phoebe talking to when Ross hugged her first upon entering the apartment?",
+        "answer": "Monica."
     },
     {
         "Question_1": "Who does Ross hug first when he enters the apartment?",
