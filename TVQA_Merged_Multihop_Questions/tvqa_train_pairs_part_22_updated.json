@@ -1283,121 +1283,161 @@
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Where does House put is jacket after he put is backpack down?",
-        "Answer_2": "House puts his jacket on the wall hook"
+        "Answer_2": "House puts his jacket on the wall hook",
+        "merged_question": "Generated Multi-hop Question: Where does House put his jacket after talking to 13 about the patient?",
+        "answer": "The wall hook."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "How did Foreman respond to House's question after House asked about the epiglottis and muscles?",
-        "Answer_2": "Foreman said Mr. and Mrs. Kutner because they caused Charlotte's brother's death."
+        "Answer_2": "Foreman said Mr. and Mrs. Kutner because they caused Charlotte's brother's death.",
+        "merged_question": "How did Mr. and Mrs. Kutner respond to House's question about the patient's epiglottis and muscles?",
+        "answer": "Foreman said Mr. and Mrs. Kutner because they caused Charlotte's brother's death."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What was House writing on when he was talking to his team about a potential murder?",
-        "Answer_2": "A whiteboard"
+        "Answer_2": "A whiteboard",
+        "merged_question": "Generated Multi-hop Question: Who is House talking to when he is explaining a potential murder on the whiteboard?",
+        "answer": "His team."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "How does House suggest protecting a man after Thirteen says that they should be saving him?",
-        "Answer_2": "Strapping him to a bed until his wife dies"
+        "Answer_2": "Strapping him to a bed until his wife dies",
+        "merged_question": "Generated Multi-hop Question: How does House suggest protecting the man that Thirteen is telling him about when she says they should be saving him?",
+        "answer": "Strapping him to a bed until his wife dies."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Where is House when he is sitting and talking to Wilson about House's health?",
-        "Answer_2": "House is sitting in his office desk."
+        "Answer_2": "House is sitting in his office desk.",
+        "merged_question": "Who is 13 talking to when she is telling them about the patient in the location where House is sitting and talking to Wilson about House's health?",
+        "answer": "House."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Why did House stop walking when he is walking with Taub?",
-        "Answer_2": "House stopped walking to think."
+        "Answer_2": "House stopped walking to think.",
+        "merged_question": "Why did House stop walking when he was walking with 13 and discussing the patient?",
+        "answer": "House stopped walking to think."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What did Taub say you cant feel that much guilt without after House said they were going to die because of guilt?",
-        "Answer_2": "love"
+        "Answer_2": "love",
+        "merged_question": "Generated Multi-hop Question: Who is Taub saying you can't feel that much guilt without when he is talking about the patient that House is interacting with?",
+        "answer": "House."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Why does Cameron say House can't do the transplant after she gets the patients approval??",
-        "Answer_2": "She thinks he's been misdiagnosed"
+        "Answer_2": "She thinks he's been misdiagnosed",
+        "merged_question": "Why does Cameron say House can't do the transplant after the patient gives him approval to proceed?",
+        "answer": "She thinks he's been misdiagnosed."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What does House pull out of the drawer after he flips through the files?",
-        "Answer_2": "A paper"
+        "Answer_2": "A paper",
+        "merged_question": "What is House flipping through when he pulls out a paper from the drawer?",
+        "answer": "Files."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What does House say that Eddie will be trading when wanting to give a transplant? ",
-        "Answer_2": "The certainty of living after"
+        "Answer_2": "The certainty of living after",
+        "merged_question": "Who is Eddie trading the certainty of living after for in order to receive a transplant?",
+        "answer": "House."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What does House say Kutner was doing after Wilson ask's what they're looking for?",
-        "Answer_2": "Kutner was hiding"
+        "Answer_2": "Kutner was hiding",
+        "merged_question": "What is Kutner hiding from when he's talking to House about a patient?",
+        "answer": "Wilson."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Where did House tell Thirteen and Foreman to send the patient before he left the room?",
-        "Answer_2": "House told Thirteen and Foreman to send her for an MRI."
+        "Answer_2": "House told Thirteen and Foreman to send her for an MRI.",
+        "merged_question": "Who is House telling to send the patient for an MRI when he leaves the room?",
+        "answer": "Thirteen and Foreman."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What color is the shirt House is wearing when he say's \"I don't...\"?",
-        "Answer_2": "white"
+        "Answer_2": "white",
+        "merged_question": "Who is the patient that House was talking to when he said \"I don't...\" while wearing a white shirt?",
+        "answer": "The patient that House was talking to when he said \"I don't...\" while wearing a white shirt is the one 13 was telling about."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "Why does Bert say he was taking the Vicodin after Masters and Chase confront him?",
-        "Answer_2": "Bert was trying to cover up being in pain from working a manual job."
+        "Answer_2": "Bert was trying to cover up being in pain from working a manual job.",
+        "merged_question": "Why was Bert trying to cover up being in pain when he was working a manual job, and what led to him taking Vicodin?",
+        "answer": "Bert was trying to cover up being in pain from working a manual job, and it led to him taking Vicodin because he was trying to hide the fact that he was in pain."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "Where is Masters when Chase ask her about watching",
-        "Answer_2": "Masters is standing at the reception desk"
+        "Answer_2": "Masters is standing at the reception desk",
+        "merged_question": "Where is the doctor who tells Diane that there is still hope when she asks if it could kill the patient when Chase asks her about watching?",
+        "answer": "Masters is standing at the reception desk."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "What is Masters doing when her and Chase come out of the elevator?",
-        "Answer_2": "Puts on rubber gloves"
+        "Answer_2": "Puts on rubber gloves",
+        "merged_question": "What is Masters doing when Diane asks her if there is still hope for the patient?",
+        "answer": "Puts on rubber gloves."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "Where does Masters say she wants to get a date to go with her when she is talking to Chase",
-        "Answer_2": "She wants a date to go with her to a charity event"
+        "Answer_2": "She wants a date to go with her to a charity event",
+        "merged_question": "Where does Diane ask Masters if it could kill the patient, and what is the context of the conversation?",
+        "answer": "Diane asks Masters if it could kill the patient at a charity event, and the context of the conversation is that Diane is asking about the potential risks of a medical treatment."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "What was House doing when Masters listed off the holy grail of potential diseases?",
-        "Answer_2": "Staring at a computer screen"
+        "Answer_2": "Staring at a computer screen",
+        "merged_question": "What was House doing when Masters listed off the holy grail of potential diseases that could potentially kill the patient, and still leave Diane with hope for the patient's survival?",
+        "answer": "Staring at a computer screen."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "What is Masters looking at before Foreman walks over to Taub?",
-        "Answer_2": "Microscope"
+        "Answer_2": "Microscope",
+        "merged_question": "What is the doctor looking at when Foreman walks over to Taub?",
+        "answer": "Microscope."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
         "Answer_1": "Masters",
         "Question_2": "Why did Masters say she put relationship on hold when she talking to Chase",
-        "Answer_2": "Masters said she put relationships on hold to concentrate on studying"
+        "Answer_2": "Masters said she put relationships on hold to concentrate on studying",
+        "merged_question": "Why did Masters put relationships on hold when she was telling Diane that there is still hope for the patient?",
+        "answer": "Masters said she put relationships on hold to concentrate on studying."
     },
     {
         "Question_1": "Which doctor is the one that tells Diane that there is still hope when she asks if it could kill the patient?",
