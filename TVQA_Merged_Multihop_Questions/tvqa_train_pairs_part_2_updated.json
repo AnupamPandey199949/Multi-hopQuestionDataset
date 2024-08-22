@@ -1923,121 +1923,161 @@
         "Question_1": "Who are Joey and Chandler talking to when the scene begins?",
         "Answer_1": "Monica",
         "Question_2": "Who did Monica say that Chandler has nothing to worry about when she walked over to him?",
-        "Answer_2": "Jeffrey"
+        "Answer_2": "Jeffrey",
+        "merged_question": "Who were Joey and Chandler talking to when the scene begins, but who was actually reassuring Chandler about his worries?",
+        "answer": "Monica."
     },
     {
         "Question_1": "Who are Joey and Chandler talking to when the scene begins?",
         "Answer_1": "Monica",
         "Question_2": "Who hunches Ross to laugh after Monica starts laughing?",
-        "Answer_2": "Joey"
+        "Answer_2": "Joey",
+        "merged_question": "Who is the person that Joey is trying to make laugh after Monica starts laughing?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "What does Ross have on his plate when he sits on the sofa with Rachel and Phoebe?",
-        "Answer_2": "a muffin"
+        "Answer_2": "a muffin",
+        "merged_question": "What is on Ross's plate when he is sitting with Rachel in the coffee shop?",
+        "answer": "A muffin."
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "What does the Doctor tell Rachael and Ross not to name their kid before she leaves the room?",
-        "Answer_2": "Pheebo"
+        "Answer_2": "Pheebo",
+        "merged_question": "What does Ross tell Rachel not to name their kid before she leaves the coffee shop?",
+        "answer": "Pheebo."
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "What did Rachel and Ross talk about after as she walked in?",
-        "Answer_2": "The name Ruth for their baby"
+        "Answer_2": "The name Ruth for their baby",
+        "merged_question": "Who was Rachel walking in on when she and Ross discussed the name Ruth for their baby?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "Why did Ross get suspicious when Rachel said she liked the name Ruth?",
-        "Answer_2": "Because Rachel hated the name before"
+        "Answer_2": "Because Rachel hated the name before",
+        "merged_question": "Generated Multi-hop Question: Why did Ross get suspicious when Rachel said she liked the name Ruth in the coffee shop?",
+        "answer": "Because Rachel hated the name before."
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "What does Ross do to Rachel after they talk about having a child?",
-        "Answer_2": "Ross hugs Rachel."
+        "Answer_2": "Ross hugs Rachel.",
+        "merged_question": "What does Ross do to Rachel after they talk about having a child in the coffee shop?",
+        "answer": "Ross hugs Rachel."
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "Who is with Rachel and Ross when they are in the coffee shop?",
-        "Answer_2": "Phoebe"
+        "Answer_2": "Phoebe",
+        "merged_question": "Who is with Ross when he is with Rachel in the coffee shop?",
+        "answer": "Phoebe."
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "What flag is on the wall when Ross sits on the sofa?",
-        "Answer_2": "American flag"
+        "Answer_2": "American flag",
+        "merged_question": "What is the flag that Ross sees when he is sitting next to Rachel in the coffee shop?",
+        "answer": "American flag."
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "What did Ross do before he sat down?",
-        "Answer_2": "He set his mug on the table."
+        "Answer_2": "He set his mug on the table.",
+        "merged_question": "What did Ross do before he sat down with Rachel in the coffee shop?",
+        "answer": "He set his mug on the table."
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "What name does Ross veto when Rachel offers a girl's name?",
-        "Answer_2": "Rain"
+        "Answer_2": "Rain",
+        "merged_question": "Generated Multi-hop Question: What name does Rachel offer when Ross is with her in the coffee shop?",
+        "answer": "Rain"
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "What does Rachel as Ross after the doctor leaves the room?",
-        "Answer_2": "Which of these babies do you think is the ugliest?"
+        "Answer_2": "Which of these babies do you think is the ugliest?",
+        "merged_question": "What does Rachel ask Ross after the doctor leaves the room when they are in the coffee shop?",
+        "answer": "Which of these babies do you think is the ugliest?"
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "Why was Rachel so surprised when Ross revealed the sex of the baby?",
-        "Answer_2": "Rachel didn't know the baby's sex before Ross told her and didn't expect to know so soon."
+        "Answer_2": "Rachel didn't know the baby's sex before Ross told her and didn't expect to know so soon.",
+        "merged_question": "Why was Rachel so surprised when she found out the baby's sex in the coffee shop?",
+        "answer": "Rachel didn't know the baby's sex before she found out and didn't expect to know so soon."
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "Who does Ross tell Rachel is judging her when they're in the doctor's office?",
-        "Answer_2": "The ugly baby"
+        "Answer_2": "The ugly baby",
+        "merged_question": "Who is judging Rachel when she is in the coffee shop?",
+        "answer": "The ugly baby."
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "Where is Ross sitting before Rachel takes her coat off? ",
-        "Answer_2": "in the chair "
+        "Answer_2": "in the chair ",
+        "merged_question": "Generated Multi-hop Question: Where is Ross sitting when Rachel is in the coffee shop?",
+        "answer": "In the chair."
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "What does Ross catch Rachel doing when they're in the doctor's office?",
-        "Answer_2": "Rachel looking in the chart"
+        "Answer_2": "Rachel looking in the chart",
+        "merged_question": "What is Ross catching Rachel doing when she is with him in the coffee shop?",
+        "answer": "Rachel looking in the chart."
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "Where are Rachel and Ross when they are discussing the baby girl's name?",
-        "Answer_2": "In a coffee house."
+        "Answer_2": "In a coffee house.",
+        "merged_question": "Who is with Rachel when they are discussing the baby girl's name in the coffee house?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "How many books are sitting on the coffee table when Ross sits down next to Rachel?",
-        "Answer_2": "four"
+        "Answer_2": "four",
+        "merged_question": "How many books are sitting on the coffee table when Ross sits down next to Rachel, who is with whom in the coffee shop?",
+        "answer": "Four."
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "What is on the wall when Ross is telling Rachel she doesn't have an open mind about the name Ruth?",
-        "Answer_2": "A board filled with baby photos."
+        "Answer_2": "A board filled with baby photos.",
+        "merged_question": "What is the context behind Ross showing Rachel the baby photos in the coffee shop?",
+        "answer": "Ross is trying to convince Rachel to have an open mind about the name Ruth."
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
         "Answer_1": "Ross",
         "Question_2": "Where is Rachel when her and Ross are talking to the doctor? ",
-        "Answer_2": "The exam table. "
+        "Answer_2": "The exam table. ",
+        "merged_question": "Where is Rachel when she is talking to the doctor, and Ross is with her?",
+        "answer": "The exam table."
     },
     {
         "Question_1": "Who is with Rachel when she is in the coffee shop?",
