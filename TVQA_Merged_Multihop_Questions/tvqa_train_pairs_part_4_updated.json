@@ -963,121 +963,161 @@
         "Question_1": "Where was Tag when he was talking to Rachel?",
         "Answer_1": "office",
         "Question_2": "What did Rachel say her assistant does in the office when it's lunch time?",
-        "Answer_2": "Sit-ups."
+        "Answer_2": "Sit-ups.",
+        "merged_question": "What does Tag's assistant do in the office when it's lunch time?",
+        "answer": "Sit-ups."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "How does Phoebe stop Ross from yelling when he is pretending to be his drunk uncle at a wedding?",
-        "Answer_2": "Physically restraining Ross."
+        "Answer_2": "Physically restraining Ross.",
+        "merged_question": "Generated Multi-hop Question: How does Phoebe physically restrain Ross?",
+        "answer": "Physically restraining Ross."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "Who's maid of honor does Racheal say she wants to be when she is talking to Phoebe?",
-        "Answer_2": "Monica"
+        "Answer_2": "Monica",
+        "merged_question": "Who does Rachel want to be her maid of honor?",
+        "answer": "Monica."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "Who does Phoebe say showered together when giving a toast?",
-        "Answer_2": "Monica and Phoebe"
+        "Answer_2": "Monica and Phoebe",
+        "merged_question": "Who wins the coin toss that led to the showering incident that Phoebe mentioned in her toast?",
+        "answer": "Phoebe."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "How does Joey respond to Phoebe after she restraints Ross in an acted situation?",
-        "Answer_2": "Joey gives Phoebe a perfect score."
+        "Answer_2": "Joey gives Phoebe a perfect score.",
+        "merged_question": "How does Joey respond to the person who wins the coin toss when Rachel flips the coin?",
+        "answer": "Joey gives Phoebe a perfect score."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "How does Phoebe feel when Rachel says she can be in Monica's wedding?",
-        "Answer_2": "Phoebe feels excited."
+        "Answer_2": "Phoebe feels excited.",
+        "merged_question": "What does Phoebe feel when Rachel wins the coin toss?",
+        "answer": "Phoebe feels excited."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What was in Rachel's hand when she was walking behind Phoebe? ",
-        "Answer_2": "A mug"
+        "Answer_2": "A mug",
+        "merged_question": "What was Phoebe holding when she won the coin toss from Rachel, who was previously holding a mug?",
+        "answer": "Phoebe"
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "Where is Rachel when she talks to Phoebe?",
-        "Answer_2": "Rachel is in the coffee shop."
+        "Answer_2": "Rachel is in the coffee shop.",
+        "merged_question": "Who wins the coin toss when Rachel flips the coin in the coffee shop?",
+        "answer": "Phoebe."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What does Rachel hand to Phoebe when she is on the couch at the coffee house?",
-        "Answer_2": "A small pink pouch. "
+        "Answer_2": "A small pink pouch. ",
+        "merged_question": "What does Phoebe receive from Rachel after winning the coin toss?",
+        "answer": "A small pink pouch."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "Where does Monica meet with Rachel and Phoebe when Monica learns that Rachel will be her maid of honor?",
-        "Answer_2": "A coffee house."
+        "Answer_2": "A coffee house.",
+        "merged_question": "Where does Phoebe win the coin toss when she flips the coin with Rachel and Monica?",
+        "answer": "A coffee house."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What does Phoebe do after Monica leaves the coffee house?",
-        "Answer_2": "She smiles and drinks her coffee. "
+        "Answer_2": "She smiles and drinks her coffee. ",
+        "merged_question": "What does Phoebe do after she wins the coin toss when Rachel flips the coin?",
+        "answer": "She smiles and drinks her coffee."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What wedding role does Rachel say Phoebe can be when she talks to her?",
-        "Answer_2": "Rachel said Maid of Honor"
+        "Answer_2": "Rachel said Maid of Honor",
+        "merged_question": "What wedding role does the person who wins the coin toss when Rachel flips the coin get to be?",
+        "answer": "Maid of Honor."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "Who does Racheal suggest she could marry after Phoebe says, \"who knows what you're gonna marry\"?",
-        "Answer_2": "Ross"
+        "Answer_2": "Ross",
+        "merged_question": "Who does Phoebe suggest Rachel could marry after Rachel flips the coin?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What reason does Racheal give before saying Phoebe can be Monica's maid of honor?",
-        "Answer_2": "She's never done it before"
+        "Answer_2": "She's never done it before",
+        "merged_question": "What reason does Phoebe give for allowing Rachel to be the maid of honor, given that Rachel has never done it before?",
+        "answer": "(No direct relation, as the information in A1 and A2 is unrelated. However, we can generate a new question that connects the information.)\n\nModified Multihop Question: What is the reason Rachel gives before allowing Phoebe to be Monica's maid of honor, given that Phoebe has never done it before?\nAns: (No direct relation, as the information in A1 and A2 is unrelated. However, we can generate a new question that connects the information.)\n\nAlternative Multihop Question:  What is the reason Rachel gives before allowing Phoebe to win the coin toss, given that Phoebe has never done it before?\nAns: She's never done it before"
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What does Rachel do when she shows Phoebe the handkerchiefs?",
-        "Answer_2": "Rachel begins to tear up and cry."
+        "Answer_2": "Rachel begins to tear up and cry.",
+        "merged_question": "What happens when Phoebe wins the coin toss that Rachel flips, which causes Rachel to become emotional?",
+        "answer": "Rachel begins to tear up and cry."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What is the topic of Phoebe's toast when she gives  a toast in the apartment?",
-        "Answer_2": "Chandler and Monica's marriage"
+        "Answer_2": "Chandler and Monica's marriage",
+        "merged_question": "What is the topic of Rachel's toast when she gives a toast in the apartment?",
+        "answer": "Chandler and Monica's marriage."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What does Rachel want to be after Phoebe agrees with her?",
-        "Answer_2": "Monica's maid of honor"
+        "Answer_2": "Monica's maid of honor",
+        "merged_question": "What does Rachel want to be after Phoebe agrees with her, the outcome of which is determined by a coin toss that Phoebe wins?",
+        "answer": "Monica's maid of honor."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "Who do Rachel and Phoebe see after Phoebe tries to give Rachel something?",
-        "Answer_2": "Monica."
+        "Answer_2": "Monica.",
+        "merged_question": "Generated Multi-hop Question: Who does Phoebe see after she wins the coin toss that Rachel flipped?",
+        "answer": "Monica."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "Why is Rachel upset when she is talking to Phoebe?",
-        "Answer_2": "Because she wants to be the maid of honor."
+        "Answer_2": "Because she wants to be the maid of honor.",
+        "merged_question": "Why is Rachel upset when she is talking to the person who wins the coin toss when she flips the coin?",
+        "answer": "Because she wants to be the maid of honor."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What color couch is Phoebe on when she talks to Rachel?",
-        "Answer_2": "Phoebe is on an Orange couch."
+        "Answer_2": "Phoebe is on an Orange couch.",
+        "merged_question": "Generated Multi-hop Question: What color couch is the person who wins the coin toss when Rachel flips the coin sitting on when they talk to Rachel?",
+        "answer": "Orange couch."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
