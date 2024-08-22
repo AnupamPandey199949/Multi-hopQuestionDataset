@@ -163,121 +163,161 @@
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What did Chandler say he has in the drawer before Joey smiles and says \"really\"?",
-        "Answer_2": "Panties"
+        "Answer_2": "Panties",
+        "merged_question": "What was Joey reacting to when he smiled and said \"really\"?",
+        "answer": "Chandler saying he has Panties in the drawer."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What was Rachel doing before Chandler came in?",
-        "Answer_2": "Rachel was wiping down the bar"
+        "Answer_2": "Rachel was wiping down the bar",
+        "merged_question": "Who was Rachel wiping down the bar for before Chandler came in?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What does Joey decide to add to his character's life at the last minute when talking with Chandler?",
-        "Answer_2": "Joey decides to give his character a third child."
+        "Answer_2": "Joey decides to give his character a third child.",
+        "merged_question": "What does Chandler learn about Joey's character when Joey is talking to him?",
+        "answer": "Joey decides to give his character a third child."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "Why did Chandler say people would think Joey was a processor when he was holding out his hands?",
-        "Answer_2": "Joey is an actor who could act like a processor."
+        "Answer_2": "Joey is an actor who could act like a processor.",
+        "merged_question": "Why did Joey act like a processor when talking to Chandler?",
+        "answer": "Joey is an actor who could act like a processor."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What does Joey tell Chandler are the names of his characters kids when talking in the office?",
-        "Answer_2": "Joey tells Chandler that his character's kids' names are Ashley and Brittany."
+        "Answer_2": "Joey tells Chandler that his character's kids' names are Ashley and Brittany.",
+        "merged_question": "What names does Joey tell Chandler are the names of his character's kids when he is talking to him?",
+        "answer": "Ashley and Brittany."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "Who does Joey tell Chandler copies everything Brittany does when talking in the office?",
-        "Answer_2": "Joey tells Chandler that Ashley copies everything Brittany does."
+        "Answer_2": "Joey tells Chandler that Ashley copies everything Brittany does.",
+        "merged_question": "Generated Multi-hop Question: Who does Joey tell Chandler copies everything Brittany does when talking in the office?",
+        "answer": "Ashley."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What did Scott say after Chandler told him Joey was a processor? ",
-        "Answer_2": "No kidding."
+        "Answer_2": "No kidding.",
+        "merged_question": "What did Scott say after Chandler told him that the person Joey was talking to was a processor?",
+        "answer": "No kidding."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "Who is Joey pretending to be when he mentions his kids to Chandler?",
-        "Answer_2": "Joey is pretending to be the character he's playing."
+        "Answer_2": "Joey is pretending to be the character he's playing.",
+        "merged_question": "Who is Joey pretending to be when he mentions his kids to the character he is talking to after the scene starts?",
+        "answer": "The character he's playing."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What did Mr Douglas want from Chandler by Tuesday when he was talking to him?",
-        "Answer_2": "Final numbers"
+        "Answer_2": "Final numbers",
+        "merged_question": "What did Joey ask Chandler to get for him by Tuesday?",
+        "answer": "Final numbers."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What color shirt is Joey wearing when he is in Chandler's office?",
-        "Answer_2": "Blue. "
+        "Answer_2": "Blue. ",
+        "merged_question": "What color shirt is Chandler wearing when he is talking to Joey at the beginning of the scene?",
+        "answer": "Blue."
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "What did Gavin bring when he visited Rachel?",
-        "Answer_2": "Soup"
+        "Answer_2": "Soup",
+        "merged_question": "What did Gavin bring when he visited Rachel because she said she was sick?",
+        "answer": "Soup."
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "Why did Gavin bring soup when he visited Rachel?",
-        "Answer_2": "Gavin heard Rachel was sick"
+        "Answer_2": "Gavin heard Rachel was sick",
+        "merged_question": "Why did Gavin put his hand on Rachel's forehead when she said she was sick?",
+        "answer": "Gavin heard Rachel was sick."
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "How does Gavin react after Rachel says she's sorry",
-        "Answer_2": "It's just bad timing"
+        "Answer_2": "It's just bad timing",
+        "merged_question": "Why did Gavin put his hand on Rachel's forehead when she said it was just bad timing?",
+        "answer": "Because Rachel said she was sick."
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "How did Rachel trick Gavin when he came to visit her?",
-        "Answer_2": "Rachel pretended to be sick"
+        "Answer_2": "Rachel pretended to be sick",
+        "merged_question": "Generated Multi-hop Question: Who tricked Gavin into visiting Rachel by pretending to be sick?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "What was Rachel doing before Gavin knocked on the door.",
-        "Answer_2": "She was sitting on the couch reading a magazine."
+        "Answer_2": "She was sitting on the couch reading a magazine.",
+        "merged_question": "Who was reading a magazine before Gavin knocked on the door and put his hand on Rachel's forehead when she said she was sick?",
+        "answer": "Rachel was reading a magazine before Gavin knocked on the door and put his hand on Rachel's forehead when she said she was sick."
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "What does Rachel consider doing when she is talking about not dealing with Gavin?",
-        "Answer_2": "Rachel said she would call in sick"
+        "Answer_2": "Rachel said she would call in sick",
+        "merged_question": "Who puts their hand on Rachel's forehead when she says she's considering calling in sick?",
+        "answer": "Gavin."
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "How much time did Rachael have to see Gavin when she was talking to Monica and Phoebe?",
-        "Answer_2": "10 minutes"
+        "Answer_2": "10 minutes",
+        "merged_question": "How long did Gavin have to put his hand on Rachel's forehead when she said she was sick?",
+        "answer": "10 minutes."
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "What did Rachel do before she opened the door to Gavin?",
-        "Answer_2": "She threw some kleenex around the table."
+        "Answer_2": "She threw some kleenex around the table.",
+        "merged_question": "What action did Gavin see Rachel do before he put his hand on her forehead when she said she was sick?",
+        "answer": "She threw some kleenex around the table."
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "Why did Gavin feel paranoid when he was talking to Rachel?",
-        "Answer_2": "Gavin thought Rachel might have called in sick to avoid seeing him"
+        "Answer_2": "Gavin thought Rachel might have called in sick to avoid seeing him",
+        "merged_question": "Why did Gavin feel paranoid when he was talking to Rachel, and what action did he take as a result of his paranoia?",
+        "answer": "Gavin thought Rachel might have called in sick to avoid seeing him, and he put his hand on her forehead to check if she was genuinely ill."
     },
     {
         "Question_1": "What color is Rachel shirt when she was talking to Phoebe and Chandler?",
         "Answer_1": "black",
         "Question_2": "What did the lady in black have in her hand when standing in front of the other blonde lady? ",
-        "Answer_2": "A cup"
+        "Answer_2": "A cup",
+        "merged_question": "What was the lady in black (Rachel) holding when standing in front of the other blonde lady (Monica) while Phoebe and Chandler were present?",
+        "answer": "A cup."
     },
     {
         "Question_1": "What was Joey holding before he started talking?",
