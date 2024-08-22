@@ -1283,121 +1283,161 @@
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "What was Joey wearing while on the television when Phoebe and Monica were watching?",
-        "Answer_2": "Tuxedo"
+        "Answer_2": "Tuxedo",
+        "merged_question": "Who walks into the cafe after Chandler sneaks in wearing something that Joey was famously seen wearing on television?",
+        "answer": "Monica."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "What is on the Magic 8 Ball when Monica asks if Chandler is going to have sex tonight?",
-        "Answer_2": "Don't Count On It"
+        "Answer_2": "Don't Count On It",
+        "merged_question": "What is the Magic 8 Ball's prediction when Chandler sneaks into the cafe and his wife, who walks in afterwards, asks about their intimate plans for the night.",
+        "answer": "Don't Count On It."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "What was Monica wearing when she sat with Phoebe?",
-        "Answer_2": "Monica was wearing a pink sweater."
+        "Answer_2": "Monica was wearing a pink sweater.",
+        "merged_question": "What was Chandler's reaction to seeing someone wearing a pink sweater in the cafe?",
+        "answer": "This question cannot be answered directly from the given information. However, we can infer that since Monica walks into the cafe after Chandler, and the question asks about Chandler's reaction, it implies that Chandler saw Monica wearing the pink sweater."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "who was at the table with Monica when she was talking to chandler about a broiling pan?",
-        "Answer_2": "phoebe"
+        "Answer_2": "phoebe",
+        "merged_question": "Who was at the table with Monica when Chandler was sneaking into the cafe and then Monica walked in?",
+        "answer": "Phoebe."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "What was Monica holding when Joey walked in?",
-        "Answer_2": "Coffee mug"
+        "Answer_2": "Coffee mug",
+        "merged_question": "What was Chandler sneaking into the cafe to meet when he was intercepted by Joey who walked in on Monica holding a coffee mug?",
+        "answer": "Monica"
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "What does Chandler stop  in front of when he talks to Monica?",
-        "Answer_2": "refrigerator"
+        "Answer_2": "refrigerator",
+        "merged_question": "Who walks into the cafe after Chandler stops in front of the refrigerator to talk to someone?",
+        "answer": "Monica."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "What is Monica doing when Ross answers the phone?",
-        "Answer_2": "Monica is reading a newspaper."
+        "Answer_2": "Monica is reading a newspaper.",
+        "merged_question": "Generated Multi-hop Question: What activity is Chandler doing when Ross answers the phone in the cafe?",
+        "answer": "Since the activity of reading a newspaper is associated with Monica when Ross answers the phone, and given that Monica walks into the cafe after Chandler, it can be inferred that Chandler is doing the opposite activity in the cafe."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "What is Chandler looking at when speaking with Monica?",
-        "Answer_2": "Chandler is looking at magazine."
+        "Answer_2": "Chandler is looking at magazine.",
+        "merged_question": "What was Monica walking into to find Chandler looking at?",
+        "answer": "Magazine."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "What does Chandler do after someone says something to him about Monica?",
-        "Answer_2": "He slams down the paper on the couch. "
+        "Answer_2": "He slams down the paper on the couch. ",
+        "merged_question": "Who walks into the cafe after Chandler slams down the paper on the couch?",
+        "answer": "Monica."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "What is Ross playing with after Monica and Chandler leave to have sex?",
-        "Answer_2": "An Eight Ball"
+        "Answer_2": "An Eight Ball",
+        "merged_question": "Who walks into the cafe after Chandler sneaks into the cafe, and what does Ross play with after this person and Chandler leave the cafe?",
+        "answer": "Monica, An Eight Ball."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "What does Monica ask the 8 Ball when she takes it from Ross?",
-        "Answer_2": "Will Chandler Have Sex Tonight?"
+        "Answer_2": "Will Chandler Have Sex Tonight?",
+        "merged_question": "What does Monica ask the 8 Ball after Chandler sneaks into the cafe?",
+        "answer": "Will Chandler Have Sex Tonight."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "Why does Chandler tell Monica to lose the gloves after originally asking to keep them on?",
-        "Answer_2": "Monica just cleaned the bathroom"
+        "Answer_2": "Monica just cleaned the bathroom",
+        "merged_question": "Generated Multi-hop Question: Why does Chandler tell Monica to remove her gloves after she walks into the cafe?",
+        "answer": "Monica just cleaned the bathroom."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "Who walked into Monica's apartment when Ross was on the phone?",
-        "Answer_2": "Joey"
+        "Answer_2": "Joey",
+        "merged_question": "Who walked into the apartment of the person who walks into the cafe after Chandler sneaks in?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "What happens to Monica after Chandler starts walking out the door.",
-        "Answer_2": "Hit her head"
+        "Answer_2": "Hit her head",
+        "merged_question": "What happens to Monica after she walks into the cafe after Chandler sneaks in and then starts walking out the door.",
+        "answer": "Hit her head."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "What is on the counter behind Rachel when she is at Monica's apartment?",
-        "Answer_2": "A laundry basket. "
+        "Answer_2": "A laundry basket. ",
+        "merged_question": "What is on the counter behind Rachel when she is at Monica's apartment after Chandler sneaks into the cafe and then Monica walks in?",
+        "answer": "A laundry basket."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "What color was Monica's shirt when she was talking to Ross in the coffee shop?",
-        "Answer_2": "Pink"
+        "Answer_2": "Pink",
+        "merged_question": "What color was the shirt of the person who walked into the cafe after Chandler sneaked in?",
+        "answer": "Pink."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "What is written on the little board that is on the door behind Monica when she does a dance?",
-        "Answer_2": "Evil Joe."
+        "Answer_2": "Evil Joe.",
+        "merged_question": "Who walks into the cafe after Chandler sneaks in, and what does the little board behind her say when she does a dance?",
+        "answer": "Monica, Evil Joe."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "What color shirt was Monica wearing when she was talking to Chandler?",
-        "Answer_2": "Pink."
+        "Answer_2": "Pink.",
+        "merged_question": "What color shirt was Chandler's companion wearing when she walked into the cafe after he sneaked in?",
+        "answer": "Pink."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "What did Monica do after Chandler asked her \"Why?\"",
-        "Answer_2": "Danced"
+        "Answer_2": "Danced",
+        "merged_question": "Generated Multi-hop Question: What did Monica do after Chandler asked her \"Why\" in the cafe?",
+        "answer": "Danced."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "Who walked into Monica's place after Phoebe had left?",
-        "Answer_2": "Chandler walked into Monica's place."
+        "Answer_2": "Chandler walked into Monica's place.",
+        "merged_question": "Who walked into the place where Phoebe had left after she had left?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
