@@ -3,121 +3,161 @@
         "Question_1": "Who realizes after the movers leave that everyone has lived in monicas apartment at one time or another?",
         "Answer_1": "Phoebe",
         "Question_2": "What did Ross tell Joey and Phoebe that Rachel said to him when they were conversing?",
-        "Answer_2": "The perfect way to say goodbye."
+        "Answer_2": "The perfect way to say goodbye.",
+        "merged_question": "Who told Joey and Phoebe that Rachel said the perfect way to say goodbye?",
+        "answer": "Ross."
     },
     {
         "Question_1": "What was Ross doing before he started talking?",
         "Answer_1": "sitting",
         "Question_2": "What did Rachel tell her father when they were sitting at the table?",
-        "Answer_2": "He was gonna be a poppy."
+        "Answer_2": "He was gonna be a poppy.",
+        "merged_question": "What was Ross going to be before he started talking to Rachel and her father while they were sitting at the table?",
+        "answer": "A poppy."
     },
     {
         "Question_1": "What was Ross doing before he started talking?",
         "Answer_1": "sitting",
         "Question_2": "What did Ross's date say to Ross when they were sitting on the couch?",
-        "Answer_2": "It was cool seeing you lecture today."
+        "Answer_2": "It was cool seeing you lecture today.",
+        "merged_question": "What was Ross's date saying to him when they were sitting together, right before he started talking to her?",
+        "answer": "It was cool seeing you lecture today."
     },
     {
         "Question_1": "What was Ross doing before he started talking?",
         "Answer_1": "sitting",
         "Question_2": "Who was Rachel talking to before sitting down at the table?",
-        "Answer_2": "Her father."
+        "Answer_2": "Her father.",
+        "merged_question": "Generated Multi-hop Question: What was Ross doing before he started talking to Rachel's Father?",
+        "answer": "Sitting."
     },
     {
         "Question_1": "What was Ross doing before he started talking?",
         "Answer_1": "sitting",
         "Question_2": "Where are Joey and Chandler when they are sitting at the table?",
-        "Answer_2": "Monica's Kitchen"
+        "Answer_2": "Monica's Kitchen",
+        "merged_question": "Where was Ross sitting before he started talking?",
+        "answer": "Monica's Kitchen."
     },
     {
         "Question_1": "What was Ross doing before he started talking?",
         "Answer_1": "sitting",
         "Question_2": "What does Mr.Green do after sitting at the table?",
-        "Answer_2": "puts a napkin on his lap"
+        "Answer_2": "puts a napkin on his lap",
+        "merged_question": "What does Ross do after sitting?",
+        "answer": "puts a napkin on his lap."
     },
     {
         "Question_1": "What was Ross doing before he started talking?",
         "Answer_1": "sitting",
         "Question_2": "Who is sitting at the restaurant table with the man after he left the table",
-        "Answer_2": "Rachel and Phoebe are sitting at the restaurant table"
+        "Answer_2": "Rachel and Phoebe are sitting at the restaurant table",
+        "merged_question": "Who was sitting at the table with the man after Ross left the table?",
+        "answer": "Rachel and Phoebe."
     },
     {
         "Question_1": "What was Ross doing before he started talking?",
         "Answer_1": "sitting",
         "Question_2": "Who was sitting at the table when Rachel and her dad sat down? ",
-        "Answer_2": "Phoebe."
+        "Answer_2": "Phoebe.",
+        "merged_question": "Who was sitting at the table before Rachel and her dad sat down?",
+        "answer": "Phoebe."
     },
     {
         "Question_1": "What was Ross doing before he started talking?",
         "Answer_1": "sitting",
         "Question_2": "What object was on Monica's lap when she was sitting on the couch?",
-        "Answer_2": "A purse."
+        "Answer_2": "A purse.",
+        "merged_question": "What was Ross doing before he started talking to someone who was sitting on the couch with a purse on their lap?",
+        "answer": "sitting."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What is Chandler handed after his conversation with Joey?",
-        "Answer_2": "A folder"
+        "Answer_2": "A folder",
+        "merged_question": "Who is Joey talking to after the scene starts, and what is handed to that person after their conversation?",
+        "answer": "Chandler and a folder."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What was Chandler's reasoning for giving his employees the day off when he explained it to his boss?",
-        "Answer_2": "Boost morale"
+        "Answer_2": "Boost morale",
+        "merged_question": "What was Joey's reason for talking to Chandler after the scene starts?",
+        "answer": "Boost morale."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What was Mr. Douglas holding when he walked up to Joey and Chandler? ",
-        "Answer_2": "A file"
+        "Answer_2": "A file",
+        "merged_question": "What was Chandler talking to Joey about before Mr. Douglas walked up to them holding a file?",
+        "answer": "Chandler was talking to Joey about something before Mr. Douglas walked up to them holding a file."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "Where are Joey and Chandler when they are hanging out together?",
-        "Answer_2": "In Chandler's office. "
+        "Answer_2": "In Chandler's office. ",
+        "merged_question": "Who is Joey talking to in Chandler's office?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What job does Chandler offer Joey when Joey is in Chandlers office?",
-        "Answer_2": "Entry-level processor"
+        "Answer_2": "Entry-level processor",
+        "merged_question": "What job is Joey applying for after talking to Chandler?",
+        "answer": "Entry-level processor."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "Where is Chandler when Ross opens the door and walks in?",
-        "Answer_2": "Behind his desk."
+        "Answer_2": "Behind his desk.",
+        "merged_question": "Who is Joey talking to after the scene starts when Ross walks in and sees them behind his desk?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "Where did Chandler hold Joey when he pushed him out the door?",
-        "Answer_2": "His face."
+        "Answer_2": "His face.",
+        "merged_question": "Where was Joey's face when Chandler pushed him out the door?",
+        "answer": "His face."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What does Joey say after he enters Chandler's office?",
-        "Answer_2": "Hey! Mr. Douglas is looking for you."
+        "Answer_2": "Hey! Mr. Douglas is looking for you.",
+        "merged_question": "Who is Mr. Douglas looking for, and why is he looking for them?",
+        "answer": "Joey is being looked for by Mr. Douglas, because Joey told Chandler that Mr. Douglas was looking for him."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What is Chandler holding when he is talking to Joey?",
-        "Answer_2": "A pen"
+        "Answer_2": "A pen",
+        "merged_question": "Who is Joey talking to after the scene starts, and what is the person holding?",
+        "answer": "Joey is talking to Chandler, and Chandler is holding a pen."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What does Chandler put on the table after Joey said that Mr. Douglas was looking for him?",
-        "Answer_2": "A pen"
+        "Answer_2": "A pen",
+        "merged_question": "What was Joey talking to Chandler about after Chandler put a pen on the table?",
+        "answer": "Not Available (Since there is no information about what Joey and Chandler were talking about after Chandler put a pen on the table)."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What did Joey do to before coming into Chandler's office?",
-        "Answer_2": "Joey told Mr. Douglas that chandler dropped the ball on the lender project."
+        "Answer_2": "Joey told Mr. Douglas that chandler dropped the ball on the lender project.",
+        "merged_question": "Generated Multi-hop Question: What did Joey tell Mr. Douglas about Chandler before coming into his office to talk to him?",
+        "answer": "Joey told Mr. Douglas that Chandler dropped the ball on the lender project."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
