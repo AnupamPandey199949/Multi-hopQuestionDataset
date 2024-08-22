@@ -803,121 +803,161 @@
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What did Ross say after Janice husband said I'm the luckiest guy in the world?",
-        "Answer_2": "Really?"
+        "Answer_2": "Really?",
+        "merged_question": "What is Ross's reaction to Janice's husband's statement, after he holds Rachel after she has a contraction after talking to Julie?",
+        "answer": "Really?"
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "Who doesn't Ross want to be with after asked about the baby?",
-        "Answer_2": "Rachel"
+        "Answer_2": "Rachel",
+        "merged_question": "Who doesn't Ross want to be with after she holds him after having a contraction?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What does Phoebe have on her shirt when she and Ross are talking about his relationship with Rachel at the hospital?",
-        "Answer_2": "A cobra."
+        "Answer_2": "A cobra.",
+        "merged_question": "Who holds Rachel after she has a contraction after talking to someone who has a cobra on her shirt at the hospital?",
+        "answer": "Ross"
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "Why did Ross tell Rachell to squeeze her legs together when they were talking to Janice?",
-        "Answer_2": "To protect Rachel's unborn child's ears from Janice laughing."
+        "Answer_2": "To protect Rachel's unborn child's ears from Janice laughing.",
+        "merged_question": "Generated Multi-hop Question: Why did Ross tell Rachel to squeeze her legs together when she was having a contraction after talking to Julie?",
+        "answer": "To protect Rachel's unborn child's ears from Julie laughing."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What did Ross do when the nurse put the baby in the bed?",
-        "Answer_2": "Pointed at the baby"
+        "Answer_2": "Pointed at the baby",
+        "merged_question": "Who pointed at the baby after the nurse put it in the bed?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What was Ross doing to Rachel when Julies husband opened the curtain at the hospital?",
-        "Answer_2": "Rubbing her back and hip"
+        "Answer_2": "Rubbing her back and hip",
+        "merged_question": "Generated Multi-hop Question: Who was rubbing Rachel's back and hip when Julie's husband opened the curtain at the hospital?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "Who does Rachel call Ross's future wife when she is telling Joey about why she is upset?",
-        "Answer_2": "Miss New Boobs."
+        "Answer_2": "Miss New Boobs.",
+        "merged_question": "Who does Rachel call after talking to Julie and then having a contraction, and who does she tell Joey is the reason for her upset?",
+        "answer": "Miss New Boobs."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What did Rachel do after Ross named the baby Isabella?",
-        "Answer_2": "She sobbed and said that's not her name and it doesn't fit her"
+        "Answer_2": "She sobbed and said that's not her name and it doesn't fit her",
+        "merged_question": "Why did Rachel sob and say the name doesn't fit her baby after Ross named her Isabella?",
+        "answer": "Because she had just had a contraction after talking to Julie."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What does Ross have to have after he says to stop it?",
-        "Answer_2": "A baby"
+        "Answer_2": "A baby",
+        "merged_question": "Who has to have a baby after he is holding Rachel who has a contraction after talking to Julie?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What did Ross say, after Phoebe asked him, why isn't he with Rachel?",
-        "Answer_2": "we're not gonna be together just because we're having this baby"
+        "Answer_2": "we're not gonna be together just because we're having this baby",
+        "merged_question": "Why isn't Ross with Rachel despite her being in labor and talking to Julie, and what does Ross say about their relationship?",
+        "answer": "Ross says \"we're not gonna be together just because we're having this baby\" despite Rachel being in labor after talking to Julie."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "Who did Joey say turned him down after Ross walks away?",
-        "Answer_2": "Rachel"
+        "Answer_2": "Rachel",
+        "merged_question": "Who did Joey say turned him down after Ross walked away after Rachel had a contraction?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "What does Joey say Treeger needs before he gets Marge to go for him?",
         "Answer_1": "practice",
         "Question_2": "Where was Joey when he was dancing for their last practice?",
-        "Answer_2": "On the roof."
+        "Answer_2": "On the roof.",
+        "merged_question": "What does Joey say Treeger needs before he gets Marge to go for him while he is on the roof?",
+        "answer": "practice."
     },
     {
         "Question_1": "Where was Tag when he was talking to Rachel?",
         "Answer_1": "office",
         "Question_2": "Who was Rachel talking to when she was at the office?",
-        "Answer_2": "Tag"
+        "Answer_2": "Tag",
+        "merged_question": "Who was Rachel talking to when she was at the office where Tag was talking to her?",
+        "answer": "Tag."
     },
     {
         "Question_1": "Where was Tag when he was talking to Rachel?",
         "Answer_1": "office",
         "Question_2": "What does Joey ask Rachel for when he goes to her office?",
-        "Answer_2": "A shirt."
+        "Answer_2": "A shirt.",
+        "merged_question": "What was Joey asking for when he went to the office where Tag was talking to Rachel?",
+        "answer": "A shirt."
     },
     {
         "Question_1": "Where was Tag when he was talking to Rachel?",
         "Answer_1": "office",
         "Question_2": "What does Joey pick up and eat when he is in Rachel's office?",
-        "Answer_2": "A donut. "
+        "Answer_2": "A donut. ",
+        "merged_question": "Generated Multi-hop Question: What does Tag pick up and eat when he is in the office?",
+        "answer": "A donut."
     },
     {
         "Question_1": "Where was Tag when he was talking to Rachel?",
         "Answer_1": "office",
         "Question_2": "What scares Rachel when she's in her office?",
-        "Answer_2": "Someone walking in"
+        "Answer_2": "Someone walking in",
+        "merged_question": "What scares Rachel when someone walks into her workplace?",
+        "answer": "Someone walking in."
     },
     {
         "Question_1": "Where was Tag when he was talking to Rachel?",
         "Answer_1": "office",
         "Question_2": "What did Rachel ask Tag when she walked into the office?",
-        "Answer_2": "Rachel asked Tag if he was going to do sit-ups"
+        "Answer_2": "Rachel asked Tag if he was going to do sit-ups",
+        "merged_question": "What was Tag doing when Rachel asked him if he was going to do sit-ups?",
+        "answer": "Tag was talking to Rachel."
     },
     {
         "Question_1": "Where was Tag when he was talking to Rachel?",
         "Answer_1": "office",
         "Question_2": "What does Rachel do when Tag turns around to leave her office?",
-        "Answer_2": "She gets up from her chair. "
+        "Answer_2": "She gets up from her chair. ",
+        "merged_question": "What does Tag do when Rachel gets up from her chair in the office?",
+        "answer": "He turns around to leave."
     },
     {
         "Question_1": "Where was Tag when he was talking to Rachel?",
         "Answer_1": "office",
         "Question_2": "What does Tag hand to Rachel when he is in her office?",
-        "Answer_2": "A piece of paper. "
+        "Answer_2": "A piece of paper. ",
+        "merged_question": "What was Tag handing to Rachel when he was in her office?",
+        "answer": "A piece of paper."
     },
     {
         "Question_1": "Where was Tag when he was talking to Rachel?",
         "Answer_1": "office",
         "Question_2": "Who walks into Rachel's office when she is at work?",
-        "Answer_2": "Joey."
+        "Answer_2": "Joey.",
+        "merged_question": "Who walks into the office where Tag was talking to Rachel?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Where was Tag when he was talking to Rachel?",
