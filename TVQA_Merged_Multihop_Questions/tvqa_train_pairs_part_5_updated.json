@@ -2402,121 +2402,161 @@
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "How does Rachel suggest handling Chandler's job when the go to Vegas?",
-        "Answer_2": "Not go"
+        "Answer_2": "Not go",
+        "merged_question": "How does the last one to leave and say goodbye to Chandler when they leave suggest handling Chandler's job when they go to Vegas?",
+        "answer": "Not go."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "Why did Monica come back after she and Rachel walked out of the apartment?",
-        "Answer_2": "Monica wanted Chandler to clean Rachel's mess."
+        "Answer_2": "Monica wanted Chandler to clean Rachel's mess.",
+        "merged_question": "Why did Rachel leave the apartment last when saying goodbye to Chandler?",
+        "answer": "Because she left a mess, which prompted Monica to come back and ask Chandler to clean it."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "What does Rachel do after Monica tries to give her eye drops the first time?",
-        "Answer_2": "rolls over"
+        "Answer_2": "rolls over",
+        "merged_question": "What does Rachel do after she says goodbye to Chandler when she leaves?",
+        "answer": "Rolls over."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "Who reminded Rachel of the eye doctor's appointment before Rachel entered the room?",
-        "Answer_2": "Monica."
+        "Answer_2": "Monica.",
+        "merged_question": "Who reminded Rachel to leave and say goodbye to Chandler before she left?",
+        "answer": "Monica."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "What is Rachel trying to do when Monica is watching her?",
-        "Answer_2": "Put drops in her eyes. "
+        "Answer_2": "Put drops in her eyes. ",
+        "merged_question": "Why is Rachel trying to put drops in her eyes when Monica is watching her, right before Rachel leaves to say goodbye to Chandler?",
+        "answer": "Rachel is trying to put drops in her eyes because she is crying."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "What does Monica say after Rachel says her eye is getting better?",
-        "Answer_2": "She says that Rachel's eye drops are still in her coat pocket."
+        "Answer_2": "She says that Rachel's eye drops are still in her coat pocket.",
+        "merged_question": "What does Rachel do after she says her eye is getting better, and why is it relevant to the situation of saying goodbye to Chandler?",
+        "answer": "Rachel does nothing immediately, but it is relevant because Monica then points out that Rachel's eye drops are still in her coat pocket, indicating that she still needs to take care of her eye, and therefore should not be the last one to leave."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "What does Monica say before her and Rachel exit the doctor's office?",
-        "Answer_2": "She says that Rachel could not get one (a lollipop)."
+        "Answer_2": "She says that Rachel could not get one (a lollipop).",
+        "merged_question": "Who is the last one to leave the doctor's office, where Rachel was unable to get a lollipop?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "Why did Rachel knock the box off the table before she and Monica left the apartment?",
-        "Answer_2": "Rachel was thinking the mess would cause them to re-schedule the eye doctor's appointment."
+        "Answer_2": "Rachel was thinking the mess would cause them to re-schedule the eye doctor's appointment.",
+        "merged_question": "Generated Multi-hop Question: What was Rachel trying to avoid by making a mess before she left the apartment?",
+        "answer": "The eye doctor's appointment."
     },
     {
         "Question_1": "Who is the last one to leave say goodbye to Chandler when they leave?",
         "Answer_1": "Rachel",
         "Question_2": "Why is Monica watching Rachel when she is putting drops in her eyes?",
-        "Answer_2": "To make sure she actually does it. "
+        "Answer_2": "To make sure she actually does it. ",
+        "merged_question": "Generated Multi-hop Question: Why is Rachel making sure she actually puts drops in her eyes when saying goodbye to Chandler, who is the last one to leave?",
+        "answer": "To make sure she actually does it."
     },
     {
         "Question_1": "Who is Phoebe sitting next to when Rachel tosses the coin?",
         "Answer_1": "Joey",
         "Question_2": "What do Ross and Joey do after Rachel makes a joke about Chandler?",
-        "Answer_2": "They laugh at her joke."
+        "Answer_2": "They laugh at her joke.",
+        "merged_question": "Who is Phoebe sitting next to when Ross and Joey laugh at Rachel's joke about Chandler?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who is Phoebe sitting next to when Rachel tosses the coin?",
         "Answer_1": "Joey",
         "Question_2": "Who did Joey say won after the votes were tallied? ",
-        "Answer_2": "Phoebe."
+        "Answer_2": "Phoebe.",
+        "merged_question": "Who did Joey say won after the votes were tallied when Rachel was tossing the coin?",
+        "answer": "Phoebe."
     },
     {
         "Question_1": "Who is Phoebe sitting next to when Rachel tosses the coin?",
         "Answer_1": "Joey",
         "Question_2": "Where did Ross fall asleep before waking up on Joey?",
-        "Answer_2": "Ross fell asleep on the couch."
+        "Answer_2": "Ross fell asleep on the couch.",
+        "merged_question": "Where was Joey sitting when Ross fell asleep?",
+        "answer": "The couch."
     },
     {
         "Question_1": "Who is Phoebe sitting next to when Rachel tosses the coin?",
         "Answer_1": "Joey",
         "Question_2": "What is Rachel pointing to after Joey enter the room?",
-        "Answer_2": "Phoebe"
+        "Answer_2": "Phoebe",
+        "merged_question": "Who was Rachel pointing to after Joey entered the room?",
+        "answer": "Phoebe."
     },
     {
         "Question_1": "Who is Phoebe sitting next to when Rachel tosses the coin?",
         "Answer_1": "Joey",
         "Question_2": "Why does Ross reject the situation he and Joey were to act when they are testing Rachel?",
-        "Answer_2": "The act was not sanctioned."
+        "Answer_2": "The act was not sanctioned.",
+        "merged_question": "Why does Ross reject the situation he and Joey were to act when Rachel tosses the coin?",
+        "answer": "The act was not sanctioned."
     },
     {
         "Question_1": "Who is Phoebe sitting next to when Rachel tosses the coin?",
         "Answer_1": "Joey",
         "Question_2": "What room are Ross and Joey conversing in when they speak?",
-        "Answer_2": "Kitchen."
+        "Answer_2": "Kitchen.",
+        "merged_question": "In which room is Joey sitting when Rachel tosses the coin?",
+        "answer": "Kitchen."
     },
     {
         "Question_1": "Who is Phoebe sitting next to when Rachel tosses the coin?",
         "Answer_1": "Joey",
         "Question_2": "What does Joey do with his arms when Ross walks away?",
-        "Answer_2": "Joey cross's his arms."
+        "Answer_2": "Joey cross's his arms.",
+        "merged_question": "Why is Joey sitting with his arms crossed when Rachel tosses the coin?",
+        "answer": "Joey crosses his arms when Ross walks away."
     },
     {
         "Question_1": "Who is Phoebe sitting next to when Rachel tosses the coin?",
         "Answer_1": "Joey",
         "Question_2": "What did Phoebe offer to do for Joey and Ross before she sat down?",
-        "Answer_2": "To get them something to drink."
+        "Answer_2": "To get them something to drink.",
+        "merged_question": "What did Phoebe offer to do for Joey and Ross before she sat down, who were sitting next to her when Rachel tossed the coin?",
+        "answer": "To get them something to drink."
     },
     {
         "Question_1": "Who is Phoebe sitting next to when Rachel tosses the coin?",
         "Answer_1": "Joey",
         "Question_2": "What are Joey and Ross doing when they are on the couch together?",
-        "Answer_2": "Taking a nap. "
+        "Answer_2": "Taking a nap. ",
+        "merged_question": "What is Joey doing when he is sitting next to Phoebe, who is in the same situation as Ross?",
+        "answer": "Taking a nap."
     },
     {
         "Question_1": "Who is Phoebe sitting next to when Rachel tosses the coin?",
         "Answer_1": "Joey",
         "Question_2": "What role does Joey play when he is in front of Rachael?",
-        "Answer_2": "Chnadler's."
+        "Answer_2": "Chnadler's.",
+        "merged_question": "Who is Phoebe sitting next to when Rachel tosses the coin if Joey is playing the role of Chandler in that scenario?",
+        "answer": "Chandler's role is played by Joey, so Phoebe is sitting next to Chandler."
     },
     {
         "Question_1": "Who is Phoebe sitting next to when Rachel tosses the coin?",
         "Answer_1": "Joey",
         "Question_2": "How does Ross react when Joey offers to shake Ross's hand?",
-        "Answer_2": "Ross avoids Joey's hand."
+        "Answer_2": "Ross avoids Joey's hand.",
+        "merged_question": "How does Ross react when Joey, who is sitting next to Phoebe, offers to shake his hand?",
+        "answer": "Ross avoids Joey's hand."
     },
     {
         "Question_1": "Who is Phoebe sitting next to when Rachel tosses the coin?",
