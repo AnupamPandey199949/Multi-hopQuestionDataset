@@ -2563,121 +2563,161 @@
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "What does Foreman say he has not done when he is in a lot of pain and talking with Cameron?",
-        "Answer_2": "He says he wants to be knocked out and he knows he might die while in a coma. He needs to do a will."
+        "Answer_2": "He says he wants to be knocked out and he knows he might die while in a coma. He needs to do a will.",
+        "merged_question": "What does Foreman do before he might die in a coma while talking with Cameron in the room when Rodney visits him?",
+        "answer": "He does a will."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "What did House say he found when phoning Cameron?",
-        "Answer_2": "He found a blind bird"
+        "Answer_2": "He found a blind bird",
+        "merged_question": "Generated Multi-hop Question: What did House find when he phoned Cameron, who was in the room when Rodney visited Foreman?",
+        "answer": "He found a blind bird."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "Why did House tell Cameron to stay on top of his vision after House said he didn't care if she did it alphabetically?",
-        "Answer_2": "the first sigh of regression means they have taken him off the wrong one"
+        "Answer_2": "the first sigh of regression means they have taken him off the wrong one",
+        "merged_question": "Why did House tell Cameron to stay on top of her vision when Rodney visits Foreman?",
+        "answer": "The first sign of regression means they have taken him off the wrong one."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "How does Cameron say she knew the water had Naegleria in it when she talks on the phone about water samples with House?",
-        "Answer_2": "Cameron says she already did the biopsy."
+        "Answer_2": "Cameron says she already did the biopsy.",
+        "merged_question": "When Cameron says she already did the biopsy to House on the phone about water samples, what is the context of their conversation, given that Cameron is in the room with Foreman and Rodney when he visits Foreman?",
+        "answer": "They are discussing water samples that may have Naegleria in them."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "What does Foreman do before telling Cameron he needs her help?",
-        "Answer_2": "Grabs her hand"
+        "Answer_2": "Grabs her hand",
+        "merged_question": "What does Foreman do to Cameron before he tells her he needs her help when Rodney is also in the room?",
+        "answer": "Grabs her hand."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "Who does House go see after his conversation with Cameron?",
-        "Answer_2": "He goes to see Foreman's dad."
+        "Answer_2": "He goes to see Foreman's dad.",
+        "merged_question": "Who does House go see after his conversation with the person who is also in the room when Rodney visits Foreman?",
+        "answer": "Foreman's dad."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "Which medical procedure is House trying to avoid for the patient after Cameron walks in the room with news?",
-        "Answer_2": "Brain biopsy."
+        "Answer_2": "Brain biopsy.",
+        "merged_question": "What medical procedure is House trying to avoid for the patient after Cameron walks in the room with Rodney?",
+        "answer": "Brain biopsy."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "What does the doctor do before Cameron point out that Foreman is black?",
-        "Answer_2": "He notes that the patient is a cop who enjoys physical fitness"
+        "Answer_2": "He notes that the patient is a cop who enjoys physical fitness",
+        "merged_question": "What is the reason for the doctor's surprise when Rodney visits Foreman?",
+        "answer": "He notes that the patient is a cop who enjoys physical fitness."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "What biopsy did House confirm after Cameron suggests checking his CSF?",
-        "Answer_2": "A brain biopsy"
+        "Answer_2": "A brain biopsy",
+        "merged_question": "What did House confirm after Cameron suggests checking the CSF of the person who is also in the room when Rodney visits Foreman?",
+        "answer": "A brain biopsy."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "Why does Cameron rule out toxic mold after Chase suggest it?",
-        "Answer_2": "Cameron believe she would also be sick if it were toxic mold. "
+        "Answer_2": "Cameron believe she would also be sick if it were toxic mold. ",
+        "merged_question": "Why does Cameron believe she would also be sick if it were toxic mold, and who is also in the room when Rodney visits Foreman?",
+        "answer": "Cameron believes she would also be sick if it were toxic mold because she is also in the room when Rodney visits Foreman."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "Why do Chase and Cameron give Foreman so many pills to take when he is in the airlock room?",
-        "Answer_2": "Because House doesn't know what he has so he is treating him for everything."
+        "Answer_2": "Because House doesn't know what he has so he is treating him for everything.",
+        "merged_question": "Why are Chase and Cameron giving Foreman so many pills when Rodney is in the room?",
+        "answer": "Because House doesn't know what he has so he is treating him for everything."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "What was Cameron doing before Chase and Mr. Foreman walked through the door?",
-        "Answer_2": "Cameron was giving a shot"
+        "Answer_2": "Cameron was giving a shot",
+        "merged_question": "What was Chase and Mr. Foreman walking in on when they entered the room?",
+        "answer": "Cameron was giving a shot."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "What did Cameron pick up before she walked out?",
-        "Answer_2": "rubber band"
+        "Answer_2": "rubber band",
+        "merged_question": "What did Cameron pick up before she walked out of the room when Rodney visits Foreman?",
+        "answer": "rubber band."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "What disease does Cameron tell Foreman is also on the table when he asks them what he is being treated for?",
-        "Answer_2": "She tells him that Guillain BarrA is also on the table."
+        "Answer_2": "She tells him that Guillain BarrA is also on the table.",
+        "merged_question": "What disease is also on the table when Foreman asks them what he is being treated for when Rodney visits?",
+        "answer": "Guillain BarrA."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "Why does Cameron ask about the bird when speaking to House?",
-        "Answer_2": "She wants to make sure he has the bird because the surgical team is in place."
+        "Answer_2": "She wants to make sure he has the bird because the surgical team is in place.",
+        "merged_question": "Why does House's surgical team have the bird when Rodney visits Foreman?",
+        "answer": "Because Cameron wants to make sure he has the bird because the surgical team is in place."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "What was Cameron  looking at when House  called her?",
-        "Answer_2": "Cameron was looking at image on a Microscope"
+        "Answer_2": "Cameron was looking at image on a Microscope",
+        "merged_question": "Generated Multi-hop Question: What was Cameron looking at when Rodney visited Foreman?",
+        "answer": "Image on a Microscope."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "Who does Cameron say made her boss when she responds to House's sarcastic question?",
-        "Answer_2": "Foreman."
+        "Answer_2": "Foreman.",
+        "merged_question": "Who is Cameron's boss when Rodney visits Foreman?",
+        "answer": "Foreman."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "Where did Cameron stop when she turned to ask House what out of time meant?",
-        "Answer_2": "On the stairs."
+        "Answer_2": "On the stairs.",
+        "merged_question": "Who is also in the room when Rodney visits Foreman, and what was Cameron doing when she turned to ask House what \"out of time\" meant in that same room?",
+        "answer": "Cameron was also in the room when Rodney visits Foreman, and she was standing on the stairs."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "Why does Cameron feel the water is good after House suggest they got something wrong?",
-        "Answer_2": "She tested herself and says the water is clean."
+        "Answer_2": "She tested herself and says the water is clean.",
+        "merged_question": "Why does Cameron feel the water is good after House suggests they got something wrong when Rodney visits Foreman?",
+        "answer": "She tested herself and says the water is clean."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
         "Answer_1": "Cameron",
         "Question_2": "What does House do after he tells Cameron and Chase to stay away from people and animals that they care about?",
-        "Answer_2": "Looks at an empty chair."
+        "Answer_2": "Looks at an empty chair.",
+        "merged_question": "What does House do after he tells Cameron and Chase to stay away from people and animals that they care about, which includes Rodney, who is also in the room when Foreman visits House?",
+        "answer": "Looks at an empty chair."
     },
     {
         "Question_1": "Who is also in the room when Rodney visits Foreman?",
