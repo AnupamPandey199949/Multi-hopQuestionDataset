@@ -483,121 +483,161 @@
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "What news paper does Gary take out when he is talking to Phoebe?",
-        "Answer_2": "The Post."
+        "Answer_2": "The Post.",
+        "merged_question": "What newspaper would Phoebe be happy to see Gary reading when they are living together?",
+        "answer": "The Post."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "What time does Joey say when talking to Chandler and Monica about himself?",
-        "Answer_2": "2:00"
+        "Answer_2": "2:00",
+        "merged_question": "Generated Multi-hop Question: At what time does Joey walk into the apartment carrying Emma when Monica is on the phone?",
+        "answer": "2:00"
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "Where is the coffee maker when Joey and Phoebe were talking about setting someone up?",
-        "Answer_2": "On top of the microwave."
+        "Answer_2": "On top of the microwave.",
+        "merged_question": "Who walks into the apartment carrying Emma when Monica is on the phone, and where is the coffee maker at that moment?",
+        "answer": "Joey, and the coffee maker is on top of the microwave."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "What does the waiter set on the table when Ross and Joey are waiting for their dates to arrive?",
-        "Answer_2": "A glass of water."
+        "Answer_2": "A glass of water.",
+        "merged_question": "Who walks into the apartment carrying Emma when Monica is on the phone, and what does the waiter set on the table for him when he is waiting for his date to arrive?",
+        "answer": "Joey, A glass of water."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "What did Phoebe do after Joey told her his date was still in the bedroom?",
-        "Answer_2": "Looked over her shoulder."
+        "Answer_2": "Looked over her shoulder.",
+        "merged_question": "Generated Multi-hop Question: What did Phoebe do after Joey told her his date was still in the same room where he had walked in with Emma?",
+        "answer": "Looked over her shoulder."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "What does Monica say is expensive when Joey and Chandler are laughing?",
-        "Answer_2": "sticks"
+        "Answer_2": "sticks",
+        "merged_question": "Generated Multi-hop Question: Who walks into the apartment carrying Emma when Joey and Chandler are laughing about something that Monica says is expensive?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "Why does Joey laugh when he sees Rachel and Ross?",
-        "Answer_2": "Joey's plan is working."
+        "Answer_2": "Joey's plan is working.",
+        "merged_question": "Why is Joey laughing when he walks into the apartment carrying Emma, while Monica is on the phone?",
+        "answer": "Joey's plan is working."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "What does the waiter reveal the staff is betting on after informing Ross and Joey that it does not involve them?",
-        "Answer_2": "The staff is betting on how long it will take a customer to cry"
+        "Answer_2": "The staff is betting on how long it will take a customer to cry",
+        "merged_question": "Who walks into the apartment carrying Emma when the staff is on the phone with a customer they think will cry?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "What was Phoebe doing when Joey was talking about having kids?",
-        "Answer_2": "Eating baby food."
+        "Answer_2": "Eating baby food.",
+        "merged_question": "What was Joey doing when Phoebe was eating baby food?",
+        "answer": "Joey was talking about having kids."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "What is the color of Joey's sweater when he is talking to Phoebe?",
-        "Answer_2": "Red"
+        "Answer_2": "Red",
+        "merged_question": "What color is the sweater of the person who walks into the apartment carrying Emma when Monica is on the phone?",
+        "answer": "Red."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "Why do Joey and Ross think they can get free crab cakes when they are at this restaurant?",
-        "Answer_2": "Joey and Ross were stood up the night before and were given free crab cakes on behalf of the restaurant"
+        "Answer_2": "Joey and Ross were stood up the night before and were given free crab cakes on behalf of the restaurant",
+        "merged_question": "Generated Multi-hop Question: Why did Joey walk into the apartment carrying Emma when Monica was on the phone?",
+        "answer": "Joey was stood up the night before and was given free crab cakes on behalf of the restaurant."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "How many jars of baby food are on the counter after Phoebe asks Joey what are they going to do?",
-        "Answer_2": "Two"
+        "Answer_2": "Two",
+        "merged_question": "How many jars of baby food are on the counter when Joey walks into the apartment carrying Emma while Monica is on the phone?",
+        "answer": "Two."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "What does the waiter pour into the Ross's glass when Ross and Joey are sitting at a table?",
-        "Answer_2": "Water. "
+        "Answer_2": "Water. ",
+        "merged_question": "Generated Multi-hop Question: When Ross and Joey are sitting at a table, who walks into the apartment carrying Emma while Monica is on the phone?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "why is Joey and phoebe setting up rachel and ross when they are talking on the couch about their dates?",
-        "Answer_2": "they are trying to get them back together."
+        "Answer_2": "they are trying to get them back together.",
+        "merged_question": "Generated Multi-hop Question: Why are Joey and Phoebe setting up Rachel and Ross while Monica is on the phone, and who is she currently with?",
+        "answer": "They are trying to get them back together, and she is currently with Joey."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "How do Joey and Ross try to get free crab cakes when they talk to the waiter?",
-        "Answer_2": "Joey and Ross hope the waiter will take pity on them and give them the crab cakes to make them feel better"
+        "Answer_2": "Joey and Ross hope the waiter will take pity on them and give them the crab cakes to make them feel better",
+        "merged_question": "Who does Joey try to make feel better by offering a sad story in order to get free crab cakes, while carrying Emma into the apartment where Monica is on the phone?",
+        "answer": "Monica."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "Where are Phoebe and Joey when they are taking turns laughing?",
-        "Answer_2": "On the couch. "
+        "Answer_2": "On the couch. ",
+        "merged_question": "Who walks into the apartment carrying Emma while Phoebe and Joey are on the couch?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "What kind of food do Joey and Ross request when they are talking to the waiter?",
-        "Answer_2": "Crab cakes"
+        "Answer_2": "Crab cakes",
+        "merged_question": "Who walks into the apartment carrying Emma when Monica is on the phone, and what kind of food do they order later in the day?",
+        "answer": "Joey walks into the apartment carrying Emma when Monica is on the phone, and later Joey orders Crab cakes."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "Where did Phoebe say her and Joey should run when Ross and Rachel stood up?",
-        "Answer_2": "Mexico"
+        "Answer_2": "Mexico",
+        "merged_question": "Where did Joey take Emma to escape Ross and Rachel's argument?",
+        "answer": "Mexico."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "Where is the newspaper when Joey and Phoebe were doing their plan laugh?",
-        "Answer_2": "On the kitchen counter."
+        "Answer_2": "On the kitchen counter.",
+        "merged_question": "Who walks into the apartment carrying Emma when Monica is on the phone, and where does he leave her in the apartment?",
+        "answer": "Joey walks into the apartment carrying Emma when Monica is on the phone, and he leaves her in the apartment near the kitchen counter."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
         "Answer_1": "Joey",
         "Question_2": "How can Chandler and Monica stop Joey when he is planning to tell Rachel their secret?",
-        "Answer_2": "Name their first born son Joey"
+        "Answer_2": "Name their first born son Joey",
+        "merged_question": "How can Chandler and Monica stop Joey from telling Rachel their secret when he walks into the apartment carrying Emma?",
+        "answer": "Name their first born son Joey."
     },
     {
         "Question_1": "Who walks into the apartment carrying Emma when Monica is on the phone?",
