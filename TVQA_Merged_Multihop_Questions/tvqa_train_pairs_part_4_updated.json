@@ -1443,121 +1443,161 @@
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "Who walks into the coffee shop when Chandler is laughing at Monica?",
-        "Answer_2": "Ross does. "
+        "Answer_2": "Ross does. ",
+        "merged_question": "Who walks into the coffee shop when Monica is present and Chandler is laughing?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "How was Phoebe's hair done when she was sitting with Monica?",
-        "Answer_2": "Phoebe's hair was in a half up do."
+        "Answer_2": "Phoebe's hair was in a half up do.",
+        "merged_question": "What is a notable detail about Phoebe's appearance when Chandler sneaks into the cafe and then Monica walks in?",
+        "answer": "Phoebe's hair was in a half up do."
     },
     {
         "Question_1": "Who calls Chandler to tell Kathy he'll be running late when Chandler is in the apartment with Kathy?",
         "Answer_1": "Joey",
         "Question_2": "Waht did Joey do when talking to Chandler?",
-        "Answer_2": "Joey sat."
+        "Answer_2": "Joey sat.",
+        "merged_question": "What action did Joey take while talking to Chandler over the phone to inform Kathy that Chandler would be running late?",
+        "answer": "Joey sat."
     },
     {
         "Question_1": "Who calls Chandler to tell Kathy he'll be running late when Chandler is in the apartment with Kathy?",
         "Answer_1": "Joey",
         "Question_2": "Why does Chandler mention Joey when Kathy is cutting his hair?",
-        "Answer_2": "Joey is Kathy's boyfriend and things are getting intimate between them. "
+        "Answer_2": "Joey is Kathy's boyfriend and things are getting intimate between them. ",
+        "merged_question": "Why does Joey call Chandler to tell Kathy he'll be running late when Chandler is in the apartment with Kathy?",
+        "answer": "Joey is Kathy's boyfriend, and things are getting intimate between them."
     },
     {
         "Question_1": "Who calls Chandler to tell Kathy he'll be running late when Chandler is in the apartment with Kathy?",
         "Answer_1": "Joey",
         "Question_2": "What color is Joey's shirt when Chandler is on the phone?",
-        "Answer_2": "Maroon"
+        "Answer_2": "Maroon",
+        "merged_question": "Who calls Chandler to tell Kathy he'll be running late while wearing a maroon shirt?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who calls Chandler to tell Kathy he'll be running late when Chandler is in the apartment with Kathy?",
         "Answer_1": "Joey",
         "Question_2": "What does Chandler do when Kathy starts to explain her feelings about Joey?",
-        "Answer_2": "He interrupts her."
+        "Answer_2": "He interrupts her.",
+        "merged_question": "Who calls Chandler to tell Kathy he'll be running late when Kathy starts to explain her feelings about Joey?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who calls Chandler to tell Kathy he'll be running late when Chandler is in the apartment with Kathy?",
         "Answer_1": "Joey",
         "Question_2": "What does Chandler reveal after Monica says Joey has the best boyfriend ever?",
-        "Answer_2": "He kissed Kathy."
+        "Answer_2": "He kissed Kathy.",
+        "merged_question": "Who calls Chandler to tell Kathy he'll be running late, but in reality, it's because he kissed her?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who calls Chandler to tell Kathy he'll be running late when Chandler is in the apartment with Kathy?",
         "Answer_1": "Joey",
         "Question_2": "What was Joey watching on TV before someone came into the apartmen",
-        "Answer_2": "Joey was watching Wonder Woman"
+        "Answer_2": "Joey was watching Wonder Woman",
+        "merged_question": "Who calls Kathy to tell her Chandler will be running late while Chandler is in the apartment, and what was the person calling Kathy watching on TV before they made the call?",
+        "answer": "Joey, was watching Wonder Woman."
     },
     {
         "Question_1": "Who calls Chandler to tell Kathy he'll be running late when Chandler is in the apartment with Kathy?",
         "Answer_1": "Joey",
         "Question_2": "What feeling does Chandler express when Kathy starts to explain her feelings for Joey?",
-        "Answer_2": "Confusion"
+        "Answer_2": "Confusion",
+        "merged_question": "Who calls Chandler to tell Kathy he'll be running late when Kathy starts to express her feelings for Joey, and what feeling does Chandler express in response to Kathy's confession?",
+        "answer": "Joey, Confusion."
     },
     {
         "Question_1": "Who calls Chandler to tell Kathy he'll be running late when Chandler is in the apartment with Kathy?",
         "Answer_1": "Joey",
         "Question_2": "What was Joey watching on TV when he was drinking a Sambuca margarita? ",
-        "Answer_2": "Wonder Woman"
+        "Answer_2": "Wonder Woman",
+        "merged_question": "Who calls Kathy to tell her Chandler will be running late while Chandler is in the apartment with Kathy, and what was Joey doing at the same time?",
+        "answer": "Joey was drinking a Sambuca margarita and watching Wonder Woman."
     },
     {
         "Question_1": "Who calls Chandler to tell Kathy he'll be running late when Chandler is in the apartment with Kathy?",
         "Answer_1": "Joey",
         "Question_2": "What color is the cup on top of the stove when Joey enters the apartment?",
-        "Answer_2": "Blue"
+        "Answer_2": "Blue",
+        "merged_question": "Who calls Kathy to inform her that Chandler will be late, and what color is the cup on top of the stove when the person who made the call enters the apartment?",
+        "answer": "Joey, Blue."
     },
     {
         "Question_1": "Who calls Chandler to tell Kathy he'll be running late when Chandler is in the apartment with Kathy?",
         "Answer_1": "Joey",
         "Question_2": "What does Joey do after Chandler says the pieces of his life are falling into place?",
-        "Answer_2": "Pat Chandler on the shoulder"
+        "Answer_2": "Pat Chandler on the shoulder",
+        "merged_question": "Who calls Chandler to inform Kathy that he'll be running late, after which Joey reacts by patting Chandler on the shoulder, suggesting that Chandler's life is falling into place?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who calls Chandler to tell Kathy he'll be running late when Chandler is in the apartment with Kathy?",
         "Answer_1": "Joey",
         "Question_2": "Why does Joey call Chandler when he has a guest over?",
-        "Answer_2": "The transmission is missing from the car"
+        "Answer_2": "The transmission is missing from the car",
+        "merged_question": "Why does Joey call Chandler to tell Kathy he'll be running late when Chandler is in the apartment with Kathy?",
+        "answer": "The transmission is missing from the car."
     },
     {
         "Question_1": "what is joey drinking when talking to everyone?",
         "Answer_1": "coffe",
         "Question_2": "What is Joey looking at when Phoebe walks into the coffee shop?",
-        "Answer_2": "He is reading a newspaper."
+        "Answer_2": "He is reading a newspaper.",
+        "merged_question": "What is Joey drinking when Phoebe walks into the coffee shop and he is reading a newspaper?",
+        "answer": "Coffee."
     },
     {
         "Question_1": "what is joey drinking when talking to everyone?",
         "Answer_1": "coffe",
         "Question_2": "What does Chandler have with him when he is standing next to Monica at the coffee house?",
-        "Answer_2": "A plastic bag. "
+        "Answer_2": "A plastic bag. ",
+        "merged_question": "What is Joey drinking when talking to everyone at the coffee house, where Chandler is standing next to Monica with a plastic bag?",
+        "answer": "Coffee."
     },
     {
         "Question_1": "what is joey drinking when talking to everyone?",
         "Answer_1": "coffe",
         "Question_2": "Where were Joey, Ross and Phoebe sitting when they were at the coffee shop?",
-        "Answer_2": "At a table."
+        "Answer_2": "At a table.",
+        "merged_question": "What was Joey drinking when he was at the table with Ross and Phoebe?",
+        "answer": "Coffee."
     },
     {
         "Question_1": "Who gives a toast after Joey and Monica split the grilled cheese sandwich?",
         "Answer_1": "Chandler",
         "Question_2": "How many candles are lit when Chandler starts cutting the sandwiches?",
-        "Answer_2": "Two."
+        "Answer_2": "Two.",
+        "merged_question": "How many candles are lit when Chandler gives a toast after Joey and Monica split the grilled cheese sandwich?",
+        "answer": "Two."
     },
     {
         "Question_1": "Who gives a toast after Joey and Monica split the grilled cheese sandwich?",
         "Answer_1": "Chandler",
         "Question_2": "How did Chandler respond when Phoebe presented the pumpkin pie?",
-        "Answer_2": "He said it wasn't funny and left"
+        "Answer_2": "He said it wasn't funny and left",
+        "merged_question": "How did Chandler respond when Joey presented the grilled cheese sandwich that he had split with Monica?",
+        "answer": "He said it wasn't funny and left."
     },
     {
         "Question_1": "Who gives a toast after Joey and Monica split the grilled cheese sandwich?",
         "Answer_1": "Chandler",
         "Question_2": "What does Chandler start cutting through after he is holding two knives?",
-        "Answer_2": "Sandwiches."
+        "Answer_2": "Sandwiches.",
+        "merged_question": "Who starts cutting through the sandwiches after Joey and Monica split the grilled cheese sandwich?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who gives a toast after Joey and Monica split the grilled cheese sandwich?",
         "Answer_1": "Chandler",
         "Question_2": "Where is Chandler sitting when Joey is leaning on the door?",
-        "Answer_2": "On the back of the couch. "
+        "Answer_2": "On the back of the couch. ",
+        "merged_question": "Where is Chandler sitting when Joey is leaning on the door, and he is giving a toast after Joey and Monica split the grilled cheese sandwich?",
+        "answer": "On the back of the couch."
     },
     {
         "Question_1": "Who gives a toast after Joey and Monica split the grilled cheese sandwich?",
