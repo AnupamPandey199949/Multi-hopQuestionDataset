@@ -4,7 +4,7 @@
         "Answer_1": "Rachel",
         "Question_2": "Who does Rachel tell Phoebe she is going to have dinner with after Phoebe asks her to see a movie?",
         "Answer_2": "Rachel is going to have dinner with Melissa.",
-        "merged_question": "Who walks in Joey's apartment when Phoebe and Joey are playing chess and then tells Phoebe she is going to have dinner with Melissa?",
+        "merged_question": "Who walks in Joey's apartment when Phoebe and Joey are playing chess, after Phoebe asked Rachel to see a movie and Rachel told Phoebe she was going to have dinner with Melissa?",
         "answer": "Rachel."
     },
     {
@@ -12,15 +12,15 @@
         "Answer_1": "Rachel",
         "Question_2": "What did Rachel have in her hand when she was talking to Monica about talking with the cute bar tender?",
         "Answer_2": "A book",
-        "merged_question": "What was Rachel doing when she walked into Joey's apartment?",
-        "answer": "Playing Chess."
+        "merged_question": "What was Rachel holding when she walked into Joey's apartment to see him and Phoebe playing chess?",
+        "answer": "A book."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "What are Phoebe, Melissa, and Rachel drinking when they are talking?",
         "Answer_2": "They are drinking a red cocktail.",
-        "merged_question": "What is Rachel drinking when she walks in on Joey and Phoebe playing chess in his apartment?",
+        "merged_question": "What is Rachel drinking when she walks into Joey's apartment?",
         "answer": "A red cocktail."
     },
     {
@@ -28,15 +28,15 @@
         "Answer_1": "Rachel",
         "Question_2": "What was Melissa about to do when Rachel stopped her?",
         "Answer_2": "Melissa wanted to kiss Rachel.",
-        "merged_question": "What was Rachel about to stop in Joey's apartment when she walked in on Phoebe and Joey playing chess?",
-        "answer": "Melissa wanting to kiss Rachel."
+        "merged_question": "What was Rachel trying to prevent from happening when she walked into Joey's apartment where Phoebe and Joey were playing chess?",
+        "answer": "Rachel was trying to prevent Melissa from kissing her."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "What color of dress was wearing Melissa when talking to Rachel about their kiss?",
         "Answer_2": "Blue.",
-        "merged_question": "What color dress was Rachel wearing when she walked into Joey's apartment?",
+        "merged_question": "What color of dress was Rachel wearing when she walked into Joey's apartment to play chess with Phoebe?",
         "answer": "Blue."
     },
     {
@@ -44,7 +44,7 @@
         "Answer_1": "Rachel",
         "Question_2": "Why does Rachel turn away from Joey after he offers them a view inside his mind?",
         "Answer_2": "Rachel can not imagine being inside Joey's mind.",
-        "merged_question": "Why does Rachel turn away from Joey after he walks into his apartment when she and Joey are playing chess?",
+        "merged_question": "Why does Rachel turn away from Joey after walking into his apartment when they are playing chess?",
         "answer": "Rachel can not imagine being inside Joey's mind."
     },
     {
@@ -52,31 +52,31 @@
         "Answer_1": "Rachel",
         "Question_2": "What did Joey do before Rachel said \"that is not a problem\"",
         "Answer_2": "Leaned on the couch",
-        "merged_question": "What action was Rachel referring to when she said \"that is not a problem\"?",
-        "answer": "Leaned on the couch."
+        "merged_question": "What did Rachel see Joey doing when she walked into his apartment and he said \"that is not a problem\"?",
+        "answer": "Joey Leaned on the couch."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "Where is Rachel when she tries to convince Phoebe?",
         "Answer_2": "Rachel is in the apartment.",
-        "merged_question": "Who walks in Joey's apartment when Phoebe and Rachel are playing chess?",
-        "answer": "Rachel."
+        "merged_question": "Who walks in Joey's apartment when Phoebe and Phoebe are playing chess?",
+        "answer": "Rachel"
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "What kind of vehicle does Melissa use when she leaves Rachel and Phoebe",
         "Answer_2": "A taxi cab",
-        "merged_question": "Generated Multi-hop Question: What kind of vehicle does Rachel use when she leaves Joey's apartment?",
-        "answer": "A taxi cab."
+        "merged_question": "Generated Multi-hop Question: What mode of transportation does Rachel use when she leaves Phoebe's apartment?",
+        "answer": "A taxi cab"
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "Where did Monica say Rachel may have to sit when she was rearranging the seating?",
         "Answer_2": "At the bar.",
-        "merged_question": "Where did Rachel sit when she walked into Joey's apartment to play chess with him?",
+        "merged_question": "Where did Rachel sit when she walked in on Joey and Phoebe playing chess?",
         "answer": "At the bar."
     },
     {
@@ -84,7 +84,7 @@
         "Answer_1": "Rachel",
         "Question_2": "How does Melissa react after Rachel describes their actions?",
         "Answer_2": "Melissa is apprehensive and scrunches her face.",
-        "merged_question": "How does Melissa react when Rachel describes her and Joey playing chess in Joey's apartment?",
+        "merged_question": "How does Melissa react when Rachel describes Joey and Phoebe playing chess in Joey's apartment?",
         "answer": "Melissa is apprehensive and scrunches her face."
     },
     {
@@ -92,7 +92,7 @@
         "Answer_1": "Rachel",
         "Question_2": "What game is on the counter between Phoebe and Joey when they and Rachel are at his apartment?",
         "Answer_2": "Chess",
-        "merged_question": "Who walks in on Phoebe and Joey while they are playing Chess at his apartment?",
+        "merged_question": "Who walks in Joey's apartment when Phoebe and Joey are playing Chess?",
         "answer": "Rachel."
     },
     {
@@ -100,15 +100,15 @@
         "Answer_1": "Rachel",
         "Question_2": "How does Joey react when he hears Rachel is going out to dinner with Melissa?",
         "Answer_2": "Joey asks if he can come with.",
-        "merged_question": "How does Joey react when Rachel walks into his apartment?",
-        "answer": "Joey asks if he can come with."
+        "merged_question": "How does Joey react when Rachel walks in his apartment while he is playing chess with Phoebe?",
+        "answer": "Joey asks if he can come with (Rachel to dinner)."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "Why was felling Melissa for Rachel when she wanted to kiss her?",
         "Answer_2": "Melissa likes Rachel.",
-        "merged_question": "Why was Phoebe feeling jealous when Rachel walked in on her and Joey playing chess?",
+        "merged_question": "Why did Joey feel bad for Rachel when she walked in on him and Phoebe playing chess?",
         "answer": "Melissa likes Rachel."
     },
     {
@@ -116,7 +116,7 @@
         "Answer_1": "Rachel",
         "Question_2": "Why was Rachel so upset before Pheobe started talking?",
         "Answer_2": "Ricona did not remember Rachel and her kissing",
-        "merged_question": "Why was Rachel so upset when she walked into Joey's apartment where Phoebe and Joey were playing chess?",
+        "merged_question": "Generated Multi-hop Question: Why was Rachel so upset when she walked into Joey's apartment and saw Phoebe and Joey playing chess?",
         "answer": "Ross did not remember Rachel and they had kissed."
     },
     {
@@ -124,31 +124,31 @@
         "Answer_1": "Rachel",
         "Question_2": "Who did Rachel kiss after the Sigma Chi luau?",
         "Answer_2": "Melissa.",
-        "merged_question": "Who did Rachel kiss after walking into Joey's apartment when Phoebe and Joey were playing chess?",
-        "answer": "Melissa."
+        "merged_question": "Who walks in Joey's apartment after Rachel's kiss with Melissa?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "What did Rachel do when she was in Las Vegas?",
         "Answer_2": "Rachel became drunk and married Ross.",
-        "merged_question": "What happened to Ross when Phoebe and Joey were playing chess in his apartment?",
-        "answer": "Rachel walked in."
+        "merged_question": "What happened to Rachel when she was drunk in Las Vegas, which led to a situation where she was seen walking into Joey's apartment while he was playing chess with Phoebe.",
+        "answer": "Rachel got married to Ross."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "What type of necklace is Melissa wearing when she's talking to Phoebe and Rachel?",
         "Answer_2": ".She's wearing a pearl necklace.",
-        "merged_question": "What type of person walks into Joey's apartment when Phoebe and Joey are playing chess, just like the type of person that Melissa is talking to while wearing a pearl necklace?",
-        "answer": "Rachel."
+        "merged_question": "What type of necklace is Rachel wearing when she walks into Joey's apartment to see Phoebe and Joey playing chess?",
+        "answer": "A pearl necklace."
     },
     {
         "Question_1": "Who walks in joeys apartment when phoebe and joey are playing chess?",
         "Answer_1": "Rachel",
         "Question_2": "Who is at dinner with Rachel and Phoebe when they are talking about sororities?",
         "Answer_2": "Rachel's old friend.",
-        "merged_question": "Who walks in Joey's apartment when Phoebe and Rachel's old friend are playing chess?",
+        "merged_question": "Who walks in Joey's apartment when Rachel and Rachel's old friend are playing chess?",
         "answer": "Rachel's old friend."
     },
     {
@@ -156,7 +156,7 @@
         "Answer_1": "Rachel",
         "Question_2": "What remembered Melissa when talking to Rachel?",
         "Answer_2": "A kiss.",
-        "merged_question": "What did Rachel remember when she walked into Joey's apartment where Phoebe and Joey were playing chess?",
+        "merged_question": "What did Rachel remember when she walked in on Phoebe and Joey playing chess?",
         "answer": "A kiss."
     },
     {
