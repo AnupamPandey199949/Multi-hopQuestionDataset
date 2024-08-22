@@ -2083,121 +2083,160 @@
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What does Chandler want Joey to do after Joey reads the paper?",
-        "Answer_2": "Tell stories about Chandler and Monica, instead of the ones Joey wants to tell"
+        "Answer_2": "Tell stories about Chandler and Monica, instead of the ones Joey wants to tell",
+        "merged_question": "Why did Joey get ordained to perform Monica and Chandler's wedding?",
+        "answer": "Chandler wants Joey to tell stories about him and Monica instead of other ones."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "Who does Chandler suggest they call after Joey reads?",
-        "Answer_2": "The spitter"
+        "Answer_2": "The spitter",
+        "merged_question": "Who does Chandler suggest they call after Joey gets ordained for Monica and Chandler before their wedding?",
+        "answer": "The Spitter."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What color jacket is Joey wearing when he talks to Chandler about his love?",
-        "Answer_2": "Joey wears tan."
+        "Answer_2": "Joey wears tan.",
+        "merged_question": "Generated Multi-hop Question: What color jacket was Joey wearing when he got ordained for Monica and Chandler's wedding?",
+        "answer": "Tan."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "Where is Monica when Joey is reading the paper?",
-        "Answer_2": "Monica is by the couch"
+        "Answer_2": "Monica is by the couch",
+        "merged_question": "Where is Monica when Joey is reading the paper for their wedding?",
+        "answer": "By the couch."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What story did Joey say he would talk about after discussing it with Chandler and Monica",
-        "Answer_2": "Joey said he would talk about London"
+        "Answer_2": "Joey said he would talk about London",
+        "merged_question": "Before their wedding, who got ordained to talk about his London story with Chandler and Monica?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "Where are Joey and Chandler when they discuss Chandler's relationship?",
-        "Answer_2": "Joey and Chandler are on the couch."
+        "Answer_2": "Joey and Chandler are on the couch.",
+        "merged_question": "Where were Joey and Chandler sitting when they were discussing Chandler's relationship and preparing to get ordained for Monica and Chandler's wedding?",
+        "answer": "The couch."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "Who is talking about feed poison capsule before Joey stands up",
-        "Answer_2": "Phoebe is talking about poison capsules"
+        "Answer_2": "Phoebe is talking about poison capsules",
+        "merged_question": "Who got ordained to perform the wedding ceremony after Phoebe talks about poison capsules?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "Where are Joey and Chandler sitting when Joey said something about him being lucky? ",
-        "Answer_2": "On the couch. "
+        "Answer_2": "On the couch. ",
+        "merged_question": "Where did Joey ordain Monica and Chandler before their wedding, considering he said he was lucky there?",
+        "answer": "On the couch."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What is Joey doing when he is with his friends?",
-        "Answer_2": "Joey is reading"
+        "Answer_2": "Joey is reading",
+        "merged_question": "Why was Joey reading when he was with his friends?\n\nTo solve this, one needs to make a connection between Q1/A1 (Joey got ordained for Monica and Chandler's wedding) and Q2/A2 (Joey is reading when he is with his friends). The connection can be made by considering that Joey was likely studying or preparing for the ceremony, which would require him to read the necessary materials."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What does Joey say after Monica says she was looking for Joey and not Chandler?",
-        "Answer_2": "Yeah, baby."
+        "Answer_2": "Yeah, baby.",
+        "merged_question": "What does Joey say after he is asked if he was the one who got ordained for Monica and Chandler's wedding?",
+        "answer": "Yeah, baby."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "How long does Phoebe say her pill is after Joey sits down next to her?",
-        "Answer_2": "6 hours"
+        "Answer_2": "6 hours",
+        "merged_question": "How long after Joey sat down next to Phoebe did he get ordained to marry Monica and Chandler?",
+        "answer": "6 hours."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What has Monica cooked for Joey when he comes out to eat?",
-        "Answer_2": "Fried stuff with cheese"
+        "Answer_2": "Fried stuff with cheese",
+        "merged_question": "What did Joey get ordained to marry Monica and Chandler with, considering his favorite food that Monica often cooks for him?",
+        "answer": "Fried stuff with cheese."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "Why are Monica and Chandler so upset when Joey is talking to them?",
-        "Answer_2": "They can't find a minister to marry them"
+        "Answer_2": "They can't find a minister to marry them",
+        "merged_question": "Generated Multi-hop Question: Why were Monica and Chandler upset when Joey was talking to them?",
+        "answer": "They can't find a minister to marry them."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "Where is Chandler sitting after Joey sits on the couch?",
-        "Answer_2": "Chandler is sitting on the couch."
+        "Answer_2": "Chandler is sitting on the couch.",
+        "merged_question": "Who got ordained for the wedding of Monica and Chandler before the wedding, and then sat on the couch?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What did Monica use besides her hands to push fat Joey up to the table after he sat down to eat?",
-        "Answer_2": "Her foot"
+        "Answer_2": "Her foot",
+        "merged_question": "Before their wedding, Joey ordained Monica and Chandler. After Joey ordained them, Monica had to push a very heavy Joey up to the table to eat. What did Monica use besides her hands to push Joey up to the table?",
+        "answer": "Her foot."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "Where does Ross place the scone after he offers it to Joey?",
-        "Answer_2": "On the coffee table"
+        "Answer_2": "On the coffee table",
+        "merged_question": "Where does Joey place the ordination papers for Monica and Chandler's wedding?",
+        "answer": "On the coffee table."
     },
     {
         "Question_1": "Who flags down a waitress after Monica and Chandler get a pool table?",
         "Answer_1": "Rachel",
         "Question_2": "What does Rachel tell Monica Barry does for a living when talking in the coffee shop?",
-        "Answer_2": "Rachel tells Monica that Barry is a doctor."
+        "Answer_2": "Rachel tells Monica that Barry is a doctor.",
+        "merged_question": "What does Barry, the doctor, do when Monica and Chandler are in the coffee shop, after Rachel flags down a waitress to get a pool table?",
+        "answer": "Barry is not present in the coffee shop, this question is based on the assumption that the information is merged from Q1 and Q2 at a relevant point, the actual information is that after Rachel flags down a waitress, she is in the coffee shop with Monica and Chandler, and then tells Monica about Barry being a doctor."
     },
     {
         "Question_1": "Who flags down a waitress after Monica and Chandler get a pool table?",
         "Answer_1": "Rachel",
         "Question_2": "Where does Monica recall knowing Rachel from after seeing her?",
-        "Answer_2": "From highschool"
+        "Answer_2": "From highschool",
+        "merged_question": "Where did Rachel flag down a waitress after Monica and Chandler had gotten a pool table, a place where Monica had known her since high school?",
+        "answer": "From high school."
     },
     {
         "Question_1": "Who flags down a waitress after Monica and Chandler get a pool table?",
         "Answer_1": "Rachel",
         "Question_2": "Where does Rachel tell Monica she wants to go the next time she's in the city before she leaves the building?",
-        "Answer_2": "Rachel tells Monica she wants to go to lunch."
+        "Answer_2": "Rachel tells Monica she wants to go to lunch.",
+        "merged_question": "After getting a pool table, where does Rachel suggest going with Monica before she leaves the building?",
+        "answer": "Lunch."
     },
     {
         "Question_1": "Who flags down a waitress after Monica and Chandler get a pool table?",
         "Answer_1": "Rachel",
         "Question_2": "What does Rachel want to have to get out of her system when talking to the girls?",
-        "Answer_2": "One last fling"
+        "Answer_2": "One last fling",
+        "merged_question": "What does Rachel want to have to get out of her system after talking to Monica and Chandler about their pool table?",
+        "answer": "One last fling."
     },
     {
         "Question_1": "Who flags down a waitress after Monica and Chandler get a pool table?",
