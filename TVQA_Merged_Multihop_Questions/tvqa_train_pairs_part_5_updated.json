@@ -483,121 +483,161 @@
         "Question_1": "Who does Ross hug first when he enters the apartment?",
         "Answer_1": "Monica",
         "Question_2": "What was Monica feeling before she left the table?",
-        "Answer_2": "She was irritated that Ross and Chandler were making fun of her hair."
+        "Answer_2": "She was irritated that Ross and Chandler were making fun of her hair.",
+        "merged_question": "Why did Ross hug Monica when he entered the apartment?",
+        "answer": "Monica was irritated that Ross and Chandler were making fun of her hair."
     },
     {
         "Question_1": "Who does Ross hug first when he enters the apartment?",
         "Answer_1": "Monica",
         "Question_2": "What does Monica do after Rachel closes the door?",
-        "Answer_2": "Monica turns to look to the side and looks at Chandler."
+        "Answer_2": "Monica turns to look to the side and looks at Chandler.",
+        "merged_question": "Who does Ross hug first when he enters the apartment, and then what does that person do after Rachel closes the door?",
+        "answer": "Monica (Ross hugs Monica first), then she turns to look to the side and looks at Chandler."
     },
     {
         "Question_1": "Who does Ross hug first when he enters the apartment?",
         "Answer_1": "Monica",
         "Question_2": "What did Monica do after she said that Mary Tyler Moore would have been better?",
-        "Answer_2": "She set a hand mirror on the table."
+        "Answer_2": "She set a hand mirror on the table.",
+        "merged_question": "What action did Ross perform when he entered the apartment, right after he saw Monica, who was still visibly upset from a previous conversation about Mary Tyler Moore?",
+        "answer": "He hugged her."
     },
     {
         "Question_1": "Who does Ross hug first when he enters the apartment?",
         "Answer_1": "Monica",
         "Question_2": "Who came into the apartment after Monica said \"But this is about your horrible mistake\"?",
-        "Answer_2": "Ross and Julie."
+        "Answer_2": "Ross and Julie.",
+        "merged_question": "Who does Ross hug first when he enters the apartment after Monica said \"But this is about your horrible mistake\"?",
+        "answer": "Ross and Julie."
     },
     {
         "Question_1": "Who does Ross hug first when he enters the apartment?",
         "Answer_1": "Monica",
         "Question_2": "What does Monica do when Chandler says happen?",
-        "Answer_2": "Monica turns to look at Chandler."
+        "Answer_2": "Monica turns to look at Chandler.",
+        "merged_question": "What does Ross do when Chandler says \"happen\"?",
+        "answer": "Ross hugs Monica."
     },
     {
         "Question_1": "Who does Ross hug first when he enters the apartment?",
         "Answer_1": "Monica",
         "Question_2": "What was Rachael doing before she went over to talk to Monica and Phoebe?",
-        "Answer_2": "Reading a magazine"
+        "Answer_2": "Reading a magazine",
+        "merged_question": "Who does Ross hug first when he enters the apartment, after he has seen what Monica and Phoebe were doing before Ross entered the apartment?",
+        "answer": "Monica"
     },
     {
         "Question_1": "Who does Ross hug first when he enters the apartment?",
         "Answer_1": "Monica",
         "Question_2": "Where does Rachel put her hand after Phoebe delivers the new on Monica's hair?",
-        "Answer_2": "On Ross's shoulder"
+        "Answer_2": "On Ross's shoulder",
+        "merged_question": "Generated Multi-hop Question: After Phoebe delivers the news about Monica's hair, who does Rachel put her hand on?",
+        "answer": "Ross's shoulder."
     },
     {
         "Question_1": "Who does Ross hug first when he enters the apartment?",
         "Answer_1": "Monica",
         "Question_2": "What does Monica do when Chandler says that it's crazy, but it's true?",
-        "Answer_2": "Gets up from the table."
+        "Answer_2": "Gets up from the table.",
+        "merged_question": "What action does Ross initiate when he enters the apartment, and how does Monica respond when Chandler expresses his disbelief about a particular statement?",
+        "answer": "Ross hugs Monica first when he enters the apartment, and Monica gets up from the table when Chandler says that it's crazy, but it's true."
     },
     {
         "Question_1": "Who does Ross hug first when he enters the apartment?",
         "Answer_1": "Monica",
         "Question_2": "Where does Monica put the glass before Phoebe walks away?",
-        "Answer_2": "On the table"
+        "Answer_2": "On the table",
+        "merged_question": "When Ross enters the apartment, where does he hug someone who had previously put a glass on the table?",
+        "answer": "Monica."
     },
     {
         "Question_1": "Who notices Phoebe after her and Monica sit down?",
         "Answer_1": "David",
         "Question_2": "What was behind David when he was telling Phoebe about a statue in Minsk?",
-        "Answer_2": "A chalk board"
+        "Answer_2": "A chalk board",
+        "merged_question": "What was behind David when he was telling Phoebe about a statue in Minsk after Phoebe and Monica sat down?",
+        "answer": "A chalkboard."
     },
     {
         "Question_1": "Who notices Phoebe after her and Monica sit down?",
         "Answer_1": "David",
         "Question_2": "What did David confess to Phoebe when they are talking in the coffee shop?",
-        "Answer_2": "He was hoping to run into her"
+        "Answer_2": "He was hoping to run into her",
+        "merged_question": "Generated Multi-hop Question: What was David hoping to do when he noticed Phoebe after she and Monica sat down?",
+        "answer": "He was hoping to run into her."
     },
     {
         "Question_1": "Who notices Phoebe after her and Monica sit down?",
         "Answer_1": "David",
         "Question_2": "What did David do before he left Phoebe?",
-        "Answer_2": "Kissed her on the lips"
+        "Answer_2": "Kissed her on the lips",
+        "merged_question": "What action did David perform on Phoebe after she and Monica sat down?",
+        "answer": "Kissed her on the lips."
     },
     {
         "Question_1": "Who notices Phoebe after her and Monica sit down?",
         "Answer_1": "David",
         "Question_2": "Why is Phoebe crying when she is talking to Joey about David?",
-        "Answer_2": "Because David is leaving."
+        "Answer_2": "Because David is leaving.",
+        "merged_question": "Why is Phoebe crying when she is talking to Joey about the person who notices her and Monica after they sit down?",
+        "answer": "Because David is leaving."
     },
     {
         "Question_1": "Who notices Phoebe after her and Monica sit down?",
         "Answer_1": "David",
         "Question_2": "What kind of car did David get into right after leaving Phoebe?",
-        "Answer_2": "Taxi cab"
+        "Answer_2": "Taxi cab",
+        "merged_question": "After sitting down with Monica, who got into a taxi cab?",
+        "answer": "Phoebe."
     },
     {
         "Question_1": "Who notices Phoebe after her and Monica sit down?",
         "Answer_1": "David",
         "Question_2": "Who is ?the statue of that David describes when he is talking about Minsk?",
-        "Answer_2": "Lenin"
+        "Answer_2": "Lenin",
+        "merged_question": "Who is the statue of that David describes when he is talking about the place where Phoebe and Monica sat down?",
+        "answer": "Lenin."
     },
     {
         "Question_1": "Who notices Phoebe after her and Monica sit down?",
         "Answer_1": "David",
         "Question_2": "Who showed up to talk to Phoebe after David left?",
-        "Answer_2": "Joey"
+        "Answer_2": "Joey",
+        "merged_question": "Who showed up to talk to Phoebe after David left?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who notices Phoebe after her and Monica sit down?",
         "Answer_1": "David",
         "Question_2": "Why is Joey upset when he is talking to Phoebe about David?",
-        "Answer_2": "Because he doesn't want her to get hurt again."
+        "Answer_2": "Because he doesn't want her to get hurt again.",
+        "merged_question": "Why is Joey upset when he is talking to Phoebe about the person who notices Phoebe after she and Monica sit down?",
+        "answer": "Because he doesn't want her to get hurt again."
     },
     {
         "Question_1": "Who notices Phoebe after her and Monica sit down?",
         "Answer_1": "David",
         "Question_2": "What foreign language was David speaking to when he was talking to Phoebe?",
-        "Answer_2": "Russian"
+        "Answer_2": "Russian",
+        "merged_question": "Who was Phoebe speaking with after she and Monica sat down, given that the person was speaking Russian to her?",
+        "answer": "David."
     },
     {
         "Question_1": "Who notices Phoebe after her and Monica sit down?",
         "Answer_1": "David",
         "Question_2": "What does David do before he gets in the taxi and leaves?",
-        "Answer_2": "He kisses Phoebe. "
+        "Answer_2": "He kisses Phoebe. ",
+        "merged_question": "What does David do before he leaves after noticing Phoebe and Monica sitting down?",
+        "answer": "He kisses Phoebe."
     },
     {
         "Question_1": "Who notices Phoebe after her and Monica sit down?",
         "Answer_1": "David",
         "Question_2": "Where were David's hand when he was talking to Phoebe?",
-        "Answer_2": "Elbows"
+        "Answer_2": "Elbows",
+        "merged_question": "Generated Multi-hop Question: Where were Phoebe and Monica sitting when David noticed Phoebe?",
+        "answer": "Elbows."
     },
     {
         "Question_1": "Who notices Phoebe after her and Monica sit down?",
