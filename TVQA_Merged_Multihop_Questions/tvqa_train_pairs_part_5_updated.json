@@ -1763,121 +1763,161 @@
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "Who does Joey address when beginning the ceremony?",
-        "Answer_2": "Friends. Family. Dog."
+        "Answer_2": "Friends. Family. Dog.",
+        "merged_question": "Generated Multi-hop Question: Who does Joey address when beginning the ceremony that is talking to Chandler after Phoebe's wedding?",
+        "answer": "Friends. Family. Dog."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "Who was Joey pretending to be before Phoebe's wedding?",
-        "Answer_2": "Phoebe's stepdad"
+        "Answer_2": "Phoebe's stepdad",
+        "merged_question": "Generated Multi-hop Question: Who was Joey pretending to be when he was talking to Chandler after Phoebe's wedding?",
+        "answer": "Phoebe's stepdad."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "What animal is there a statue of when Joey and Mike are talking in the bedroom?",
-        "Answer_2": "bird"
+        "Answer_2": "bird",
+        "merged_question": "Who is talking to Chandler after Phoebe's wedding in the room where there is a statue of a bird?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "How does Mike act when Joey confronts him using lines from his audition?",
-        "Answer_2": "Confused"
+        "Answer_2": "Confused",
+        "merged_question": "How does Joey act when he confronts Mike after Phoebe's wedding?",
+        "answer": "Confused."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "Why did Joey say strike 2 after talking with Mike?",
-        "Answer_2": "Mike said that acting was as unstable a job as acting."
+        "Answer_2": "Mike said that acting was as unstable a job as acting.",
+        "merged_question": "Why did Joey say \"strike 2\" after talking to Chandler after Phoebe's wedding?",
+        "answer": "Mike said that acting was as unstable a job as acting."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "what was Mike doing  when Joey was standing up",
-        "Answer_2": "Mike was he was sitting down when Joey was standing up"
+        "Answer_2": "Mike was he was sitting down when Joey was standing up",
+        "merged_question": "Who was sitting down when Joey was standing up after Phoebe's wedding?",
+        "answer": "Mike"
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "what color was the Joey sweater when he was talking to Mike",
-        "Answer_2": "Joey sweater was orange looking when he was talking to Mike"
+        "Answer_2": "Joey sweater was orange looking when he was talking to Mike",
+        "merged_question": "What color was Joey's sweater when he was talking to Chandler after Phoebe's wedding?",
+        "answer": "Joey sweater was orange looking when he was talking to Mike."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "Where did Joey say he would like to spend Thanksgiving when speaking to Mikes Dad?",
-        "Answer_2": "At Joey's Place"
+        "Answer_2": "At Joey's Place",
+        "merged_question": "Where would Joey like to spend Thanksgiving with Chandler after Phoebe's wedding?",
+        "answer": "At Joey's Place."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "What is Ross holding when he's talking to Joey?",
-        "Answer_2": "He is holding a dog."
+        "Answer_2": "He is holding a dog.",
+        "merged_question": "Who is talking to Chandler after Phoebe's wedding, and what is Ross holding when he's talking to them?",
+        "answer": "Joey and a dog."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "Who is sitting in Joey's kitchen when Joey and Mike address each other?",
-        "Answer_2": "Monica"
+        "Answer_2": "Monica",
+        "merged_question": "Who is sitting in the room where Joey is talking to Chandler after Phoebe's wedding?",
+        "answer": "Monica."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "Who did Joey look directly at when he opened the door?",
-        "Answer_2": "Mike"
+        "Answer_2": "Mike",
+        "merged_question": "Who was Joey looking at when he opened the door to talk to Chandler after Phoebe's wedding?",
+        "answer": "Mike."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "Where does Joey take Mike when he wants to have a word with him?",
-        "Answer_2": "Joey's bedroom"
+        "Answer_2": "Joey's bedroom",
+        "merged_question": "Where does Joey take Mike when he wants to have a word with him after Phoebe's wedding?",
+        "answer": "Joey's bedroom."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "What do Joey and Phoebe do after they are pronounced husband and wife?",
-        "Answer_2": "They kiss."
+        "Answer_2": "They kiss.",
+        "merged_question": "Generated Multi-hop Question: Who is the person that Joey kisses after being pronounced husband and wife?",
+        "answer": "Phoebe."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "What happens after Phoebe looks at Joey?",
-        "Answer_2": "Joey wishes he had kept quiet."
+        "Answer_2": "Joey wishes he had kept quiet.",
+        "merged_question": "What happens to Joey after Phoebe looks at him at her wedding?",
+        "answer": "Joey wishes he had kept quiet."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "Where did Joey say he would like to spend Christmas when speaking to Mikes Dad?",
-        "Answer_2": "At Mike's Dad place"
+        "Answer_2": "At Mike's Dad place",
+        "merged_question": "Who was talking to Chandler after Phoebe's wedding and would like to spend Christmas at Mike's Dad's place?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "What is on Joey's bedroom wall when he confronts Mike?",
-        "Answer_2": "Posters"
+        "Answer_2": "Posters",
+        "merged_question": "Generated Multi-hop Question: What is on the wall in Joey's room when he is talking to Chandler after Phoebe's wedding?",
+        "answer": "Posters."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "What did Mike do after Joey pointed behind him?",
-        "Answer_2": "He walked towards him."
+        "Answer_2": "He walked towards him.",
+        "merged_question": "Generated Multi-hop Question: Who walked towards Joey after Joey pointed behind him at Phoebe's wedding?",
+        "answer": "Mike."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "Why did Joey say he watched the news after Rachel asked when he started? ",
-        "Answer_2": "They had a hot weather girl."
+        "Answer_2": "They had a hot weather girl.",
+        "merged_question": "Why did Joey say he watched the news after Phoebe's wedding, when Rachel asked when he started watching the news?",
+        "answer": "They had a hot weather girl."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "What did Joey say to Mike's dad, after Mike's dad asked Joey, who is he?",
-        "Answer_2": "I'm not that fond of you either, buddy. I'm just trying to be nice for the kids."
+        "Answer_2": "I'm not that fond of you either, buddy. I'm just trying to be nice for the kids.",
+        "merged_question": "Who is Joey trying to be nice for at Mike's dad's request?",
+        "answer": "The kids."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "What did Mike had in  hand when he spoke with Joey?",
-        "Answer_2": "A glass of wine"
+        "Answer_2": "A glass of wine",
+        "merged_question": "Who was Joey talking to after Phoebe's wedding, and what was that person holding in their hand?",
+        "answer": "Joey was talking to Chandler after Phoebe's wedding, and Chandler was holding a glass of wine."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
