@@ -1603,121 +1603,161 @@
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "How was Joey's reaction when he liked Rachel's acting advice?",
-        "Answer_2": "He pointed to his forehead and then pointed at her"
+        "Answer_2": "He pointed to his forehead and then pointed at her",
+        "merged_question": "Generated Multi-hop Question: How did Joey react when Rachel gave him acting advice?",
+        "answer": "He pointed to his forehead and then pointed at her."
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "What does Rachel do before Joey walks on set?",
-        "Answer_2": "She gives him a hug. "
+        "Answer_2": "She gives him a hug. ",
+        "merged_question": "What does Rachel typically do to Joey before he starts filming?",
+        "answer": "She gives him a hug."
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "What could Joey not find before making his smoothie?",
-        "Answer_2": "Joey could not find a peice to the lid"
+        "Answer_2": "Joey could not find a peice to the lid",
+        "merged_question": "Why couldn't Joey make his smoothie before Rachel woke up?",
+        "answer": "Because he couldn't find a piece to the lid."
     },
     {
         "Question_1": "Who was Rachel dreaming about before she woke up?",
         "Answer_1": "Joey",
         "Question_2": "Who does Rachel see when she is on the set of Joey's soap opera?",
-        "Answer_2": "Chase Lassiter"
+        "Answer_2": "Chase Lassiter",
+        "merged_question": "Who is the character that Rachel sees on the set of Joey's soap opera, which is the same character she was dreaming about before waking up?",
+        "answer": "Chase Lassiter."
     },
     {
         "Question_1": "Who is there to comfort Rachel and Phoebe when there is a fire at their place?",
         "Answer_1": "Monica",
         "Question_2": "Who walks into Joey and chandlers apartment when Joey, Monica and ross are talking?",
-        "Answer_2": "Chandler"
+        "Answer_2": "Chandler",
+        "merged_question": "Who walks into Joey and Ross's apartment when Joey, Monica and Ross are talking?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who is there to comfort Rachel and Phoebe when there is a fire at their place?",
         "Answer_1": "Monica",
         "Question_2": "What does Monica do after she apologizes for the mess?",
-        "Answer_2": "Opens the Guest Room door."
+        "Answer_2": "Opens the Guest Room door.",
+        "merged_question": "What does Monica do after she apologizes for the mess to comfort Rachel and Phoebe when there is a fire at their place?",
+        "answer": "Opens the Guest Room door."
     },
     {
         "Question_1": "Who is there to comfort Rachel and Phoebe when there is a fire at their place?",
         "Answer_1": "Monica",
         "Question_2": "Who was in the bathroom when Monica, Chandler, and Joey are at the table?",
-        "Answer_2": "Rachel"
+        "Answer_2": "Rachel",
+        "merged_question": "Generated Multi-hop Question: Who is there to comfort Monica and Chandler when there is a fire at their place?",
+        "answer": "Phoebe."
     },
     {
         "Question_1": "Who is there to comfort Rachel and Phoebe when there is a fire at their place?",
         "Answer_1": "Monica",
         "Question_2": "[How/...] did Phoebe get Chandler to leave his apartment [before/] she complained about living with Monica?",
-        "Answer_2": "She told him Monica had said something about \"crumbies.\""
+        "Answer_2": "She told him Monica had said something about \"crumbies.\"",
+        "merged_question": "How did Phoebe get Chandler to leave his apartment before Rachel and Phoebe complained about living with Monica?",
+        "answer": "She told him Monica had said something about \"crumbies\"."
     },
     {
         "Question_1": "Who is there to comfort Rachel and Phoebe when there is a fire at their place?",
         "Answer_1": "Monica",
         "Question_2": "What did Monica apologize to Phoebe and Rachel before opening the bedroom door?",
-        "Answer_2": "Monica apologized for the mess."
+        "Answer_2": "Monica apologized for the mess.",
+        "merged_question": "What was Monica apologizing for when she went to comfort Rachel and Phoebe in their burning apartment?",
+        "answer": "The mess."
     },
     {
         "Question_1": "Who is there to comfort Rachel and Phoebe when there is a fire at their place?",
         "Answer_1": "Monica",
         "Question_2": "How did Monica react when she found out Chandler was going out with an ex-girlfriend?",
-        "Answer_2": "She yelled at him"
+        "Answer_2": "She yelled at him",
+        "merged_question": "How did Monica react when she found out Chandler was going out with an ex-girlfriend at the same time as she was there to comfort Rachel and Phoebe at their place?",
+        "answer": "She yelled at him."
     },
     {
         "Question_1": "Who is there to comfort Rachel and Phoebe when there is a fire at their place?",
         "Answer_1": "Monica",
         "Question_2": "What is Phoebe doing when Monica comes in her room?",
-        "Answer_2": "Using her guitar."
+        "Answer_2": "Using her guitar.",
+        "merged_question": "What is Monica doing when she comes in Phoebe's room where Phoebe is using her guitar, and Phoebe and Rachel are present?",
+        "answer": "Comforting."
     },
     {
         "Question_1": "Who ran into a tv stand when they came out the room? ",
         "Answer_1": "Joey",
         "Question_2": "How old did Joey say the guy sitting on the couch was when he was trying to make him rethink his decision?",
-        "Answer_2": "Joey said the guy was 18."
+        "Answer_2": "Joey said the guy was 18.",
+        "merged_question": "Who was Joey trying to convince to rethink his decision when Joey said the guy was 18?",
+        "answer": "The guy sitting on the couch."
     },
     {
         "Question_1": "Who ran into a tv stand when they came out the room? ",
         "Answer_1": "Joey",
         "Question_2": "What did Ross say he would buy when Joey asked him what he would buy if he had a million dollars?",
-        "Answer_2": "Municipal bonds."
+        "Answer_2": "Municipal bonds.",
+        "merged_question": "Generated Multi-hop Question: If Joey had run into a TV stand when he came out of the room, what would Ross say he would buy with a million dollars?",
+        "answer": "Municipal bonds."
     },
     {
         "Question_1": "Who ran into a tv stand when they came out the room? ",
         "Answer_1": "Joey",
         "Question_2": "What did Ross tell Phoebe after she told him and Joey about her issues with her brother's girlfriend?",
-        "Answer_2": "Ross told Phoebe to tell her brother how she felt before it was too late and they married, then she would reget it"
+        "Answer_2": "Ross told Phoebe to tell her brother how she felt before it was too late and they married, then she would reget it",
+        "merged_question": "What advice did Ross give to Phoebe's brother regarding his relationship with Phoebe, after she told Ross and Joey about her issues with him?",
+        "answer": "Ross told Phoebe to tell her brother how she felt before it was too late and they married, then she would regret it."
     },
     {
         "Question_1": "Who ran into a tv stand when they came out the room? ",
         "Answer_1": "Joey",
         "Question_2": "Who does Phoebe go to get after talking to Ross and Joey?",
-        "Answer_2": "Frank"
+        "Answer_2": "Frank",
+        "merged_question": "Who does Phoebe go to get after talking to the person who ran into a TV stand when they came out of the room?",
+        "answer": "Frank."
     },
     {
         "Question_1": "Who ran into a tv stand when they came out the room? ",
         "Answer_1": "Joey",
         "Question_2": "What did Joey aske Phoebe when she was telling Ross and him about her little brother?",
-        "Answer_2": "Joey asked Phoebe if she told her brother how she felt"
+        "Answer_2": "Joey asked Phoebe if she told her brother how she felt",
+        "merged_question": "What did Phoebe tell Ross about her brother when Joey ran into the TV stand after coming out of the room?",
+        "answer": "Phoebe was telling Ross and him about her little brother."
     },
     {
         "Question_1": "Who ran into a tv stand when they came out the room? ",
         "Answer_1": "Joey",
         "Question_2": "What color shirt was Frank wearing when he was talking to Ross and Joey?",
-        "Answer_2": "Frank was wearing a blue shirt."
+        "Answer_2": "Frank was wearing a blue shirt.",
+        "merged_question": "Who ran into a tv stand when they came out of the room where Frank was talking to Ross and Joey, and Frank was wearing a blue shirt?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who ran into a tv stand when they came out the room? ",
         "Answer_1": "Joey",
         "Question_2": "Where are Joey and Ross sitting when Phoebe is talking?",
-        "Answer_2": "black recliners"
+        "Answer_2": "black recliners",
+        "merged_question": "Who ran into a tv stand when they came out of the room with Ross and Joey, who were sitting in black recliners?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "What did Joey do after he closed the door?",
-        "Answer_2": "He crossed his arms."
+        "Answer_2": "He crossed his arms.",
+        "merged_question": "What action did Joey take after he closed the door on Chandler after Phoebe's wedding?",
+        "answer": "He crossed his arms."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
         "Answer_1": "Joey",
         "Question_2": "how many people was in the room when Mike was talking to Joey",
-        "Answer_2": "2 people was in the room when Mike was talking to Joey"
+        "Answer_2": "2 people was in the room when Mike was talking to Joey",
+        "merged_question": "Who was the other person in the room when Mike was talking to Joey after Phoebe's wedding?",
+        "answer": "Joey was talking to Chandler after Phoebe's wedding, so the other person in the room with Mike when he was talking to Joey must be Chandler."
     },
     {
         "Question_1": "Who is talking to Chandler after Phoebe's wedding?",
