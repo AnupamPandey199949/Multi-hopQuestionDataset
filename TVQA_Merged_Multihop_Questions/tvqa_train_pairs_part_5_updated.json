@@ -643,121 +643,161 @@
         "Question_1": "Who notices Phoebe after her and Monica sit down?",
         "Answer_1": "David",
         "Question_2": "What was behind Phoebe when she told David that she thinks about him all the time?",
-        "Answer_2": "The cafe logo"
+        "Answer_2": "The cafe logo",
+        "merged_question": "What does David notice after Phoebe tells him that she thinks about him all the time, with the cafe logo behind her and she and Monica sitting down?",
+        "answer": "Phoebe."
     },
     {
         "Question_1": "Who notices Phoebe after her and Monica sit down?",
         "Answer_1": "David",
         "Question_2": "Who pulls Phoebe away before she is finished talking to David?",
-        "Answer_2": "Monica."
+        "Answer_2": "Monica.",
+        "merged_question": "Who pulls Phoebe away from David after they sit down?",
+        "answer": "Monica."
     },
     {
         "Question_1": "Who notices Phoebe after her and Monica sit down?",
         "Answer_1": "David",
         "Question_2": "Why didn't David know if he should call when he was in town?",
-        "Answer_2": "he was only going to be in town a few days"
+        "Answer_2": "he was only going to be in town a few days",
+        "merged_question": "Generated Multi-hop Question: Why didn't David know if he should call Phoebe when he was in town for just a few days?",
+        "answer": "He was only going to be in town a few days."
     },
     {
         "Question_1": "What was the name of the person of Phoebe's date when Joey asks?",
         "Answer_1": "David",
         "Question_2": "What was behind David when he was telling Phoebe about a statue in Minsk?",
-        "Answer_2": "A chalk board"
+        "Answer_2": "A chalk board",
+        "merged_question": "When Joey asks about Phoebe's date, what was behind David as he told her about a statue in Minsk?",
+        "answer": "A chalk board."
     },
     {
         "Question_1": "What was the name of the person of Phoebe's date when Joey asks?",
         "Answer_1": "David",
         "Question_2": "What did David confess to Phoebe when they are talking in the coffee shop?",
-        "Answer_2": "He was hoping to run into her"
+        "Answer_2": "He was hoping to run into her",
+        "merged_question": "Who was Joey hoping to run into when he asked Phoebe about the person's name that Phoebe was dating?",
+        "answer": "David."
     },
     {
         "Question_1": "What was the name of the person of Phoebe's date when Joey asks?",
         "Answer_1": "David",
         "Question_2": "What did David do before he left Phoebe?",
-        "Answer_2": "Kissed her on the lips"
+        "Answer_2": "Kissed her on the lips",
+        "merged_question": "What did Joey ask about the person that David was before he kissed Phoebe on the lips?",
+        "answer": "David"
     },
     {
         "Question_1": "What was the name of the person of Phoebe's date when Joey asks?",
         "Answer_1": "David",
         "Question_2": "Why is Phoebe crying when she is talking to Joey about David?",
-        "Answer_2": "Because David is leaving."
+        "Answer_2": "Because David is leaving.",
+        "merged_question": "Why was Joey asking about Phoebe's date when he knew that the person, David, was leaving?",
+        "answer": "Because David is leaving."
     },
     {
         "Question_1": "What was the name of the person of Phoebe's date when Joey asks?",
         "Answer_1": "David",
         "Question_2": "What kind of car did David get into right after leaving Phoebe?",
-        "Answer_2": "Taxi cab"
+        "Answer_2": "Taxi cab",
+        "merged_question": "What kind of vehicle did the person Phoebe was dating get into after Joey asked about him?",
+        "answer": "Taxi cab."
     },
     {
         "Question_1": "What was the name of the person of Phoebe's date when Joey asks?",
         "Answer_1": "David",
         "Question_2": "Who is ?the statue of that David describes when he is talking about Minsk?",
-        "Answer_2": "Lenin"
+        "Answer_2": "Lenin",
+        "merged_question": "Who is the person Joey was asking about when he inquired about Phoebe's date, and also described a statue in Minsk?",
+        "answer": "David"
     },
     {
         "Question_1": "What was the name of the person of Phoebe's date when Joey asks?",
         "Answer_1": "David",
         "Question_2": "What does David do after he sees Phoebe?",
-        "Answer_2": "David goes up to her"
+        "Answer_2": "David goes up to her",
+        "merged_question": "Generated Multi-hop Question: What does David do after he sees the person Phoebe is on a date with?",
+        "answer": "David goes up to her."
     },
     {
         "Question_1": "What was the name of the person of Phoebe's date when Joey asks?",
         "Answer_1": "David",
         "Question_2": "Who showed up to talk to Phoebe after David left?",
-        "Answer_2": "Joey"
+        "Answer_2": "Joey",
+        "merged_question": "Who did Joey ask about after David left?",
+        "answer": "Phoebe's date."
     },
     {
         "Question_1": "What was the name of the person of Phoebe's date when Joey asks?",
         "Answer_1": "David",
         "Question_2": "Why is Joey upset when he is talking to Phoebe about David?",
-        "Answer_2": "Because he doesn't want her to get hurt again."
+        "Answer_2": "Because he doesn't want her to get hurt again.",
+        "merged_question": "Why is Joey upset when he talks to Phoebe about her date with David?",
+        "answer": "Because he doesn't want her to get hurt again."
     },
     {
         "Question_1": "What was the name of the person of Phoebe's date when Joey asks?",
         "Answer_1": "David",
         "Question_2": "What foreign language was David speaking to when he was talking to Phoebe?",
-        "Answer_2": "Russian"
+        "Answer_2": "Russian",
+        "merged_question": "What language was Joey asking about when he inquired about Phoebe's date?",
+        "answer": "Russian."
     },
     {
         "Question_1": "What was the name of the person of Phoebe's date when Joey asks?",
         "Answer_1": "David",
         "Question_2": "What does David do before he gets in the taxi and leaves?",
-        "Answer_2": "He kisses Phoebe. "
+        "Answer_2": "He kisses Phoebe. ",
+        "merged_question": "What did Joey ask about before David kisses Phoebe?",
+        "answer": "David"
     },
     {
         "Question_1": "What was the name of the person of Phoebe's date when Joey asks?",
         "Answer_1": "David",
         "Question_2": "Where were David's hand when he was talking to Phoebe?",
-        "Answer_2": "Elbows"
+        "Answer_2": "Elbows",
+        "merged_question": "Generated Multi-hop Question: What were the hands of the person Joey asked about Phoebe's date doing when they were talking to her?",
+        "answer": "Elbows."
     },
     {
         "Question_1": "What was the name of the person of Phoebe's date when Joey asks?",
         "Answer_1": "David",
         "Question_2": "What was behind Phoebe when she told David that she thinks about him all the time?",
-        "Answer_2": "The cafe logo"
+        "Answer_2": "The cafe logo",
+        "merged_question": "What was behind Phoebe when Joey asked her about her date with David?",
+        "answer": "The cafe logo."
     },
     {
         "Question_1": "What was the name of the person of Phoebe's date when Joey asks?",
         "Answer_1": "David",
         "Question_2": "Who pulls Phoebe away before she is finished talking to David?",
-        "Answer_2": "Monica."
+        "Answer_2": "Monica.",
+        "merged_question": "Who pulls Phoebe away before she is finished talking to Joey's friend David?",
+        "answer": "Monica."
     },
     {
         "Question_1": "What was the name of the person of Phoebe's date when Joey asks?",
         "Answer_1": "David",
         "Question_2": "Why didn't David know if he should call when he was in town?",
-        "Answer_2": "he was only going to be in town a few days"
+        "Answer_2": "he was only going to be in town a few days",
+        "merged_question": "Why didn't David know if he should call Joey when he was in town?",
+        "answer": "He was only going to be in town a few days."
     },
     {
         "Question_1": "Who wished Joey good luck before he left the apartment?",
         "Answer_1": "Phoebe",
         "Question_2": "What did Chandler say Joey's gift was after he told Phoebe it was easy for her to say?",
-        "Answer_2": "A reject from the Mr. T collection"
+        "Answer_2": "A reject from the Mr. T collection",
+        "merged_question": "Generated Multi-hop Question: What did Joey leave the apartment with before Phoebe wished him good luck, and what did Chandler call the gift that Joey gave him?",
+        "answer": "Joey left the apartment with a gift, and Chandler called the gift a \"reject from the Mr. T collection\"."
     },
     {
         "Question_1": "Who wished Joey good luck before he left the apartment?",
         "Answer_1": "Phoebe",
         "Question_2": "what problem did Phoebe say when Phoebe told with Monica ?",
-        "Answer_2": "Boy scouts could 've camped under there"
+        "Answer_2": "Boy scouts could 've camped under there",
+        "merged_question": "Before leaving the apartment, Joey was going to do something that would be a problem for the Boy Scouts, which Phoebe mentioned to Monica. What was Joey going to do?",
+        "answer": "Camp."
     },
     {
         "Question_1": "Who made the signs according to what Monica said after Racheal walked in the apartment?",
