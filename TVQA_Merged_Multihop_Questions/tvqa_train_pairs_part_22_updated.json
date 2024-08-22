@@ -1923,121 +1923,161 @@
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What does Sidney ask Jay after House mentions methane as a possible cause for Sidney's condition?",
-        "Answer_2": "Sidney asks Jay if she surfed."
+        "Answer_2": "Sidney asks Jay if she surfed.",
+        "merged_question": "What possible relevance does Jay's surfing habit have to House's diagnosis of Sidney's condition?",
+        "answer": "Jay's surfing habit."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What did House see in his mind when Nolan mention Sam's name?",
-        "Answer_2": "Sam kissing Wilson"
+        "Answer_2": "Sam kissing Wilson",
+        "merged_question": "Generated Multi-hop Question: What possible relevance does this differential have to House's problems when Sam is kissing Wilson in his mind?",
+        "answer": "This question can't be answered with the provided information. However, I can try to make it more understandable.\n\nRelevant information: \n- Nolan was talking to House.\n- When Nolan mentioned Sam's name, House saw Sam kissing Wilson in his mind.\n\nGenerated Multi-hop Question: What possible relevance does this differential have to House's problems when he is thinking about Sam kissing Wilson?\nAns: This question still can't be answered with the provided information, but it can be made more understandable.\n\nHowever, if we try to make it more understandable and provide a possible answer, it could be something like this:\nGenerated Multi-hop Question: What possible relevance does this differential have to House's emotional problems when he is thinking about Sam kissing Wilson?\nAns: This question still can't be answered with the provided information. However, it can be assumed that the differential might have a relevance to House's emotional problems when he is thinking about Sam kissing Wilson because it could be related to House's feelings of jealousy or insecurity."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What happens to the door after Dr. House unlocks it? ",
-        "Answer_2": "The doors cracks open but is blocked by something."
+        "Answer_2": "The doors cracks open but is blocked by something.",
+        "merged_question": "What is blocking the door that Dr. House unlocked in his conversation with someone who was asking about the relevance of a differential to their problems?",
+        "answer": "The door is blocked by something."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What is Alvie holding when he is talking to House about why he is there ?",
-        "Answer_2": "Alvie is holding a paint roller."
+        "Answer_2": "Alvie is holding a paint roller.",
+        "merged_question": "Why is Alvie holding a paint roller when he is talking to House about his problems?",
+        "answer": "Alvie is holding a paint roller because he is talking to House about why he is there, and the relevance of his differential has to do with his problems."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Which circumstance does House say would not cause him to get hammered when he and Nolan are having a session?",
-        "Answer_2": "A woman House is not even with is moving in with someone"
+        "Answer_2": "A woman House is not even with is moving in with someone",
+        "merged_question": "What circumstance would cause House to get hammered when he and Nolan are having a session?",
+        "answer": "A woman House is with moving in with someone else."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Why is House so worried when he is leaving the house with Sidney?",
-        "Answer_2": "House believes Sidney is having complex partial seizures."
+        "Answer_2": "House believes Sidney is having complex partial seizures.",
+        "merged_question": "Why is House worried when he leaves the house with someone who might be having complex partial seizures?",
+        "answer": "House believes the person he is leaving the house with is having complex partial seizures."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "How does Nolan think the woman in the hospital bed would react if she were just bored by him when he discusses the couple with House?",
-        "Answer_2": "Nolan thinks the woman in the hospital bed would just hide it to be polite."
+        "Answer_2": "Nolan thinks the woman in the hospital bed would just hide it to be polite.",
+        "merged_question": "How does Nolan think the woman in the hospital bed would react if she were just bored by him when he discusses the couple with House, considering the context of their conversation about differential equations?",
+        "answer": "Nolan thinks the woman in the hospital bed would just hide it to be polite."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What does the detective mention he has against House when talking to him?",
-        "Answer_2": "Evidence"
+        "Answer_2": "Evidence",
+        "merged_question": "What possible relevance does this evidence have to House's problems?",
+        "answer": "This question requires the test-taker to make a connection between Nolan talking to House and the detective mentioning evidence against House. The correct answer is that the evidence has relevance to House's problems, as mentioned by Nolan."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Why does Nolan smirk after House requests Nolan speak his mind?",
-        "Answer_2": "Nolan smirks because House clearly wants to hear Nolan say something."
+        "Answer_2": "Nolan smirks because House clearly wants to hear Nolan say something.",
+        "merged_question": "Why did House request Nolan to speak his mind?",
+        "answer": "House clearly wants to hear Nolan say something."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Where is House when he speaks about the car accident?",
-        "Answer_2": "House is at the hospital looking through the glass at the patients room."
+        "Answer_2": "House is at the hospital looking through the glass at the patients room.",
+        "merged_question": "Where was House when he said \"What possible relevance does this differential have to your problems?\"",
+        "answer": "House is at the hospital looking through the glass at the patients room."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Why does Alvie say he came to see House after randomly showing up?",
-        "Answer_2": "Immigration was looking for him"
+        "Answer_2": "Immigration was looking for him",
+        "merged_question": "Why was Immigration looking for House when Nolan was talking to him about a differential?",
+        "answer": "Immigration was looking for House."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Where is House when he is talking with Nolan about Cuddy?",
-        "Answer_2": "House is sitting on the sofa"
+        "Answer_2": "House is sitting on the sofa",
+        "merged_question": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\" and House was sitting on the sofa.",
+        "answer": "House."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What does Alvie do when House throws the football?",
-        "Answer_2": "Alvie jumps in the air to catch the football."
+        "Answer_2": "Alvie jumps in the air to catch the football.",
+        "merged_question": "What does House do when he says \"What possible relevance does this differential have to your problems?\" to someone who is in the air.",
+        "answer": "House throws the football."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What does House suggest when discussing the patient's outcome?",
-        "Answer_2": "That the fantasy depiction is a load of crap."
+        "Answer_2": "That the fantasy depiction is a load of crap.",
+        "merged_question": "What does House think about the fantasy depiction that Nolan is discussing, specifically in the context of the patient's problems?",
+        "answer": "That the fantasy depiction is a load of crap."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Where did Wilson exit from before he spoke with House?",
-        "Answer_2": "Wilson exited a Pawn Shop before he spoke with House."
+        "Answer_2": "Wilson exited a Pawn Shop before he spoke with House.",
+        "merged_question": "Where did House meet Wilson before he said \"What possible relevance does this differential have to your problems?\"",
+        "answer": "A Pawn Shop."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What did House tell Nolan when he first came to see him?",
-        "Answer_2": "House told him he wanted to be happy"
+        "Answer_2": "House told him he wanted to be happy",
+        "merged_question": "Why did Nolan's statement about differential relevance have an emotional impact on House?",
+        "answer": "Because House told Nolan he wanted to be happy."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What does House do before the phone rings??",
-        "Answer_2": "House throws a football to Alvie."
+        "Answer_2": "House throws a football to Alvie.",
+        "merged_question": "Before the phone rings, what does House do while talking to someone about a differential?",
+        "answer": "House throws a football to Alvie."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Who is House talking to when he talks about a women House cares about?",
-        "Answer_2": "House was talking to Nolan"
+        "Answer_2": "House was talking to Nolan",
+        "merged_question": "Who is Nolan talking to when he discusses a woman House cares about?",
+        "answer": "House"
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Why does House stop the gurney when Foreman is trying to rush the patient to the E.R.?",
-        "Answer_2": "House stops the gurney because he notices something visible on the patient's leg when under the UV light."
+        "Answer_2": "House stops the gurney because he notices something visible on the patient's leg when under the UV light.",
+        "merged_question": "Why did House stop the gurney when Foreman was trying to rush the patient to the E.R. with House?",
+        "answer": "House stopped the gurney because he notices something visible on the patient's leg when under the UV light.\n\nExplanation: The question is merged by replacing the person in Q1 with Foreman in Q1 at relevant point, and the merged question is the same as Q2."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Where do House and Taub take Ms. X after finding his card on the wall of winners?",
-        "Answer_2": "To the house of the man on the card"
+        "Answer_2": "To the house of the man on the card",
+        "merged_question": "What possible relevance does this differential have to the problems of the man on the card?",
+        "answer": "The multihop question requires the test-taker to connect the information in Q1/A1 (Nolan's statement) to Q2/A2 (the location where House and Taub take Ms. X). The correct answer is that the differential has a possible relevance to the problems of the man on the card, implying that the differential is related to the man's condition or situation."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
