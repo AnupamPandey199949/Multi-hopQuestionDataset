@@ -803,121 +803,161 @@
         "Question_1": "Who made the signs according to what Monica said after Racheal walked in the apartment?",
         "Answer_1": "Phoebe",
         "Question_2": "How did Phoebe fix the baby shower banner after Monica tole her she didn't like it.",
-        "Answer_2": "Phoebe add the word 'not' to the 'It's a boy' banner."
+        "Answer_2": "Phoebe add the word 'not' to the 'It's a boy' banner.",
+        "merged_question": "According to Monica, what did Phoebe do to the baby shower banner after she was told by Monica that she didn't like it, and how did that relate to the situation after Rachel walked in the apartment?",
+        "answer": "Phoebe added the word 'not' to the 'It's a boy' banner, and that was the banner that Phoebe made according to Monica's request after Rachel walked in the apartment."
     },
     {
         "Question_1": "Who made the signs according to what Monica said after Racheal walked in the apartment?",
         "Answer_1": "Phoebe",
         "Question_2": "What was Monica and Phoebe doing when Rachel was holding the baby?",
-        "Answer_2": "Sitting on the couch."
+        "Answer_2": "Sitting on the couch.",
+        "merged_question": "Generated Multi-hop Question: According to Monica, what was Phoebe doing in the apartment when Rachel walked in?",
+        "answer": "Making signs."
     },
     {
         "Question_1": "Who made the signs according to what Monica said after Racheal walked in the apartment?",
         "Answer_1": "Phoebe",
         "Question_2": "What did Phoebe do to the sign after she said she could fix it?",
-        "Answer_2": "She wrote on the poster."
+        "Answer_2": "She wrote on the poster.",
+        "merged_question": "What did Phoebe do to the sign according to what Monica said after Rachel walked in the apartment?",
+        "answer": "She wrote on the poster."
     },
     {
         "Question_1": "Who made the signs according to what Monica said after Racheal walked in the apartment?",
         "Answer_1": "Phoebe",
         "Question_2": "What did Phoebe suggest Rachel do when she was reading the baby book?",
-        "Answer_2": "Go back in time and listen to Phoebe."
+        "Answer_2": "Go back in time and listen to Phoebe.",
+        "merged_question": "What did Phoebe suggest Rachel do after Rachel read the signs that Phoebe made according to what Monica said after Rachel walked in the apartment?",
+        "answer": "Go back in time and listen to Phoebe."
     },
     {
         "Question_1": "Who made the signs according to what Monica said after Racheal walked in the apartment?",
         "Answer_1": "Phoebe",
         "Question_2": "When does Phoebe joke the baby will wake up when the baby is sleeping?",
-        "Answer_2": "At 11 because the baby has a job interview"
+        "Answer_2": "At 11 because the baby has a job interview",
+        "merged_question": "According to Monica's statement after Rachel walked in the apartment, who made the signs that would supposedly wake the baby up at a specific time, which is when the baby supposedly has a job interview?",
+        "answer": "Phoebe"
     },
     {
         "Question_1": "Who made the signs according to what Monica said after Racheal walked in the apartment?",
         "Answer_1": "Phoebe",
         "Question_2": "Who was sitting next to Phoebe on the Couch when they were in the apartment?",
-        "Answer_2": "Monica."
+        "Answer_2": "Monica.",
+        "merged_question": "Who made the signs according to what Monica said after Racheal walked in the room where she was sitting next to Phoebe on the couch?",
+        "answer": "Phoebe."
     },
     {
         "Question_1": "Who made the signs according to what Monica said after Racheal walked in the apartment?",
         "Answer_1": "Phoebe",
         "Question_2": "What did Monica and Chandler do after Phoebe and Rachel left the room",
-        "Answer_2": "Monica and Chandler sat down on the couch"
+        "Answer_2": "Monica and Chandler sat down on the couch",
+        "merged_question": "Generated Multi-hop Question: According to Monica, who made the signs before Monica and Chandler sat down on the couch?",
+        "answer": "Phoebe."
     },
     {
         "Question_1": "Who made the signs according to what Monica said after Racheal walked in the apartment?",
         "Answer_1": "Phoebe",
         "Question_2": "What were Monica, Phoebe and Rachel doing when Ross came to the living room?",
-        "Answer_2": "Monica,Phoebe and Rachel were looking at a baby"
+        "Answer_2": "Monica,Phoebe and Rachel were looking at a baby",
+        "merged_question": "Generated Multi-hop Question: According to Monica, who made the signs that Ross saw when he came to the living room where Monica, Phoebe, and Rachel were looking at a baby?",
+        "answer": "Phoebe."
     },
     {
         "Question_1": "Who made the signs according to what Monica said after Racheal walked in the apartment?",
         "Answer_1": "Phoebe",
         "Question_2": "Who does Phoebe say she should have married when she leaves the room with Rachel?",
-        "Answer_2": "Phoebe says she should have married Chandler"
+        "Answer_2": "Phoebe says she should have married Chandler",
+        "merged_question": "Who made the signs according to what Monica said after Rachel walked in the apartment, and who does she say Phoebe should have married when she leaves the room with Rachel?",
+        "answer": "Phoebe and Chandler."
     },
     {
         "Question_1": "Who made the signs according to what Monica said after Racheal walked in the apartment?",
         "Answer_1": "Phoebe",
         "Question_2": "What does Phoebe say the baby wants when she is crying?",
-        "Answer_2": "She wants to make Rachel, Phoebe and Monica turn on each other"
+        "Answer_2": "She wants to make Rachel, Phoebe and Monica turn on each other",
+        "merged_question": "What did Phoebe say would happen when the baby was crying, as revealed by Monica's statement after Rachel walked in the apartment?",
+        "answer": "She wants to make Rachel, Phoebe and Monica turn on each other."
     },
     {
         "Question_1": "Who made the signs according to what Monica said after Racheal walked in the apartment?",
         "Answer_1": "Phoebe",
         "Question_2": "Why is Phoebe reading a list of things to do with a baby when Rachel is holding Emma?",
-        "Answer_2": "Phoebe is reading the list of things to do with a baby in an effort to find a solution to Emma's crying."
+        "Answer_2": "Phoebe is reading the list of things to do with a baby in an effort to find a solution to Emma's crying.",
+        "merged_question": "Generated Multi-hop Question: According to what Monica said after Rachel walked in the apartment, why is Phoebe making signs?",
+        "answer": "Phoebe is making signs in an effort to find a solution to Emma's crying."
     },
     {
         "Question_1": "Who made the signs according to what Monica said after Racheal walked in the apartment?",
         "Answer_1": "Phoebe",
         "Question_2": "What does Phoebe want to do after she bites off the baby's ear?",
-        "Answer_2": "Use it as a sucking candy."
+        "Answer_2": "Use it as a sucking candy.",
+        "merged_question": "What does Phoebe want to do with the object that she had made the signs about, according to what Monica said after Racheal walked in the apartment?",
+        "answer": "Use it as a sucking candy."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Why is Rachel so angry before Janice comes into the room?",
-        "Answer_2": "Rachel thinks other women are getting priority treatment at the hospital."
+        "Answer_2": "Rachel thinks other women are getting priority treatment at the hospital.",
+        "merged_question": "Why is Rachel so angry after Ross grabs her?",
+        "answer": "Rachel thinks other women are getting priority treatment at the hospital."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Where in the hospital room is Rachel  when Ross walks over to her?",
-        "Answer_2": "She standing with her arms on the bed."
+        "Answer_2": "She standing with her arms on the bed.",
+        "merged_question": "What did Ross grab after he walked over to Rachel, who was standing with her arms on the bed in the hospital room?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What was Ross and Rachel walking about before Janice walked into the room?",
-        "Answer_2": "Getting a private room"
+        "Answer_2": "Getting a private room",
+        "merged_question": "Generated Multi-hop Question: What did Ross grab after Rachel said something about getting a private room?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Why did Rachel get surprised after Joey turned around on his knee?",
-        "Answer_2": "She thought Joey was proposing to her."
+        "Answer_2": "She thought Joey was proposing to her.",
+        "merged_question": "Why did Rachel get surprised after saying something about another contraction?",
+        "answer": "She thought Joey was proposing to her."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What was clipped to the outside of the Doctors pocket when she was talking to Rachel and Ross?",
-        "Answer_2": "A pager"
+        "Answer_2": "A pager",
+        "merged_question": "Generated Multi-hop Question: What did Ross grab after Rachel said something about another contraction, while Rachel and the doctor were discussing something clipped to the outside of the doctor's pocket?",
+        "answer": "Rachel"
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What did Ross do to Rachel's Daughter after Dr.Long gave Rachel her daughter?",
-        "Answer_2": "Kissed Rachel's daughter"
+        "Answer_2": "Kissed Rachel's daughter",
+        "merged_question": "What did Ross do to Rachel after Dr. Long gave Rachel her daughter, and Rachel said something about another contraction?",
+        "answer": "Kissed Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Why is the strange woman mad at her husband after Rachel starts having contractions?",
-        "Answer_2": "Because the woman thinks the man is staring at Rachel"
+        "Answer_2": "Because the woman thinks the man is staring at Rachel",
+        "merged_question": "Why is the strange woman mad at her husband after Rachel starts having contractions, and what did Ross grab after Rachel said something about another contraction?",
+        "answer": "Because the woman thinks the man is staring at Rachel, and Ross grabbed Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What did Rachel do after Joanna asked what her name was?",
-        "Answer_2": "She signaled Ross to close the curtain."
+        "Answer_2": "She signaled Ross to close the curtain.",
+        "merged_question": "Generated Multi-hop Question: What did Ross grab after Joanna asked what Rachel's name was and Rachel signaled him to close the curtain?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
