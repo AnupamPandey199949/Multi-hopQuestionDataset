@@ -323,121 +323,161 @@
         "Question_1": "Who rubs her hands together like Joey after Monica shows everyone the lottery tickets?",
         "Answer_1": "Rachel",
         "Question_2": "What mode of transportation does Rachel fantasize about using after she wins the lottery?",
-        "Answer_2": "Helicopter"
+        "Answer_2": "Helicopter",
+        "merged_question": "What mode of transportation does Rachel fantasize about using after she wins the lottery, similar to how Joey reacts after seeing the lottery tickets?",
+        "answer": "Helicopter."
     },
     {
         "Question_1": "Who rubs her hands together like Joey after Monica shows everyone the lottery tickets?",
         "Answer_1": "Rachel",
         "Question_2": "What is Rachel doing when she is standing in the kitchen?",
-        "Answer_2": "talking on the phone?"
+        "Answer_2": "talking on the phone?",
+        "merged_question": "What is Rachel doing when she is standing in the kitchen where everyone is gathered to see the lottery tickets?",
+        "answer": "talking on the phone."
     },
     {
         "Question_1": "Who rubs her hands together like Joey after Monica shows everyone the lottery tickets?",
         "Answer_1": "Rachel",
         "Question_2": "What does Joey take from Rachel after she asks for her share of the tickets?",
-        "Answer_2": "a bowl"
+        "Answer_2": "a bowl",
+        "merged_question": "What does Joey take from Rachel after she rubs her hands together like Joey?",
+        "answer": "A bowl."
     },
     {
         "Question_1": "Who rubs her hands together like Joey after Monica shows everyone the lottery tickets?",
         "Answer_1": "Rachel",
         "Question_2": "Who was sitting at the table when Rachel walked in with the tickets?",
-        "Answer_2": "Phoebe and Ross"
+        "Answer_2": "Phoebe and Ross",
+        "merged_question": "Who was sitting at the table when Rachel walked in with the lottery tickets?",
+        "answer": "Phoebe and Ross."
     },
     {
         "Question_1": "Who rubs her hands together like Joey after Monica shows everyone the lottery tickets?",
         "Answer_1": "Rachel",
         "Question_2": "What is Ross holding before Rachel looks through the book?",
-        "Answer_2": "A pen"
+        "Answer_2": "A pen",
+        "merged_question": "Generated Multi-hop Question: What is Rachel looking at before she sees Ross holding a pen?",
+        "answer": "The lottery tickets."
     },
     {
         "Question_1": "Who rubs her hands together like Joey after Monica shows everyone the lottery tickets?",
         "Answer_1": "Rachel",
         "Question_2": "What does Rachel say she doesn't care about when she is talking about the lotto money?",
-        "Answer_2": "The Knicks."
+        "Answer_2": "The Knicks.",
+        "merged_question": "What does Rachel say she doesn't care about when she is talking about the lottery winnings that everyone is excited about, as evidenced by Joey's reaction to seeing the tickets?",
+        "answer": "The Knicks."
     },
     {
         "Question_1": "Who rubs her hands together like Joey after Monica shows everyone the lottery tickets?",
         "Answer_1": "Rachel",
         "Question_2": "What does Rachel say was Emma's first word after Joey asks what did she say?",
-        "Answer_2": "Gleba"
+        "Answer_2": "Gleba",
+        "merged_question": "What does Emma say after Rachel reveals what her first word was?",
+        "answer": "Gleba."
     },
     {
         "Question_1": "Who rubs her hands together like Joey after Monica shows everyone the lottery tickets?",
         "Answer_1": "Rachel",
         "Question_2": "What is Rachel doing before Joey tells her they're announcing the numbers?",
-        "Answer_2": "Talking on phone"
+        "Answer_2": "Talking on phone",
+        "merged_question": "What is Rachel doing when she rubs her hands together like Joey after seeing the lottery tickets?",
+        "answer": "Talking on phone."
     },
     {
         "Question_1": "Who rubs her hands together like Joey after Monica shows everyone the lottery tickets?",
         "Answer_1": "Rachel",
         "Question_2": "Who is Rachel on the phone with when Ross tells her to come on?",
-        "Answer_2": "Her mom"
+        "Answer_2": "Her mom",
+        "merged_question": "Who is Ross telling to come on, when she is on the phone with her mom and rubbing her hands together like Joey after seeing the lottery tickets?",
+        "answer": "Her mom."
     },
     {
         "Question_1": "Who rubs her hands together like Joey after Monica shows everyone the lottery tickets?",
         "Answer_1": "Rachel",
         "Question_2": "Why is Rachel upset with Ross after Phoebe and Joey break a wishbone?",
-        "Answer_2": "Ross is making fun of people for wishing"
+        "Answer_2": "Ross is making fun of people for wishing",
+        "merged_question": "Why is Rachel upset with Ross after Phoebe and Joey break a wishbone, and what action does she take that is similar to Joey's behavior when she sees the lottery tickets?",
+        "answer": "Rachel is upset with Ross because he is making fun of people for wishing, and she rubs her hands together like Joey after seeing the lottery tickets."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What does Janice say her baby will be to Ross after Ross ask who's this little guy?",
-        "Answer_2": "His future son-in-law."
+        "Answer_2": "His future son-in-law.",
+        "merged_question": "Who does Janice think will be the father of her baby after Ross holds Rachel after a contraction?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "Where is Janice sitting when she is next to Ross and Rachel in the hospital room?",
-        "Answer_2": "In a wheelchair. "
+        "Answer_2": "In a wheelchair. ",
+        "merged_question": "Who holds Rachel in the hospital room, and where is Janice sitting in relation to them?",
+        "answer": "Ross holds Rachel, and Janice is sitting in a wheelchair next to them."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "Why did Ross not have what Rachel asked for before coming back into the room?",
-        "Answer_2": "Ross was caught up talking to one of the nurses."
+        "Answer_2": "Ross was caught up talking to one of the nurses.",
+        "merged_question": "Generated Multi-hop Question: Who holds Rachel after she has a contraction after Ross got distracted from talking to one of the nurses?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What did Ross grab after Rachel said something about another contraction?",
-        "Answer_2": "Rachel"
+        "Answer_2": "Rachel",
+        "merged_question": "What did Ross grab after Rachel said something about another contraction, which was triggered after she had a conversation with Julie?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "Where in the hospital room is Rachel  when Ross walks over to her?",
-        "Answer_2": "She standing with her arms on the bed."
+        "Answer_2": "She standing with her arms on the bed.",
+        "merged_question": "Generated Multi-hop Question: Who is holding Rachel after she has a contraction while she is standing with her arms on the bed in the hospital room?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What was Ross and Rachel walking about before Janice walked into the room?",
-        "Answer_2": "Getting a private room"
+        "Answer_2": "Getting a private room",
+        "merged_question": "Who is holding Rachel after she has a contraction while they are discussing getting a private room?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What was clipped to the outside of the Doctors pocket when she was talking to Rachel and Ross?",
-        "Answer_2": "A pager"
+        "Answer_2": "A pager",
+        "merged_question": "Generated Multi-hop Question: Who holds Rachel after she has a contraction, and what was the likely reason for this contraction, given the presence of a pager on the doctor's pocket?",
+        "answer": "Ross, likely due to a premature labor, triggered by the conversation with Julie."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What did Ross do to Rachel's Daughter after Dr.Long gave Rachel her daughter?",
-        "Answer_2": "Kissed Rachel's daughter"
+        "Answer_2": "Kissed Rachel's daughter",
+        "merged_question": "Who kissed Rachel's daughter after Rachel had a contraction after talking to Julie?",
+        "answer": "Ross."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What was Ross wearing after he had commented about the other baby?",
-        "Answer_2": "Ross was wearing a white button up shirt."
+        "Answer_2": "Ross was wearing a white button up shirt.",
+        "merged_question": "What was Ross wearing after he had commented about the other baby, which was immediately followed by Rachel having a contraction after talking to Julie?",
+        "answer": "Ross was wearing a white button up shirt."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
         "Answer_1": "Ross",
         "Question_2": "What did Ross' mother give him after pulling him out of Rachel's room?",
-        "Answer_2": "Ross' mother wanted to give him a family wedding ring. (OMG THE FEEEEELS)"
+        "Answer_2": "Ross' mother wanted to give him a family wedding ring. (OMG THE FEEEEELS)",
+        "merged_question": "What did Ross' mother want to give him after pulling him out of the room where Rachel was holding after she had a contraction after talking to Julie?",
+        "answer": "Ross' mother wanted to give him a family wedding ring."
     },
     {
         "Question_1": "Who holds Racheal after she has a contraction after talking to Julie?",
