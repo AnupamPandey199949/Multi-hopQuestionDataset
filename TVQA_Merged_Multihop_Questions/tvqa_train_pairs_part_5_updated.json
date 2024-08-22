@@ -2882,121 +2882,161 @@
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "Why does Joey say he can forget the movie when talking to Chandler?",
-        "Answer_2": "He's going to be a millionaire."
+        "Answer_2": "He's going to be a millionaire.",
+        "merged_question": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe, just after Joey tells him he can forget the movie because he's going to be a millionaire?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "what did Chandler hate when Chandler said with monica ?",
-        "Answer_2": "He hate packing"
+        "Answer_2": "He hate packing",
+        "merged_question": "What does Chandler hate that he has to do with Monica when he walks into the room?",
+        "answer": "Packing."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "What time period was Joey talking about when he was teaching Chandler about his hat?",
-        "Answer_2": "Ancient Rome"
+        "Answer_2": "Ancient Rome",
+        "merged_question": "During which time period was Chandler learning about a hat from Joey, and who was Monica's boyfriend at that time?",
+        "answer": "Ancient Rome, Chandler"
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "Why is Chandler upset with Monica when they are in Vegas?",
-        "Answer_2": "Monica had lunch with her ex. "
+        "Answer_2": "Monica had lunch with her ex. ",
+        "merged_question": "Why is Chandler upset with Monica when she walks into the room with Phoebe?",
+        "answer": "Monica had lunch with her ex."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "What color shirt is the Woman by Phoebe wearing when Chandler say's \"We et the biggest suite in the place.\"?",
-        "Answer_2": "Green"
+        "Answer_2": "Green",
+        "merged_question": "What color shirt is Chandler's girlfriend wearing when he walks into the room where she's with Phoebe and says \"We ate the biggest steak in the place.\"?",
+        "answer": "Green."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "What do Monica and Chandler do before Phoebe turns her head to look at Joey?",
-        "Answer_2": "Monica and Chandler embrace."
+        "Answer_2": "Monica and Chandler embrace.",
+        "merged_question": "What action do Chandler and Monica perform before Phoebe turns her head to look at Joey?",
+        "answer": "Chandler and Monica embrace."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "Why was Chandler unsure if he had intended to insult Ross before?",
-        "Answer_2": "He was very tired"
+        "Answer_2": "He was very tired",
+        "merged_question": "Why was Chandler unsure if he had intended to insult Ross when he walked into the room as Monica's boyfriend?",
+        "answer": "He was very tired."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "Where are Joey and Chandler when they are together?",
-        "Answer_2": "they are in their hotel room"
+        "Answer_2": "they are in their hotel room",
+        "merged_question": "Where are Joey and Chandler when Chandler walks into the room as Monica's boyfriend, who is then in the room with Phoebe?",
+        "answer": "Their hotel room."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "What was on the door behind Phoebe when she told Chandler that the girl wants to make up?",
-        "Answer_2": "A vase of flowers"
+        "Answer_2": "A vase of flowers",
+        "merged_question": "Generated Multi-hop Question: What was Chandler's reaction when he walked into the room with a vase of flowers behind Phoebe, who told him that the girl wants to make up?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "What does Chandler do when he finds Monica?",
-        "Answer_2": "Walks away from Monica."
+        "Answer_2": "Walks away from Monica.",
+        "merged_question": "Why does Chandler walk away from Monica when he finds her in the room with Phoebe?",
+        "answer": "Because Chandler walks away from Monica."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "what did Monica say with Chandler when Monica huged Chandler ?",
-        "Answer_2": "Let's forget about going home and celebrate our anniversary"
+        "Answer_2": "Let's forget about going home and celebrate our anniversary",
+        "merged_question": "Why did Chandler walk into the room when Monica was with Phoebe?",
+        "answer": "To celebrate their anniversary."
     },
     {
         "Question_1": "Who walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
         "Answer_1": "Chandler",
         "Question_2": "What is behind Monica and Chandler when she picks up the bag?",
-        "Answer_2": "a statue"
+        "Answer_2": "a statue",
+        "merged_question": "What does Chandler walk into the room with when he walks into the room as Monica's boyfriend when she's in the room with Phoebe?",
+        "answer": "a statue."
     },
     {
         "Question_1": "Who enters the room when Joey makes a suggestion to Monica?",
         "Answer_1": "Chandler",
         "Question_2": "How did Monica react after Chandler said manny?",
-        "Answer_2": "She laughed."
+        "Answer_2": "She laughed.",
+        "merged_question": "How did Monica react after Joey made a suggestion that Joey thought Chandler would agree with?",
+        "answer": "She laughed."
     },
     {
         "Question_1": "Who enters the room when Joey makes a suggestion to Monica?",
         "Answer_1": "Chandler",
         "Question_2": "What is Chandler insecure about when he comes home?",
-        "Answer_2": "If he's funny or not. "
+        "Answer_2": "If he's funny or not. ",
+        "merged_question": "Generated Multi-hop Question: Why does Chandler enter the room when Joey makes a suggestion to Monica?",
+        "answer": "Because Chandler is insecure about whether he is funny or not."
     },
     {
         "Question_1": "Who enters the room when Joey makes a suggestion to Monica?",
         "Answer_1": "Chandler",
         "Question_2": "What does everyone do after Chandler calls the nanny manny?",
-        "Answer_2": "Laughs"
+        "Answer_2": "Laughs",
+        "merged_question": "What happens to everyone in the room after Joey makes a suggestion to Monica, which prompts Chandler to call the nanny manny?",
+        "answer": "Laughs."
     },
     {
         "Question_1": "Who enters the room when Joey makes a suggestion to Monica?",
         "Answer_1": "Chandler",
         "Question_2": "What is the name of the guy Monica mentions after Chandler stops talking?",
-        "Answer_2": "Jeffrey"
+        "Answer_2": "Jeffrey",
+        "merged_question": "Who enters the room when Joey makes a suggestion to Monica, and then mentions a guy whose name is Jeffrey after Chandler stops talking?",
+        "answer": "Chandler."
     },
     {
         "Question_1": "Who enters the room when Joey makes a suggestion to Monica?",
         "Answer_1": "Chandler",
         "Question_2": "Where was Chandler going when he kissed Monica goodbye?",
-        "Answer_2": "Tulsa"
+        "Answer_2": "Tulsa",
+        "merged_question": "Where was Chandler going when he kissed Monica goodbye, after he entered the room where Joey made a suggestion to her?",
+        "answer": "Tulsa."
     },
     {
         "Question_1": "Who enters the room when Joey makes a suggestion to Monica?",
         "Answer_1": "Chandler",
         "Question_2": "What did Monica do after Chandler walked in the room?",
-        "Answer_2": "She stood up."
+        "Answer_2": "She stood up.",
+        "merged_question": "What action does Joey's suggestion prompt in Monica, which then prompts Chandler to enter the room?",
+        "answer": "She stood up."
     },
     {
         "Question_1": "Who enters the room when Joey makes a suggestion to Monica?",
         "Answer_1": "Chandler",
         "Question_2": "When Chandler recited his limerick, who did he say made him die inside after saying once was a man named Chandler?",
-        "Answer_2": "his wife"
+        "Answer_2": "his wife",
+        "merged_question": "Generated Multi-hop Question: Who made Chandler die inside after saying once was a man named Chandler?",
+        "answer": "His wife."
     },
     {
         "Question_1": "Who enters the room when Joey makes a suggestion to Monica?",
         "Answer_1": "Chandler",
         "Question_2": "Where does Chandler put the pizza box after walking over to the table?",
-        "Answer_2": "On the table"
+        "Answer_2": "On the table",
+        "merged_question": "When Chandler enters the room after Joey makes a suggestion to Monica, where does he put the pizza box?",
+        "answer": "On the table."
     },
     {
         "Question_1": "Who enters the room when Joey makes a suggestion to Monica?",
