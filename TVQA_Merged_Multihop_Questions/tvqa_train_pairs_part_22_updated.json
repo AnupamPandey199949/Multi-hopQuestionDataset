@@ -1123,121 +1123,161 @@
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Why did Cuddy say Kutner had an indecent exposure charge after House showed her the background check?",
-        "Answer_2": "Cuddy said Kutner streaked at the Penn-Dartmouth football game."
+        "Answer_2": "Cuddy said Kutner streaked at the Penn-Dartmouth football game.",
+        "merged_question": "Why did Kutner streak at the football game where he was being discussed by House and his team?",
+        "answer": "Kutner streaked at the Penn-Dartmouth football game."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Where does House go after he leaves his office",
-        "Answer_2": "The ER"
+        "Answer_2": "The ER",
+        "merged_question": "Who is the 13 talking to when she is telling them about the patient in the ER?",
+        "answer": "House."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Where does Wilson say they should go when he and House are looking around Kutner's apartment?",
-        "Answer_2": "The closest bar"
+        "Answer_2": "The closest bar",
+        "merged_question": "Generated Multi-hop Question: Where is House when 13 is telling him about the patient?",
+        "answer": "The closest bar."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What does House do after he takes his medication?",
-        "Answer_2": "He says he will join a doctor"
+        "Answer_2": "He says he will join a doctor",
+        "merged_question": "What does House plan to do after he takes his medication when he is talking to 13 about the patient?",
+        "answer": "He plans to join a doctor."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What color is the shirt House is wearing when he say's \"You'd be trading...\"?",
-        "Answer_2": "white"
+        "Answer_2": "white",
+        "merged_question": "What color is the shirt of the person 13 is talking to when she is telling them about the patient?",
+        "answer": "White."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What happens after House says that Kutner was murdered? ",
-        "Answer_2": "Wilson scoffs and shakes his head"
+        "Answer_2": "Wilson scoffs and shakes his head",
+        "merged_question": "What happens after House tells 13 that Kutner was murdered?",
+        "answer": "Wilson scoffs and shakes his head."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What did Cuddy say when she came into House's office?",
-        "Answer_2": "Cuddy said IT was trying to close out Kutner's email and someone was logged on."
+        "Answer_2": "Cuddy said IT was trying to close out Kutner's email and someone was logged on.",
+        "merged_question": "Who was trying to close out Kutner's email and was logged on when Cuddy came into House's office?",
+        "answer": "13"
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Where is Foreman when House is talking to him?",
-        "Answer_2": "Foreman is sitting in a chair"
+        "Answer_2": "Foreman is sitting in a chair",
+        "merged_question": "Who is 13 talking to when she is telling them about the patient while Foreman is sitting in a chair?",
+        "answer": "House"
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Where is House standing before he walks over the file drawer?",
-        "Answer_2": "At the end of the table"
+        "Answer_2": "At the end of the table",
+        "merged_question": "Who is standing at the end of the table when 13 is telling them about the patient?",
+        "answer": "House."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What was Foreman's solution when House jokingly said to call the tabloids?",
-        "Answer_2": "Pass the file to another doctor."
+        "Answer_2": "Pass the file to another doctor.",
+        "merged_question": "When House jokingly said to call the tabloids, what was Foreman's solution, which involved passing the information to the person who was previously talking about a patient?",
+        "answer": "House."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What did Foreman do when House confirms no to mitochondrial disease?",
-        "Answer_2": "shook his head"
+        "Answer_2": "shook his head",
+        "merged_question": "What did Foreman do when House confirmed no mitochondrial disease while talking to 13 about the patient?",
+        "answer": "shook his head."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What was next to House before Wilson came in?",
-        "Answer_2": "A couch"
+        "Answer_2": "A couch",
+        "merged_question": "Who is sitting on the couch next to House when Wilson comes in?",
+        "answer": "The patient."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What did House do after he was done talking?",
-        "Answer_2": "walk away"
+        "Answer_2": "walk away",
+        "merged_question": "What did House do after he was done talking to 13 about the patient?",
+        "answer": "walk away."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Why was Foreman upset after House blamed the group?",
-        "Answer_2": "He felt guilty for not picking up on anything."
+        "Answer_2": "He felt guilty for not picking up on anything.",
+        "merged_question": "Why was House blaming the group, specifically Foreman, for not picking up on something?",
+        "answer": "He was blaming them for not diagnosing the patient correctly."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What does House ask the team when everyone is reeling over Kutner's suicide?",
-        "Answer_2": "If he ever said anything to any of them"
+        "Answer_2": "If he ever said anything to any of them",
+        "merged_question": "Generated Multi-hop Question: Who is House asking if Kutner ever said anything to when the team is reeling over his suicide?",
+        "answer": "13."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Why did House leave the room after Taub told him the results of their kidney testing?",
-        "Answer_2": "He realized what was going on with the patient in question."
+        "Answer_2": "He realized what was going on with the patient in question.",
+        "merged_question": "Why did House leave the room after Taub told him the results of their kidney testing, when he was talking to him about the patient?",
+        "answer": "He realized what was going on with the patient in question."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Where did House say Foreman was when Thirteen asked if Foreman had been paged?",
-        "Answer_2": "House said Foreman took up Cuddy's offer of time off."
+        "Answer_2": "House said Foreman took up Cuddy's offer of time off.",
+        "merged_question": "Generated Multi-hop Question: Where was Foreman when Thirteen asked House if Foreman had been paged?",
+        "answer": "Foreman was on time off, which was accepted by Cuddy."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "What was the first thing House sees when he walks into Kutner's room.",
-        "Answer_2": "A large pool of blood"
+        "Answer_2": "A large pool of blood",
+        "merged_question": "Who is 13 talking to when she is telling them about the patient in the room where House first sees a large pool of blood?",
+        "answer": "House."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "Who is with House when Taub tells him about his patient?",
-        "Answer_2": "13"
+        "Answer_2": "13",
+        "merged_question": "Who is Taub telling about his patient when House is with them?",
+        "answer": "House"
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
         "Answer_1": "House",
         "Question_2": "How did Cuddy know House was waiting for the AAT protein test when they were talking?",
-        "Answer_2": "She had been checking up on him"
+        "Answer_2": "She had been checking up on him",
+        "merged_question": "How did Cuddy know House was waiting for the AAT protein test when they were talking to him?",
+        "answer": "She had been checking up on him."
     },
     {
         "Question_1": "Who is 13 talking to when she is telling them about the patient?",
