@@ -163,121 +163,161 @@
         "Question_1": "Who was House making a moo sound to when he entered the room?",
         "Answer_1": "patient",
         "Question_2": "When House was holding the patient's photo of his mom, before the patient took it back, what did House restate the patient's mom was?",
-        "Answer_2": "House restated that the patient's mom was a \"step.\""
+        "Answer_2": "House restated that the patient's mom was a \"step.\"",
+        "merged_question": "Why was House making a moo sound when he entered the room where the patient was holding a photo of his stepmom?",
+        "answer": "The patient's mom was a \"step.\""
     },
     {
         "Question_1": "Who was House making a moo sound to when he entered the room?",
         "Answer_1": "patient",
         "Question_2": "What is Dr. Foreman doing when the patient asks if he should have come in sooner?",
-        "Answer_2": "He is holding the patient's arms and looking at his watch to take his blood pressure."
+        "Answer_2": "He is holding the patient's arms and looking at his watch to take his blood pressure.",
+        "merged_question": "Generated Multi-hop Question: What was Dr. Foreman doing when he was holding the patient's arms?",
+        "answer": "He was taking the patient's blood pressure."
     },
     {
         "Question_1": "Who was House making a moo sound to when he entered the room?",
         "Answer_1": "patient",
         "Question_2": "What did House want to give a patient when he said the patient would be great in a couple of hours?",
-        "Answer_2": "House wanted to give the patient meds."
+        "Answer_2": "House wanted to give the patient meds.",
+        "merged_question": "What did House want to give the patient who would be great in a couple of hours, the patient he was making a moo sound to when he entered the room?",
+        "answer": "Meds."
     },
     {
         "Question_1": "Who was House making a moo sound to when he entered the room?",
         "Answer_1": "patient",
         "Question_2": "What does Chase have in his ears when he is standing next to the patient?",
-        "Answer_2": "A stethoscope. "
+        "Answer_2": "A stethoscope. ",
+        "merged_question": "Who was House making a moo sound to when he entered the room, while Chase was listening to their heartbeat with a stethoscope?",
+        "answer": "Patient."
     },
     {
         "Question_1": "Who was House making a moo sound to when he entered the room?",
         "Answer_1": "patient",
         "Question_2": "What does House compare his patient to when he is talking with his students about diagnosis and treatment?",
-        "Answer_2": "He compares her to a fridge with the power out"
+        "Answer_2": "He compares her to a fridge with the power out",
+        "merged_question": "What is the patient that House compares to a fridge with the power out, when he entered the room and made a moo sound?",
+        "answer": "The patient."
     },
     {
         "Question_1": "Who was House making a moo sound to when he entered the room?",
         "Answer_1": "patient",
         "Question_2": "What did Foreman say after he told House they had turned the patient down as an organ donor?",
-        "Answer_2": "Foreman said if they put her heart into someone else whatever killed her would kill them."
+        "Answer_2": "Foreman said if they put her heart into someone else whatever killed her would kill them.",
+        "merged_question": "Generated Multi-hop Question:  When Foreman told House that they had turned the patient down as an organ donor, what would House have done to the patient if she had been a suitable donor?",
+        "answer": "He would have made a moo sound to her."
     },
     {
         "Question_1": "Who was House making a moo sound to when he entered the room?",
         "Answer_1": "patient",
         "Question_2": "How did house reacted when Cuddy told him the patient is 66 years old",
-        "Answer_2": "He frowned"
+        "Answer_2": "He frowned",
+        "merged_question": "How did House react when he learned that the patient he was making a moo sound to was 66 years old?",
+        "answer": "He frowned."
     },
     {
         "Question_1": "Who was House making a moo sound to when he entered the room?",
         "Answer_1": "patient",
         "Question_2": "Where is the patient when the doctor is performing surgery?",
-        "Answer_2": "On the operating table"
+        "Answer_2": "On the operating table",
+        "merged_question": "Where was the patient when House entered the room and made a moo sound to them?",
+        "answer": "On the operating table."
     },
     {
         "Question_1": "Who was House making a moo sound to when he entered the room?",
         "Answer_1": "patient",
         "Question_2": "How much paromomycin and  chloroquin did House want to give a patient after Chase said he was going to give the patient some?",
-        "Answer_2": "House wanted to give the patient ten grams of each."
+        "Answer_2": "House wanted to give the patient ten grams of each.",
+        "merged_question": "When House entered the room and made a moo sound, what treatment did he plan to give to the patient he was making a moo sound to?",
+        "answer": "Ten grams of paromomycin and ten grams of chloroquin."
     },
     {
         "Question_1": "Who was House making a moo sound to when he entered the room?",
         "Answer_1": "patient",
         "Question_2": "Why did House want to give a patient a high dose of paromomycin and chloroquine after Chase told him the does was higher than normal?",
-        "Answer_2": "House wanted to destroy the patient's retinas and damage her hearing."
+        "Answer_2": "House wanted to destroy the patient's retinas and damage her hearing.",
+        "merged_question": "Why did House make a moo sound to the patient when he entered the room?",
+        "answer": "House wanted to destroy the patient's retinas and damage her hearing."
     },
     {
         "Question_1": "What color is the tie Jason is wearing when he say's \"and ther's a truth...\"?",
         "Answer_1": "red",
         "Question_2": "Where was Jason pointing the gun when House answered the phone",
-        "Answer_2": "At house"
+        "Answer_2": "At house",
+        "merged_question": "What color is the tie Jason is wearing when he points the gun at House?",
+        "answer": "red."
     },
     {
         "Question_1": "What color is the tie Jason is wearing when he say's \"and ther's a truth...\"?",
         "Answer_1": "red",
         "Question_2": "Where was the phone before Jason answered it?",
-        "Answer_2": "In a chair."
+        "Answer_2": "In a chair.",
+        "merged_question": "Where was the phone before Jason answered it while wearing a red tie?",
+        "answer": "In a chair."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "What did House use to help himself to get up when he is sitting on the sofa?",
-        "Answer_2": "House uses his cane to help himself up"
+        "Answer_2": "House uses his cane to help himself up",
+        "merged_question": "Why was Taub trying to call House when he was sitting on the sofa?",
+        "answer": "Taub was trying to call House when he was sitting on the sofa because House was having trouble getting up from the sofa, and Taub likely wanted to check in on him or help him with something."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "Where is House sitting when he was with WIlson in the same room?",
-        "Answer_2": "House is sitting on a couch"
+        "Answer_2": "House is sitting on a couch",
+        "merged_question": "Who was Taub trying to call when he dialed his phone from the room where House was sitting with Wilson?",
+        "answer": "House."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "How did Wilson respond when House said that Wilson decided to never be that careless again?",
-        "Answer_2": "You don't think that's a little facile? "
+        "Answer_2": "You don't think that's a little facile? ",
+        "merged_question": "Generated Multi-hop Question: How did Wilson respond when House said that he was trying to call him because he was being careless?",
+        "answer": "You don't think that's a little facile?."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "Why did House stop Taub from leaving when he started to follow Kutner?",
-        "Answer_2": "Because House said Taub was going to be busy with something else."
+        "Answer_2": "Because House said Taub was going to be busy with something else.",
+        "merged_question": "What was Taub going to be busy with when House stopped him from leaving?",
+        "answer": "Following Kutner."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "What did Wilson do after House offered to keep him company?",
-        "Answer_2": "Turned around and looked at House"
+        "Answer_2": "Turned around and looked at House",
+        "merged_question": "What did House do after he tried to call Taub, prompting Wilson to turn around and look at him?",
+        "answer": "House offered to keep Wilson company."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "Who did House chose to sit with after walking into the cafeteria?",
-        "Answer_2": "Wilson."
+        "Answer_2": "Wilson.",
+        "merged_question": "Who did Taub try to call in the cafeteria?",
+        "answer": "Wilson."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "How long did Taub say he played racquetball with Wilson after House asked ",
-        "Answer_2": "Taub said he played racquetball with Wilson 4 or 5 times "
+        "Answer_2": "Taub said he played racquetball with Wilson 4 or 5 times ",
+        "merged_question": "Generated Multi-hop Question: How many times did House ask Taub to play racquetball with Wilson before Taub agreed to play?",
+        "answer": "4 or 5 times."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
         "Answer_1": "House",
         "Question_2": "Whose office did Taub go to when he left House?",
-        "Answer_2": "Wilson's office"
+        "Answer_2": "Wilson's office",
+        "merged_question": "Whose office was Taub trying to call when he dialed his phone.",
+        "answer": "House's office."
     },
     {
         "Question_1": "Who was Taub trying to call when he dialed his phone",
