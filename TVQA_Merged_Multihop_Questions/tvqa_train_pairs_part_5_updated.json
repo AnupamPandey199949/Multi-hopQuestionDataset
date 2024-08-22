@@ -1283,121 +1283,161 @@
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Why is Rachel upset when the woman is wheeled out of the hospital room?",
-        "Answer_2": "Rachel is ready to have her baby and everyone else is having their babies first."
+        "Answer_2": "Rachel is ready to have her baby and everyone else is having their babies first.",
+        "merged_question": "Why is Rachel upset when she sees the woman being wheeled out of the hospital room after Ross grabs her?",
+        "answer": "Rachel is ready to have her baby and everyone else is having their babies first."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Who rolled into the room when Rachel was in labor",
-        "Answer_2": "Janice"
+        "Answer_2": "Janice",
+        "merged_question": "Generated Multi-hop Question: Who rolled into the room when Ross's wife was in labor?",
+        "answer": "Janice."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "How was Rachel's hair done when she was talking to the other couple?",
-        "Answer_2": "Rachel's hair was in pigtails."
+        "Answer_2": "Rachel's hair was in pigtails.",
+        "merged_question": "What did Ross grab after he noticed Rachel had pigtails?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What did Rachel happened after Ross told her to ignore them?",
-        "Answer_2": "a man was starring at her"
+        "Answer_2": "a man was starring at her",
+        "merged_question": "What did Ross grab after he told the man starring at her to ignore her?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What did Rachel tell her daughter when she saw her?",
-        "Answer_2": "thanks for coming out of me"
+        "Answer_2": "thanks for coming out of me",
+        "merged_question": "Generated Multi-hop Question: What did Ross grab after Rachel told her daughter \"thanks for coming out of me\"?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "How many women had babies before Rachel had her baby?",
-        "Answer_2": "Five"
+        "Answer_2": "Five",
+        "merged_question": "How many women had babies before the woman who Ross grabbed after Rachel said something about another contraction had her baby?",
+        "answer": "Five."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What does Phoebe have on her shirt when she and Ross are talking about his relationship with Rachel at the hospital?",
-        "Answer_2": "A cobra."
+        "Answer_2": "A cobra.",
+        "merged_question": "What did Ross grab after Phoebe mentioned a cobra in their conversation at the hospital?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Where was Phoebe standing when they were visiting Rachel?",
-        "Answer_2": "By the window."
+        "Answer_2": "By the window.",
+        "merged_question": "Where was Phoebe standing when Ross grabbed Rachel after she said something about another contraction?",
+        "answer": "By the window."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Who enters the room after Rachel shouts at the nurse?",
-        "Answer_2": "Janice."
+        "Answer_2": "Janice.",
+        "merged_question": "Generated Multi-hop Question: Who enters the room after Ross grabs the person who was previously being talked about in relation to another contraction?",
+        "answer": "Janice."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Who does Rachel point to when she is shouting at the nurse?",
-        "Answer_2": "Ross."
+        "Answer_2": "Ross.",
+        "merged_question": "Who is the person Rachel points to when she is shouting at the person Ross grabbed after she said something about another contraction?",
+        "answer": "Ross."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Why did Ross tell Rachell to squeeze her legs together when they were talking to Janice?",
-        "Answer_2": "To protect Rachel's unborn child's ears from Janice laughing."
+        "Answer_2": "To protect Rachel's unborn child's ears from Janice laughing.",
+        "merged_question": "Why did Ross tell Rachel to squeeze her legs together when they were talking to Janice, considering they were already aware of the pregnancy and had previously discussed contractions?",
+        "answer": "To protect the unborn child's ears from Janice laughing."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Where was Julie when she told Rachel they were going to have some fun? ",
-        "Answer_2": "Wheelchair "
+        "Answer_2": "Wheelchair ",
+        "merged_question": "Generated Multi-hop Question: Where was Rachel when Julie told her they were going to have some fun, prompting Ross to grab her?",
+        "answer": "Wheelchair."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What was Ross doing to Rachel when Julies husband opened the curtain at the hospital?",
-        "Answer_2": "Rubbing her back and hip"
+        "Answer_2": "Rubbing her back and hip",
+        "merged_question": "What did Ross grab from the woman he was rubbing her back and hip when Julie's husband opened the curtain at the hospital?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Who does Rachel call Ross's future wife when she is telling Joey about why she is upset?",
-        "Answer_2": "Miss New Boobs."
+        "Answer_2": "Miss New Boobs.",
+        "merged_question": "Why was Rachel upset with Ross, according to what she told Joey?",
+        "answer": "Because Ross is going to marry Miss New Boobs, after Rachel said something about another contraction."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Why is Phoebe so worried when she gives the baby back to Rachel?",
-        "Answer_2": "Phoebe thought it was going to be named Baby Girl."
+        "Answer_2": "Phoebe thought it was going to be named Baby Girl.",
+        "merged_question": "Why is Phoebe so worried when she gives the baby back to Ross?",
+        "answer": "Phoebe thought it was going to be named Baby Girl."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What did Rachel do after Ross named the baby Isabella?",
-        "Answer_2": "She sobbed and said that's not her name and it doesn't fit her"
+        "Answer_2": "She sobbed and said that's not her name and it doesn't fit her",
+        "merged_question": "What did Ross grab after Rachel said something about another contraction, and then Ross named the baby, but Rachel disagreed with the name, saying it doesn't fit her?",
+        "answer": "Rachel."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What happens after the man sits on the couch to spy on Rachel?",
-        "Answer_2": "Rachel sees him"
+        "Answer_2": "Rachel sees him",
+        "merged_question": "What happens after Ross grabs someone after Rachel said something about another contraction?",
+        "answer": "Rachel sees him."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "What did Ross say, after Phoebe asked him, why isn't he with Rachel?",
-        "Answer_2": "we're not gonna be together just because we're having this baby"
+        "Answer_2": "we're not gonna be together just because we're having this baby",
+        "merged_question": "Why did Ross grab Rachel after Phoebe asked him why he isn't with her?",
+        "answer": "Because Phoebe asked him why he isn't with Rachel, and Ross grabbed Rachel after Rachel said something about another contraction."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Where is Rachel when she is deciding the baby's name?",
-        "Answer_2": "In a hospital bed."
+        "Answer_2": "In a hospital bed.",
+        "merged_question": "Where is Ross when Rachel is deciding the baby's name?",
+        "answer": "In a hospital bed."
     },
     {
         "Question_1": "What did Ross grab after Rachel said something about another contraction?",
         "Answer_1": "Rachel",
         "Question_2": "Where was Rachel when Joey was told he she'd never be alone? ",
-        "Answer_2": "Hospital"
+        "Answer_2": "Hospital",
+        "merged_question": "Generated Multi-hop Question: Where was Rachel when Joey was told he'd never be alone, and what did Ross grab after hearing about another contraction?",
+        "answer": "Hospital, Rachel"
     },
     {
         "Question_1": "Where are Monica, Chandler, and Rachel sitting when they are talking?",
