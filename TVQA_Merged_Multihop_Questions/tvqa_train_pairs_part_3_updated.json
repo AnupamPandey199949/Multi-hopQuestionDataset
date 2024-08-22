@@ -3,481 +3,361 @@
         "Question_1": "Who realizes after the movers leave that everyone has lived in monicas apartment at one time or another?",
         "Answer_1": "Phoebe",
         "Question_2": "What did Ross tell Joey and Phoebe that Rachel said to him when they were conversing?",
-        "Answer_2": "The perfect way to say goodbye.",
-        "merged_question": "Who realizes after the movers leave that everyone has lived in Monica's apartment at one time or another, and what significant phrase about saying goodbye is associated with this realization?",
-        "answer": "Phoebe, who realizes after the movers leave that everyone has lived in Monica's apartment at one time or another, and the significant phrase about saying goodbye associated with this realization is \"The perfect way to say goodbye\"."
+        "Answer_2": "The perfect way to say goodbye."
     },
     {
         "Question_1": "What was Ross doing before he started talking?",
         "Answer_1": "sitting",
         "Question_2": "What did Rachel tell her father when they were sitting at the table?",
-        "Answer_2": "He was gonna be a poppy.",
-        "merged_question": "What did Ross say to Rachel's father when they were sitting at the table?",
-        "answer": "He was gonna be a poppy."
+        "Answer_2": "He was gonna be a poppy."
     },
     {
         "Question_1": "What was Ross doing before he started talking?",
         "Answer_1": "sitting",
         "Question_2": "What did Ross's date say to Ross when they were sitting on the couch?",
-        "Answer_2": "It was cool seeing you lecture today.",
-        "merged_question": "Generated Multi-hop Question: What was Ross's date complimenting him on when they were sitting together?",
-        "answer": "His lecture."
+        "Answer_2": "It was cool seeing you lecture today."
     },
     {
         "Question_1": "What was Ross doing before he started talking?",
         "Answer_1": "sitting",
         "Question_2": "Who was Rachel talking to before sitting down at the table?",
-        "Answer_2": "Her father.",
-        "merged_question": "Who was Rachel talking to before Ross started sitting down?",
-        "answer": "Her father."
+        "Answer_2": "Her father."
     },
     {
         "Question_1": "What was Ross doing before he started talking?",
         "Answer_1": "sitting",
         "Question_2": "Where are Joey and Chandler when they are sitting at the table?",
-        "Answer_2": "Monica's Kitchen",
-        "merged_question": "Where was Ross sitting before he started talking to Joey and Chandler?",
-        "answer": "Monica's Kitchen."
+        "Answer_2": "Monica's Kitchen"
     },
     {
         "Question_1": "What was Ross doing before he started talking?",
         "Answer_1": "sitting",
         "Question_2": "What does Mr.Green do after sitting at the table?",
-        "Answer_2": "puts a napkin on his lap",
-        "merged_question": "What does Ross do before he starts talking?",
-        "answer": "sitting.\n\nThis question requires the test-taker to make a connection between Ross's action before talking (Q1) and Mr. Green's action after sitting (Q2)."
+        "Answer_2": "puts a napkin on his lap"
     },
     {
         "Question_1": "What was Ross doing before he started talking?",
         "Answer_1": "sitting",
         "Question_2": "Who is sitting at the restaurant table with the man after he left the table",
-        "Answer_2": "Rachel and Phoebe are sitting at the restaurant table",
-        "merged_question": "Who was sitting at the restaurant table with the man after Ross left the table?",
-        "answer": "Rachel and Phoebe."
+        "Answer_2": "Rachel and Phoebe are sitting at the restaurant table"
     },
     {
         "Question_1": "What was Ross doing before he started talking?",
         "Answer_1": "sitting",
         "Question_2": "Who was sitting at the table when Rachel and her dad sat down? ",
-        "Answer_2": "Phoebe.",
-        "merged_question": "Who was sitting at the table before Ross started talking to Rachel and her dad?",
-        "answer": "Phoebe."
+        "Answer_2": "Phoebe."
     },
     {
         "Question_1": "What was Ross doing before he started talking?",
         "Answer_1": "sitting",
         "Question_2": "What object was on Monica's lap when she was sitting on the couch?",
-        "Answer_2": "A purse.",
-        "merged_question": "What object was on Ross's lap before he started talking?",
-        "answer": "A purse."
+        "Answer_2": "A purse."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What is Chandler handed after his conversation with Joey?",
-        "Answer_2": "A folder",
-        "merged_question": "Who is Joey talking to after the scene starts, and what is being handed to this person after their conversation?",
-        "answer": "Chandler and a folder."
+        "Answer_2": "A folder"
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What was Chandler's reasoning for giving his employees the day off when he explained it to his boss?",
-        "Answer_2": "Boost morale",
-        "merged_question": "What was Joey's motivation for talking to Chandler after the scene starts, considering Chandler's goal of giving his employees the day off was to boost morale?",
-        "answer": "Boost morale."
+        "Answer_2": "Boost morale"
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What was Mr. Douglas holding when he walked up to Joey and Chandler? ",
-        "Answer_2": "A file",
-        "merged_question": "Generated Multi-hop Question: What was Mr. Douglas holding when he walked up to Joey and Chandler, who were having a conversation?",
-        "answer": "A file."
+        "Answer_2": "A file"
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "Where are Joey and Chandler when they are hanging out together?",
-        "Answer_2": "In Chandler's office. ",
-        "merged_question": "Who is Joey talking to in Chandler's office?",
-        "answer": "Chandler."
+        "Answer_2": "In Chandler's office. "
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What job does Chandler offer Joey when Joey is in Chandlers office?",
-        "Answer_2": "Entry-level processor",
-        "merged_question": "What job is Joey applying for after the scene starts when he is talking to Chandler.",
-        "answer": "Entry-level processor."
+        "Answer_2": "Entry-level processor"
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "Where is Chandler when Ross opens the door and walks in?",
-        "Answer_2": "Behind his desk.",
-        "merged_question": "Who is Joey talking to after Ross walks in and finds them in the room where Ross sees Ross's friend sitting behind his desk?",
-        "answer": "Chandler."
+        "Answer_2": "Behind his desk."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "Where did Chandler hold Joey when he pushed him out the door?",
-        "Answer_2": "His face.",
-        "merged_question": "Who was Joey holding when Chandler pushed him out the door by the face?",
-        "answer": "Chandler."
+        "Answer_2": "His face."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What does Joey say after he enters Chandler's office?",
-        "Answer_2": "Hey! Mr. Douglas is looking for you.",
-        "merged_question": "Who is Mr. Douglas looking for?",
-        "answer": "Chandler."
+        "Answer_2": "Hey! Mr. Douglas is looking for you."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What is Chandler holding when he is talking to Joey?",
-        "Answer_2": "A pen",
-        "merged_question": "Who is Joey talking to after the scene starts, and what is the person holding?",
-        "answer": "Joey is talking to Chandler, and Chandler is holding a pen."
+        "Answer_2": "A pen"
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What does Chandler put on the table after Joey said that Mr. Douglas was looking for him?",
-        "Answer_2": "A pen",
-        "merged_question": "After Joey said that Mr. Douglas was looking for him, what was Chandler doing to Joey?",
-        "answer": "Putting a pen on the table."
+        "Answer_2": "A pen"
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What did Joey do to before coming into Chandler's office?",
-        "Answer_2": "Joey told Mr. Douglas that chandler dropped the ball on the lender project.",
-        "merged_question": "Who did Joey tell dropped the ball on the lender project before coming into Chandler's office?",
-        "answer": "Chandler."
+        "Answer_2": "Joey told Mr. Douglas that chandler dropped the ball on the lender project."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What did Chandler say he has in the drawer before Joey smiles and says \"really\"?",
-        "Answer_2": "Panties",
-        "merged_question": "What was Joey reacting to when he smiled and said \"really\"?",
-        "answer": "Chandler saying he has Panties in the drawer."
+        "Answer_2": "Panties"
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What was Rachel doing before Chandler came in?",
-        "Answer_2": "Rachel was wiping down the bar",
-        "merged_question": "Who was Rachel wiping down the bar for before Chandler came in?",
-        "answer": "Joey."
+        "Answer_2": "Rachel was wiping down the bar"
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What does Joey decide to add to his character's life at the last minute when talking with Chandler?",
-        "Answer_2": "Joey decides to give his character a third child.",
-        "merged_question": "What does Chandler learn about Joey's character when Joey is talking to him?",
-        "answer": "Joey decides to give his character a third child."
+        "Answer_2": "Joey decides to give his character a third child."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "Why did Chandler say people would think Joey was a processor when he was holding out his hands?",
-        "Answer_2": "Joey is an actor who could act like a processor.",
-        "merged_question": "Why did Joey act like a processor when talking to Chandler?",
-        "answer": "Joey is an actor who could act like a processor."
+        "Answer_2": "Joey is an actor who could act like a processor."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What does Joey tell Chandler are the names of his characters kids when talking in the office?",
-        "Answer_2": "Joey tells Chandler that his character's kids' names are Ashley and Brittany.",
-        "merged_question": "What names does Joey tell Chandler are the names of his character's kids when he is talking to him?",
-        "answer": "Ashley and Brittany."
+        "Answer_2": "Joey tells Chandler that his character's kids' names are Ashley and Brittany."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "Who does Joey tell Chandler copies everything Brittany does when talking in the office?",
-        "Answer_2": "Joey tells Chandler that Ashley copies everything Brittany does.",
-        "merged_question": "Generated Multi-hop Question: Who does Joey tell Chandler copies everything Brittany does when talking in the office?",
-        "answer": "Ashley."
+        "Answer_2": "Joey tells Chandler that Ashley copies everything Brittany does."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What did Scott say after Chandler told him Joey was a processor? ",
-        "Answer_2": "No kidding.",
-        "merged_question": "What did Scott say after Chandler told him that the person Joey was talking to was a processor?",
-        "answer": "No kidding."
+        "Answer_2": "No kidding."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "Who is Joey pretending to be when he mentions his kids to Chandler?",
-        "Answer_2": "Joey is pretending to be the character he's playing.",
-        "merged_question": "Who is Joey pretending to be when he mentions his kids to the character he is talking to after the scene starts?",
-        "answer": "The character he's playing."
+        "Answer_2": "Joey is pretending to be the character he's playing."
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What did Mr Douglas want from Chandler by Tuesday when he was talking to him?",
-        "Answer_2": "Final numbers",
-        "merged_question": "What did Joey ask Chandler to get for him by Tuesday?",
-        "answer": "Final numbers."
+        "Answer_2": "Final numbers"
     },
     {
         "Question_1": "Who is Joey talking to after the scene starts",
         "Answer_1": "Chandler",
         "Question_2": "What color shirt is Joey wearing when he is in Chandler's office?",
-        "Answer_2": "Blue. ",
-        "merged_question": "What color shirt is Chandler wearing when he is talking to Joey at the beginning of the scene?",
-        "answer": "Blue."
+        "Answer_2": "Blue. "
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "What did Gavin bring when he visited Rachel?",
-        "Answer_2": "Soup",
-        "merged_question": "What did Gavin bring when he visited Rachel because she said she was sick?",
-        "answer": "Soup."
+        "Answer_2": "Soup"
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "Why did Gavin bring soup when he visited Rachel?",
-        "Answer_2": "Gavin heard Rachel was sick",
-        "merged_question": "Why did Gavin put his hand on Rachel's forehead when she said she was sick?",
-        "answer": "Gavin heard Rachel was sick."
+        "Answer_2": "Gavin heard Rachel was sick"
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "How does Gavin react after Rachel says she's sorry",
-        "Answer_2": "It's just bad timing",
-        "merged_question": "Why did Gavin put his hand on Rachel's forehead when she said it was just bad timing?",
-        "answer": "Because Rachel said she was sick."
+        "Answer_2": "It's just bad timing"
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "How did Rachel trick Gavin when he came to visit her?",
-        "Answer_2": "Rachel pretended to be sick",
-        "merged_question": "Generated Multi-hop Question: Who tricked Gavin into visiting Rachel by pretending to be sick?",
-        "answer": "Rachel."
+        "Answer_2": "Rachel pretended to be sick"
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "What was Rachel doing before Gavin knocked on the door.",
-        "Answer_2": "She was sitting on the couch reading a magazine.",
-        "merged_question": "Who was reading a magazine before Gavin knocked on the door and put his hand on Rachel's forehead when she said she was sick?",
-        "answer": "Rachel was reading a magazine before Gavin knocked on the door and put his hand on Rachel's forehead when she said she was sick."
+        "Answer_2": "She was sitting on the couch reading a magazine."
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "What does Rachel consider doing when she is talking about not dealing with Gavin?",
-        "Answer_2": "Rachel said she would call in sick",
-        "merged_question": "Who puts their hand on Rachel's forehead when she says she's considering calling in sick?",
-        "answer": "Gavin."
+        "Answer_2": "Rachel said she would call in sick"
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "How much time did Rachael have to see Gavin when she was talking to Monica and Phoebe?",
-        "Answer_2": "10 minutes",
-        "merged_question": "How long did Gavin have to put his hand on Rachel's forehead when she said she was sick?",
-        "answer": "10 minutes."
+        "Answer_2": "10 minutes"
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "What did Rachel do before she opened the door to Gavin?",
-        "Answer_2": "She threw some kleenex around the table.",
-        "merged_question": "What action did Gavin see Rachel do before he put his hand on her forehead when she said she was sick?",
-        "answer": "She threw some kleenex around the table."
+        "Answer_2": "She threw some kleenex around the table."
     },
     {
         "Question_1": "Who puts their hand on Rachel's forehead when she says she's sick?",
         "Answer_1": "Gavin",
         "Question_2": "Why did Gavin feel paranoid when he was talking to Rachel?",
-        "Answer_2": "Gavin thought Rachel might have called in sick to avoid seeing him",
-        "merged_question": "Why did Gavin feel paranoid when he was talking to Rachel, and what action did he take as a result of his paranoia?",
-        "answer": "Gavin thought Rachel might have called in sick to avoid seeing him, and he put his hand on her forehead to check if she was genuinely ill."
+        "Answer_2": "Gavin thought Rachel might have called in sick to avoid seeing him"
     },
     {
         "Question_1": "What color is Rachel shirt when she was talking to Phoebe and Chandler?",
         "Answer_1": "black",
         "Question_2": "What did the lady in black have in her hand when standing in front of the other blonde lady? ",
-        "Answer_2": "A cup",
-        "merged_question": "What was the lady in black (Rachel) holding when standing in front of the other blonde lady (Monica) while Phoebe and Chandler were present?",
-        "answer": "A cup."
+        "Answer_2": "A cup"
     },
     {
         "Question_1": "What was Joey holding before he started talking?",
         "Answer_1": "mug",
         "Question_2": "What did Ross do with the mug after he refused to give it to Rachel?",
-        "Answer_2": "He put it in a box.",
-        "merged_question": "What did Ross do with the mug before Joey started talking?",
-        "answer": "He put it in a box."
+        "Answer_2": "He put it in a box."
     },
     {
         "Question_1": "What was Joey holding before he started talking?",
         "Answer_1": "mug",
         "Question_2": "Where did Ross get the dinosaur mug when Rachel is returning his things?",
-        "Answer_2": "The museum gift shop",
-        "merged_question": "Where did Joey get the mug from before he started talking?",
-        "answer": "The museum gift shop."
+        "Answer_2": "The museum gift shop"
     },
     {
         "Question_1": "What does Phoebe get out of her purse when she is on the couch?",
         "Answer_1": "phone",
         "Question_2": "Who walks into the apartment carrying Emma when Monica is on the phone?",
-        "Answer_2": "Joey",
-        "merged_question": "Who walks into the apartment carrying Emma while Phoebe is on the phone?",
-        "answer": "Joey."
+        "Answer_2": "Joey"
     },
     {
         "Question_1": "What does Phoebe get out of her purse when she is on the couch?",
         "Answer_1": "phone",
         "Question_2": "What does Rachel have on her hands when talking with Monica on the phone?",
-        "Answer_2": "gloves",
-        "merged_question": "What does Phoebe get out of her purse when she is talking with Rachel on the phone from the couch?",
-        "answer": "Phone."
+        "Answer_2": "gloves"
     },
     {
         "Question_1": "What does Phoebe get out of her purse when she is on the couch?",
         "Answer_1": "phone",
         "Question_2": "why does pheobe say rachel's date is a little crazy when they are talking on the phone about it? ",
-        "Answer_2": "because he is that way when stoned. ",
-        "merged_question": "What does Phoebe get out of her purse when she is on the phone with Rachel, discussing Rachel's date who is a little crazy because he is that way when stoned?",
-        "answer": "phone."
+        "Answer_2": "because he is that way when stoned. "
     },
     {
         "Question_1": "What does Phoebe get out of her purse when she is on the couch?",
         "Answer_1": "phone",
         "Question_2": "What is on the wall behind Rachel when she is on her phone and talking with Steve?",
-        "Answer_2": "apartment mailboxes",
-        "merged_question": "What does Phoebe take out of her purse when she is sitting in a room with a wall that has apartment mailboxes on it?",
-        "answer": "Phone."
+        "Answer_2": "apartment mailboxes"
     },
     {
         "Question_1": "What does Phoebe get out of her purse when she is on the couch?",
         "Answer_1": "phone",
         "Question_2": "Where does Phoebe put her phone after talking to Rachel?",
-        "Answer_2": "In a bag",
-        "merged_question": "What does Phoebe get out of her purse when she is on the couch, and then what does she put it in afterwards?",
-        "answer": "Phone, then a bag."
+        "Answer_2": "In a bag"
     },
     {
         "Question_1": "What does Phoebe get out of her purse when she is on the couch?",
         "Answer_1": "phone",
         "Question_2": "how does pheobe react after she gets off the phone with rachel?",
-        "Answer_2": "she is happy",
-        "merged_question": "How does Phoebe react after she gets off the phone with Rachel?",
-        "answer": "She is happy."
+        "Answer_2": "she is happy"
     },
     {
         "Question_1": "What does Phoebe get out of her purse when she is on the couch?",
         "Answer_1": "phone",
         "Question_2": "Why is rachel having a bad date when she is talking with pheobe on the phone?",
-        "Answer_2": "the guy is a nightmare. ",
-        "merged_question": "Why is Rachel having a bad date?",
-        "answer": "The guy is a nightmare."
+        "Answer_2": "the guy is a nightmare. "
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "Why does Phoebe say her and Gary should wait before moving in together?",
-        "Answer_2": "Because it's too soon",
-        "merged_question": "Why would Phoebe be hesitant to move in with Gary?",
-        "answer": "Because it's too soon."
+        "Answer_2": "Because it's too soon"
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "How does Gary interrupt Phoebe when she is going on about moving forward?",
-        "Answer_2": "He grabs her hand",
-        "merged_question": "What would Phoebe do if Gary interrupts her when she's talking about moving forward?",
-        "answer": "She would likely stop talking about moving forward."
+        "Answer_2": "He grabs her hand"
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "How does Phoebe react after Gary tells her he wants her to move in with him?",
-        "Answer_2": "She says that it was so sweet",
-        "merged_question": "What would Phoebe think of Gary's proposal?",
-        "answer": "It was so sweet."
+        "Answer_2": "She says that it was so sweet"
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "What did Gary do after Phobe looked at the table?",
-        "Answer_2": "Pointed at himself",
-        "merged_question": "What would Phoebe be happy with when living with someone who pointed at himself after Phoebe looked at the table?",
-        "answer": "Gary."
+        "Answer_2": "Pointed at himself"
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "What reason did Chandler give Gary for going to the police station after Gary asked Chandler why he was there?",
-        "Answer_2": "Chandler told Gary that he was there to report a crime.",
-        "merged_question": "Why would Phoebe be happy when Chandler goes to the police station?",
-        "answer": "Chandler is there to report a crime."
+        "Answer_2": "Chandler told Gary that he was there to report a crime."
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "What does Gary do when he asks Phoebe to move in with him?",
-        "Answer_2": "Holds her hand",
-        "merged_question": "What would Phoebe expect Gary to do when he asks her to move in with him?",
-        "answer": "Hold her hand."
+        "Answer_2": "Holds her hand"
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "What did Chandler say that he wanted to talk about after Gary asked him, \"What's up?\"",
-        "Answer_2": "Chandler said that he wanted to talk about the idea of Gary asking Phoebe to move in with him.",
-        "merged_question": "Why would Chandler want to discuss the idea of Gary asking Phoebe to move in with him?",
-        "answer": "Because Phoebe would be happy with Gary when living with him."
+        "Answer_2": "Chandler said that he wanted to talk about the idea of Gary asking Phoebe to move in with him."
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "What did Phobe do before Gary said something about being ok to feel that way?",
-        "Answer_2": "Threw her head on the table",
-        "merged_question": "What action did Phoebe take before Gary said it was okay to feel that way when they were living together?",
-        "answer": "Threw her head on the table."
+        "Answer_2": "Threw her head on the table"
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "Where are the apartments Gary points out when he talking to Phoebe?",
-        "Answer_2": "Brooklyn Hieghts",
-        "merged_question": "Generated Multi-hop Question: Where would Phoebe be happy living with Gary?",
-        "answer": "Brooklyn Heights."
+        "Answer_2": "Brooklyn Hieghts"
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "What does Gary say to Phoebe after he takes her hand?",
-        "Answer_2": "He tells her he wants her to move in with him",
-        "merged_question": "Who would Phoebe be happy to move in with?",
-        "answer": "Gary."
+        "Answer_2": "He tells her he wants her to move in with him"
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "Who does Phoebe say she is when she is talking to Gary",
-        "Answer_2": "Someone",
-        "merged_question": "Who would Phoebe be happy with when living with someone she claims to be?",
-        "answer": "Someone."
+        "Answer_2": "Someone"
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
