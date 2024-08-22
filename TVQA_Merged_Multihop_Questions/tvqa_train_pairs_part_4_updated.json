@@ -1123,121 +1123,161 @@
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "Why does Phoebe look concerned after Rachel hands her the blue garter?",
-        "Answer_2": "Phoebe looks concerned because Rachel is visibly upset."
+        "Answer_2": "Phoebe looks concerned because Rachel is visibly upset.",
+        "merged_question": "Why is Rachel visibly upset after the coin toss?",
+        "answer": "Because Phoebe wins the coin toss."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "Where does Phoebe sit before she approaches the role play?",
-        "Answer_2": "On an stand chair next to Rachael."
+        "Answer_2": "On an stand chair next to Rachael.",
+        "merged_question": "Where does Phoebe sit when she wins the coin toss that Rachel flipped?",
+        "answer": "On a stand chair next to Rachel."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "Where is Rachel when Phoebe is physically restraining Ross?",
-        "Answer_2": "Siting in a chair in the living room."
+        "Answer_2": "Siting in a chair in the living room.",
+        "merged_question": "Who wins the coin toss when Rachel flips the coin, and where is Rachel when the winner physically restrains Ross?",
+        "answer": "Phoebe, sitting in a chair in the living room."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What was Phoebe carrying when Rachel had yellow paper in her hand?",
-        "Answer_2": "Phoebe was carrying two coffee mugs."
+        "Answer_2": "Phoebe was carrying two coffee mugs.",
+        "merged_question": "What was Phoebe carrying when Rachel had yellow paper in her hand after flipping the coin?",
+        "answer": "Two coffee mugs."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What did Phoebe offer to do for Joey and Ross before she sat down?",
-        "Answer_2": "To get them something to drink."
+        "Answer_2": "To get them something to drink.",
+        "merged_question": "What did Phoebe offer to do for Joey and Ross before she sat down because Rachel flipped the coin?",
+        "answer": "To get them something to drink."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What does Ross think is the reason Phoebe and Rachel hit on him when they see him?",
-        "Answer_2": "His cologne. "
+        "Answer_2": "His cologne. ",
+        "merged_question": "Why did Phoebe and Rachel hit on Ross when he saw them?",
+        "answer": "His cologne."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What does it mean for Phoebe after Racheal indicates that Racheal is Phoebe's maid of honor (in the scenario)?",
-        "Answer_2": "Phoebe is Monica's"
+        "Answer_2": "Phoebe is Monica's",
+        "merged_question": "What is the consequence for Phoebe after Rachel indicates that Rachel is Phoebe's maid of honor?",
+        "answer": "Phoebe is Monica's maid of honor."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What color couch are Racheal and Phoebe sitting on when they are talking?",
-        "Answer_2": "Orange"
+        "Answer_2": "Orange",
+        "merged_question": "What color couch is Phoebe sitting on when she wins the coin toss that Rachel flips?",
+        "answer": "Orange."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What is Rachel holding when she is talking to Phoebe in the apartment?",
-        "Answer_2": "CDs"
+        "Answer_2": "CDs",
+        "merged_question": "Who wins the coin toss when Rachel flips the coin while she is holding CDs in the apartment?",
+        "answer": "Phoebe."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What was Phoebe holding when she said she can't believe Monica and Chandler are getting married?",
-        "Answer_2": "A cup."
+        "Answer_2": "A cup.",
+        "merged_question": "What was Phoebe holding when she couldn't believe Monica and Chandler are getting married after Rachel flipped the coin to decide who wins?",
+        "answer": "A cup."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What is Phoebe holding when she is sitting on the sofa with Rachel?",
-        "Answer_2": "A photo."
+        "Answer_2": "A photo.",
+        "merged_question": "What does Phoebe win when she wins the coin toss that Rachel flips?",
+        "answer": "A photo."
     },
     {
         "Question_1": "Who wins the coin toss when Rachel flips the coin?",
         "Answer_1": "Phoebe",
         "Question_2": "What kind of bag is Rachel using when she is taking items out to give to Phoebe?",
-        "Answer_2": "A shopping bag. "
+        "Answer_2": "A shopping bag. ",
+        "merged_question": "What is Phoebe receiving from the person who wins the coin toss and is using a shopping bag to carry items?",
+        "answer": "Phoebe is receiving items from Phoebe herself."
     },
     {
         "Question_1": "Who does Phoebe say messed Ross up when the group of friends are sitting on the couches in the restaurant?",
         "Answer_1": "Carol",
         "Question_2": "Why did Ross get off the sofa after Carol spoke?",
-        "Answer_2": "Because Carol said that he was being paranoid."
+        "Answer_2": "Because Carol said that he was being paranoid.",
+        "merged_question": "Why did Carol's statement cause Ross to get off the sofa?",
+        "answer": "Because Carol said that he was being paranoid."
     },
     {
         "Question_1": "Who does Phoebe say messed Ross up when the group of friends are sitting on the couches in the restaurant?",
         "Answer_1": "Carol",
         "Question_2": "Why did Ross freak out after Carol said \"Maybe\"? ",
-        "Answer_2": "He didn't believe she would believe him"
+        "Answer_2": "He didn't believe she would believe him",
+        "merged_question": "Why did Ross freak out after Carol said \"Maybe\"?",
+        "answer": "He didn't believe she would believe him."
     },
     {
         "Question_1": "Who does Phoebe say messed Ross up when the group of friends are sitting on the couches in the restaurant?",
         "Answer_1": "Carol",
         "Question_2": "How did Carol respond to Ben after Ross explained to her what Ben was doing?",
-        "Answer_2": "Gave Ben a pat on the head."
+        "Answer_2": "Gave Ben a pat on the head.",
+        "merged_question": "Generated Multi-hop Question: How did Phoebe say Carol responded to Ben when Ross explained to her what Ben was doing?",
+        "answer": "Gave Ben a pat on the head."
     },
     {
         "Question_1": "Who does Phoebe say messed Ross up when the group of friends are sitting on the couches in the restaurant?",
         "Answer_1": "Carol",
         "Question_2": "What was Carol holding after Ross asked if Susan and Emily were having too much fun?",
-        "Answer_2": "A bottle of water."
+        "Answer_2": "A bottle of water.",
+        "merged_question": "What was Carol holding when Phoebe said she messed Ross up?",
+        "answer": "A bottle of water."
     },
     {
         "Question_1": "Who does Phoebe say messed Ross up when the group of friends are sitting on the couches in the restaurant?",
         "Answer_1": "Carol",
         "Question_2": "Where was Ben when Carol walked through the door?",
-        "Answer_2": "Between a sofa and dining table."
+        "Answer_2": "Between a sofa and dining table.",
+        "merged_question": "Generated Multi-hop Question: Who was Ben between when Carol walked through the door?",
+        "answer": "Between a sofa and dining table."
     },
     {
         "Question_1": "Who does Phoebe say messed Ross up when the group of friends are sitting on the couches in the restaurant?",
         "Answer_1": "Carol",
         "Question_2": "What was Ben doing when Carol went into the room?",
-        "Answer_2": "Sweeping."
+        "Answer_2": "Sweeping.",
+        "merged_question": "What activity was Ben doing when Carol went into the room, as mentioned by Phoebe in the context of the group of friends sitting on the couches in the restaurant?",
+        "answer": "Sweeping."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "What does Monica ask after jumping into Chandlers arms?",
-        "Answer_2": "When will Joey be home?"
+        "Answer_2": "When will Joey be home?",
+        "merged_question": "What does Monica ask Chandler after jumping into his arms in the cafe?",
+        "answer": "When will Joey be home?"
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
         "Answer_1": "Monica",
         "Question_2": "Where are Monica and Chandler when Chandler is laughing at Monica?",
-        "Answer_2": "In the coffee shop. "
+        "Answer_2": "In the coffee shop. ",
+        "merged_question": "Where are Monica and Chandler when Chandler is laughing at Monica after he sneaks into the cafe?",
+        "answer": "The coffee shop."
     },
     {
         "Question_1": "Who walks into the cafe after Chandler sneaks into the cafe?",
