@@ -1923,121 +1923,161 @@
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "Where are Monica and Chandler sitting when Joey reads them what he will say at their ceremony?",
-        "Answer_2": "Monica and Chandler are on a couch."
+        "Answer_2": "Monica and Chandler are on a couch.",
+        "merged_question": "Where were Monica and Chandler sitting when Joey got ordained for them before their wedding?",
+        "answer": "Monica and Chandler were sitting on a couch."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What is in the large bowl on the table when Monica and Chandler are talking to Joey?",
-        "Answer_2": "Oranges"
+        "Answer_2": "Oranges",
+        "merged_question": "Before their wedding, who ordained the ceremony where Joey was holding oranges on the table?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "Where does Monica hide before Joey walks in to Chandler's hotel room?",
-        "Answer_2": "Under the covers. "
+        "Answer_2": "Under the covers. ",
+        "merged_question": "Before walking in on Chandler and hiding under the covers, where was Joey?",
+        "answer": "Chandler's hotel room."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What does Joey do when he is sitting at the table at the coffee house?",
-        "Answer_2": "He raises his arm. "
+        "Answer_2": "He raises his arm. ",
+        "merged_question": "What does Joey do when he is sitting at the table at the coffee house, specifically when he is about to perform a ceremony for Monica and Chandler?",
+        "answer": "He raises his arm."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What does Joey and Chandler do after Chandler said something about love?",
-        "Answer_2": "They hugged."
+        "Answer_2": "They hugged.",
+        "merged_question": "What did Joey and Chandler do after Joey ordained them for their wedding?",
+        "answer": "They hugged."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What kind of stories does Chandler tell Joey he needs to tell when they are sitting with him",
-        "Answer_2": "Chandler tell Joey he should tell romantic stories"
+        "Answer_2": "Chandler tell Joey he should tell romantic stories",
+        "merged_question": "Why did Joey need to tell romantic stories when he was ordained to marry Monica and Chandler?",
+        "answer": "Because Chandler told him he needed to tell romantic stories."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What is Joey doing when his friends walk over to him?",
-        "Answer_2": "Joey is reading from a paper"
+        "Answer_2": "Joey is reading from a paper",
+        "merged_question": "What was Joey doing before he ordained Monica and Chandler's wedding?",
+        "answer": "Joey was reading from a paper."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "How does Joey feel about Chandler's relationship when he talks to him?",
-        "Answer_2": "Joey feels it is perfect."
+        "Answer_2": "Joey feels it is perfect.",
+        "merged_question": "Why did Joey decide to ordain Monica and Chandler before their wedding?",
+        "answer": "Joey feels it is perfect.\n\nThis multihop question requires the test-taker to connect the information in Q1/A1 and Q2/A2. The test-taker needs to understand that Joey's positive feelings about Chandler and Monica's relationship influenced his decision to ordain them before their wedding."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What is Chandler holding when Joey starts giving his speech?",
-        "Answer_2": "A drink"
+        "Answer_2": "A drink",
+        "merged_question": "Generated Multi-hop Question: What was Joey holding when he got ordained to marry Monica and Chandler before their wedding?",
+        "answer": "A drink."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "Where is Phoebe sitting when she is discussing Joey's London Style",
-        "Answer_2": "Phoebe is sitting on the floor"
+        "Answer_2": "Phoebe is sitting on the floor",
+        "merged_question": "Where was Joey sitting when he ordained Monica and Chandler before their wedding?",
+        "answer": "Joey was not sitting on the floor, however the Multihop question is asking for the location of Joey, not Phoebe, but based on the information from Q1/A1, it can be inferred that Joey was sitting somewhere (not specified) when he ordained Monica and Chandler before their wedding."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What does Joey have in his hand when he is in the hotel room?",
-        "Answer_2": "A small box. "
+        "Answer_2": "A small box. ",
+        "merged_question": "What did Joey present to Monica and Chandler in the hotel room?",
+        "answer": "A small box."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "Who is sitting on the couch next to Monica before she mentions she had been looking for Joey?",
-        "Answer_2": "Chandler"
+        "Answer_2": "Chandler",
+        "merged_question": "Who got ordained to marry Monica and Chandler before their wedding, given that Chandler was sitting on the couch next to Monica before she mentions she had been looking for Joey?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What color is the shirt Joey is wearing when he say's \"Everyone knows I'm...\"?",
-        "Answer_2": "blue"
+        "Answer_2": "blue",
+        "merged_question": "Generated Multi-hop Question: What color was the shirt of the person who ordained Monica and Chandler before their wedding, when he said \"Everyone knows I'm...\"?",
+        "answer": "Blue."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What part does Joey want to perform when Monica and Chandler are talking about their wedding?",
-        "Answer_2": "Officiant"
+        "Answer_2": "Officiant",
+        "merged_question": "Who did Monica and Chandler ask to perform their wedding ceremony?",
+        "answer": "Joey"
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What color shirt is Chandler wearing when Monica is talking to him and Joey?",
-        "Answer_2": "Red"
+        "Answer_2": "Red",
+        "merged_question": "Before their wedding, who ordained the ceremony in which Monica was wearing the color of Chandler's shirt?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What is Joey holding when he is talking to Chandler and Monica about what he wrote?",
-        "Answer_2": "A piece of paper"
+        "Answer_2": "A piece of paper",
+        "merged_question": "What did Joey write before ordaining Monica and Chandler's wedding?",
+        "answer": "A piece of paper."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "How many mugs did Joey have before he sat down next to Phoebe at the coffee shop?",
-        "Answer_2": "2"
+        "Answer_2": "2",
+        "merged_question": "How many mugs did Joey have before he ordained Monica and Chandler's wedding?",
+        "answer": "2."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "How does Phoebe feel when she hears Joey's ceremony words?",
-        "Answer_2": "Phoebe feels amused."
+        "Answer_2": "Phoebe feels amused.",
+        "merged_question": "Generated Multi-hop Question: How did Phoebe react to Joey's ceremony words when he got ordained to marry Monica and Chandler?",
+        "answer": "Phoebe feels amused."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "What does Joey do with the plate of muffins after Phoebe doesn't take them?",
-        "Answer_2": "He snatches them away for himself"
+        "Answer_2": "He snatches them away for himself",
+        "merged_question": "What did Joey do with the plate of items he had gotten ordained with, after Phoebe didn't take them?",
+        "answer": "He snatched them away for himself."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
         "Answer_1": "Joey",
         "Question_2": "Why wasn't Monica planning on telling Chandler that she was looking for Joey and not him, when they were talking?",
-        "Answer_2": "It wasn't important"
+        "Answer_2": "It wasn't important",
+        "merged_question": "Why didn't Monica think it was important to tell Chandler about her confusion with Joey when she was looking for him to get ordained for their wedding?",
+        "answer": "It wasn't important."
     },
     {
         "Question_1": "Who got ordained for monica and chandler before their wedding?",
