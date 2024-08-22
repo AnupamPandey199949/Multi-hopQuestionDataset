@@ -323,121 +323,161 @@
         "Question_1": "What was Joey holding before he started talking?",
         "Answer_1": "mug",
         "Question_2": "What did Ross do with the mug after he refused to give it to Rachel?",
-        "Answer_2": "He put it in a box."
+        "Answer_2": "He put it in a box.",
+        "merged_question": "Generated Multi-hop Question: What did Ross do with the mug before Joey started talking?",
+        "answer": "He put it in a box."
     },
     {
         "Question_1": "What was Joey holding before he started talking?",
         "Answer_1": "mug",
         "Question_2": "Where did Ross get the dinosaur mug when Rachel is returning his things?",
-        "Answer_2": "The museum gift shop"
+        "Answer_2": "The museum gift shop",
+        "merged_question": "Where did Joey get the mug from before he started talking?",
+        "answer": "The museum gift shop."
     },
     {
         "Question_1": "What does Phoebe get out of her purse when she is on the couch?",
         "Answer_1": "phone",
         "Question_2": "Who walks into the apartment carrying Emma when Monica is on the phone?",
-        "Answer_2": "Joey"
+        "Answer_2": "Joey",
+        "merged_question": "Generated Multi-hop Question: Who walks into the apartment carrying Emma when Phoebe is on the phone?",
+        "answer": "Joey."
     },
     {
         "Question_1": "What does Phoebe get out of her purse when she is on the couch?",
         "Answer_1": "phone",
         "Question_2": "What does Rachel have on her hands when talking with Monica on the phone?",
-        "Answer_2": "gloves"
+        "Answer_2": "gloves",
+        "merged_question": "Generated Multi-hop Question: What does Phoebe get out of her purse when she is on the phone with Rachel, who is wearing gloves?",
+        "answer": "Phone"
     },
     {
         "Question_1": "What does Phoebe get out of her purse when she is on the couch?",
         "Answer_1": "phone",
         "Question_2": "why does pheobe say rachel's date is a little crazy when they are talking on the phone about it? ",
-        "Answer_2": "because he is that way when stoned. "
+        "Answer_2": "because he is that way when stoned. ",
+        "merged_question": "Why is Phoebe on the couch talking on her phone?",
+        "answer": "Because Rachel is discussing a date with her who is a little crazy when stoned."
     },
     {
         "Question_1": "What does Phoebe get out of her purse when she is on the couch?",
         "Answer_1": "phone",
         "Question_2": "What is on the wall behind Rachel when she is on her phone and talking with Steve?",
-        "Answer_2": "apartment mailboxes"
+        "Answer_2": "apartment mailboxes",
+        "merged_question": "What does Phoebe get out of her purse when she is on the couch and has just received a letter from the mailboxes that Rachel is standing in front of while talking to Steve?",
+        "answer": "Phone"
     },
     {
         "Question_1": "What does Phoebe get out of her purse when she is on the couch?",
         "Answer_1": "phone",
         "Question_2": "Where does Phoebe put her phone after talking to Rachel?",
-        "Answer_2": "In a bag"
+        "Answer_2": "In a bag",
+        "merged_question": "What does Phoebe get out of her purse when she is on the couch, and then where does she put it after talking to Rachel?",
+        "answer": "In a bag."
     },
     {
         "Question_1": "What does Phoebe get out of her purse when she is on the couch?",
         "Answer_1": "phone",
         "Question_2": "how does pheobe react after she gets off the phone with rachel?",
-        "Answer_2": "she is happy"
+        "Answer_2": "she is happy",
+        "merged_question": "What makes Phoebe happy when she gets off the phone?",
+        "answer": "She gets off the phone with Rachel."
     },
     {
         "Question_1": "What does Phoebe get out of her purse when she is on the couch?",
         "Answer_1": "phone",
         "Question_2": "Why is rachel having a bad date when she is talking with pheobe on the phone?",
-        "Answer_2": "the guy is a nightmare. "
+        "Answer_2": "the guy is a nightmare. ",
+        "merged_question": "Why is Rachel having a bad date when she is on the phone with Phoebe, who is on the couch getting her phone out of her purse?",
+        "answer": "The guy is a nightmare."
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "Why does Phoebe say her and Gary should wait before moving in together?",
-        "Answer_2": "Because it's too soon"
+        "Answer_2": "Because it's too soon",
+        "merged_question": "Why would Phoebe be hesitant about moving in with Gary?",
+        "answer": "Because it's too soon."
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "How does Gary interrupt Phoebe when she is going on about moving forward?",
-        "Answer_2": "He grabs her hand"
+        "Answer_2": "He grabs her hand",
+        "merged_question": "Generated Multi-hop Question: How does Gary interrupt Phoebe when she is going on about moving forward, in a situation where she would be happy with him?",
+        "answer": "He grabs her hand."
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "How does Phoebe react after Gary tells her he wants her to move in with him?",
-        "Answer_2": "She says that it was so sweet"
+        "Answer_2": "She says that it was so sweet",
+        "merged_question": "What would Phoebe do after Gary tells her that it was so sweet?",
+        "answer": "She would move in with him."
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "What did Gary do after Phobe looked at the table?",
-        "Answer_2": "Pointed at himself"
+        "Answer_2": "Pointed at himself",
+        "merged_question": "Who would Phoebe be happy with when living with the person who pointed at himself after Phoebe looked at the table?",
+        "answer": "Gary."
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "What reason did Chandler give Gary for going to the police station after Gary asked Chandler why he was there?",
-        "Answer_2": "Chandler told Gary that he was there to report a crime."
+        "Answer_2": "Chandler told Gary that he was there to report a crime.",
+        "merged_question": "Why would Phoebe be happy when Gary is at the police station?",
+        "answer": "Because Chandler told Gary that he was there to report a crime."
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "What does Gary do when he asks Phoebe to move in with him?",
-        "Answer_2": "Holds her hand"
+        "Answer_2": "Holds her hand",
+        "merged_question": "What would Phoebe expect Gary to do when asking her to live with him?",
+        "answer": "Hold her hand."
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "What did Chandler say that he wanted to talk about after Gary asked him, \"What's up?\"",
-        "Answer_2": "Chandler said that he wanted to talk about the idea of Gary asking Phoebe to move in with him."
+        "Answer_2": "Chandler said that he wanted to talk about the idea of Gary asking Phoebe to move in with him.",
+        "merged_question": "Who would Phoebe be happy with when living with them if Chandler's idea is considered?",
+        "answer": "Gary"
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "What did Phobe do before Gary said something about being ok to feel that way?",
-        "Answer_2": "Threw her head on the table"
+        "Answer_2": "Threw her head on the table",
+        "merged_question": "What would Phoebe be happy about when Gary said it was okay to feel that way after she threw her head on the table?",
+        "answer": "Gary said it was okay to feel that way."
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "Where are the apartments Gary points out when he talking to Phoebe?",
-        "Answer_2": "Brooklyn Hieghts"
+        "Answer_2": "Brooklyn Hieghts",
+        "merged_question": "Where would Phoebe be happy living with Gary?",
+        "answer": "Brooklyn Heights."
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "What does Gary say to Phoebe after he takes her hand?",
-        "Answer_2": "He tells her he wants her to move in with him"
+        "Answer_2": "He tells her he wants her to move in with him",
+        "merged_question": "Who would Phoebe be happy with if he expressed his desire for her to move in with him?",
+        "answer": "Gary."
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
         "Answer_1": "Gary",
         "Question_2": "Who does Phoebe say she is when she is talking to Gary",
-        "Answer_2": "Someone"
+        "Answer_2": "Someone",
+        "merged_question": "Who would Phoebe be happy with when living with Someone?",
+        "answer": "Gary."
     },
     {
         "Question_1": "Who would Phoebe be happy with when living them?",
