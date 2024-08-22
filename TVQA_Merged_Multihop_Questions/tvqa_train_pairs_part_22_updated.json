@@ -2083,121 +2083,161 @@
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What did Nolan tell House his friend did when he was discussing things with House?",
-        "Answer_2": "Threw him out."
+        "Answer_2": "Threw him out.",
+        "merged_question": "What did Nolan tell House his friend did to him when House was discussing things with him?",
+        "answer": "Threw him out."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What illness did House say that Sidney suffered from when he was discussing the need for her surgery?",
-        "Answer_2": "A prion infection"
+        "Answer_2": "A prion infection",
+        "merged_question": "What illness did Nolan suspect House of suffering from when he questioned the relevance of the differential?",
+        "answer": "A prion infection."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What did House say when Nolan asked him if he always broke bad news to his patients in such a rough way?",
-        "Answer_2": "Husband was being an idiot."
+        "Answer_2": "Husband was being an idiot.",
+        "merged_question": "Generated Multi-hop Question: What was the reason behind House breaking the news to Nolan's patient in a rough way?",
+        "answer": "The patient's husband was being an idiot."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What does Alvie find on the model of the brain when he is in House's office?",
-        "Answer_2": "He finds a section for hope"
+        "Answer_2": "He finds a section for hope",
+        "merged_question": "Generated Multi-hop Question: When House said \"What possible relevance does this differential have to your problems?\", what was Alvie looking for in House's office?",
+        "answer": "A section for hope."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What does House instruct the team to do when suggesting treatment options for the patient over the phone?",
-        "Answer_2": "House instructs the team to start the patient on a multi-drug regimen."
+        "Answer_2": "House instructs the team to start the patient on a multi-drug regimen.",
+        "merged_question": "What possible treatment option did House instruct the team to start the patient on over the phone?",
+        "answer": "A multi-drug regimen."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "How did House say they had treated the patient before mentioning she'll be okay?",
-        "Answer_2": "full-thickness skin graft"
+        "Answer_2": "full-thickness skin graft",
+        "merged_question": "How did House say they had treated the patient before mentioning she'll be okay when talking to Nolan?",
+        "answer": "full-thickness skin graft."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What does Nolan think the problem is between the man and wife who is in the hospital bed when House talks about the man boring his wife?",
-        "Answer_2": "synchronicity"
+        "Answer_2": "synchronicity",
+        "merged_question": "Generated Multi-hop Question: What possible relevance does House's differential have to the man's problem of boring his wife?",
+        "answer": "Synchronicity."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Who has reaped the benefits, according to House, after his time in therapy?",
-        "Answer_2": "Everybody else is happy"
+        "Answer_2": "Everybody else is happy",
+        "merged_question": "Who was House talking to when he said that everybody else is happy after his time in therapy?",
+        "answer": "Nolan"
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "How long has House been seeing Nolan after telling him what he wanted?",
-        "Answer_2": "He has been seeing him for one year"
+        "Answer_2": "He has been seeing him for one year",
+        "merged_question": "Generated Multi-hop Question: How long has House been seeing someone who once questioned the relevance of a differential to his problems?",
+        "answer": "He has been seeing him for one year."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Why did House say he brought Alvie with him when talking to Nolan about the situation? ",
-        "Answer_2": "To protect his own house"
+        "Answer_2": "To protect his own house",
+        "merged_question": "Why did House bring Alvie with him to talk to the person whose house he was concerned about?",
+        "answer": "To protect his own house."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Where did Wilson say was the last time House was on his on when House and Nolan were having their imaginary version of events?",
-        "Answer_2": "Mayfield."
+        "Answer_2": "Mayfield.",
+        "merged_question": "Where was the last time House was on his own, when he was having an imaginary conversation with Nolan, which started with him saying \"What possible relevance does this differential have to your problems?\"",
+        "answer": "Mayfield."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What did House say Nolan always did when he was talking to him?",
-        "Answer_2": "Argue with him"
+        "Answer_2": "Argue with him",
+        "merged_question": "What did Nolan usually do when he was talking to someone who would argue with him?",
+        "answer": "Argue with him."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Why did Nolan say House was willing to punish the husband of his patient when Nolan and House were having a session?",
-        "Answer_2": "House identified with the husband"
+        "Answer_2": "House identified with the husband",
+        "merged_question": "Why did House say \"What possible relevance does this differential have to your problems?\" to the husband of his patient?",
+        "answer": "House identified with the husband."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What did Nolan do after House said say it?",
-        "Answer_2": "He picked up a glass."
+        "Answer_2": "He picked up a glass.",
+        "merged_question": "What did Nolan do after House said \"say it\" to him?",
+        "answer": "He picked up a glass."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Who was Nolan referring to when he said they didn't trust House when they were imagining how his friends felt about him?",
-        "Answer_2": "Cuddy and Wilson."
+        "Answer_2": "Cuddy and Wilson.",
+        "merged_question": "Who were Cuddy and Wilson imagining had problems that House's differential was irrelevant to?",
+        "answer": "House."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What is illuminated behind Dr. House when he is talking to the other doctors? ",
-        "Answer_2": "X-Ray's."
+        "Answer_2": "X-Ray's.",
+        "merged_question": "What is illuminated behind Nolan when he is talking to House?",
+        "answer": "X-Ray's."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Who was House talking to when he was sitting down?",
-        "Answer_2": "Nolan"
+        "Answer_2": "Nolan",
+        "merged_question": "Generated Multi-hop Question: To whom was House talking when he was sitting down?",
+        "answer": "Nolan."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What did House say that he had on his arm when he told Nolan that he fell?",
-        "Answer_2": "bruise"
+        "Answer_2": "bruise",
+        "merged_question": "What possible relevance does this differential have to House's problems with the bruise he fell and got on his arm?",
+        "answer": "This information is not directly available in the provided questions. However, a possible interpretation is that House is trying to understand the relevance of the differential to his own medical problems, possibly related to the bruise he fell and got on his arm."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "What does House do after Durdanna says something about the Wall of Winners?",
-        "Answer_2": "rings the doorbell"
+        "Answer_2": "rings the doorbell",
+        "merged_question": "What does House do after Durdanna says something about the Wall of Winners, and to whom is he talking when he does this action?",
+        "answer": "rings the doorbell, to Nolan."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
         "Answer_1": "House",
         "Question_2": "Who does House note is conspiring against him after the detective stops talking?",
-        "Answer_2": "Dr. Cuddy and Wilson"
+        "Answer_2": "Dr. Cuddy and Wilson",
+        "merged_question": "Who was House talking to when he accused Dr. Cuddy and Wilson of conspiring against him?",
+        "answer": "The detective."
     },
     {
         "Question_1": "Who was Nolan talking to when he said \"What possible relevance does this differential have to your problems?\"",
