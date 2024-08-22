@@ -2555,121 +2555,161 @@
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "Where was Joey coming from when he walks into the apartment and sees Rachel?",
-        "Answer_2": "From a date"
+        "Answer_2": "From a date",
+        "merged_question": "Who was Rachel with when she was in the coffee shop, considering Joey's situation when he walks into the apartment and sees her?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What was drawn on the board behind Rachel when Joey was talking about a subscription to Playboy? ",
-        "Answer_2": "Sun"
+        "Answer_2": "Sun",
+        "merged_question": "Generated Multi-hop Question: What was Joey talking about when he was sitting with Rachel in the coffee shop, where a sun was drawn on the board behind them?",
+        "answer": "A subscription to Playboy."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What is the name of the magazine Rachel is reading when talking with Joey?",
-        "Answer_2": "Fit Pregnancy"
+        "Answer_2": "Fit Pregnancy",
+        "merged_question": "What is Joey doing with Rachel while she is reading the magazine \"Fit Pregnancy\" in the coffee shop?",
+        "answer": "Joey is with Rachel."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "Why did Joey's date ask if he was alright before he said he was fine? ",
-        "Answer_2": "She said he seemed distracted."
+        "Answer_2": "She said he seemed distracted.",
+        "merged_question": "Why did Joey seem distracted when he was with Rachel in the coffee shop?",
+        "answer": "His date said he seemed distracted."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What movie did Rachel say she was watching when Joey walked through the door",
-        "Answer_2": "Rachel said she was watching the movie Cujo"
+        "Answer_2": "Rachel said she was watching the movie Cujo",
+        "merged_question": "Who is Rachel watching the movie Cujo with in the coffee shop?",
+        "answer": "Joey."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What was Rachel reading when Joey suggested taking her out? ",
-        "Answer_2": "A magazine"
+        "Answer_2": "A magazine",
+        "merged_question": "What did Joey suggest doing with Rachel when she was reading a magazine in the coffee shop?",
+        "answer": "Taking her out."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What did Joey's date put over her shoulder when she went to use the bathroom?",
-        "Answer_2": "Her purse."
+        "Answer_2": "Her purse.",
+        "merged_question": "What did Rachel's companion's date put over her shoulder when she went to use the bathroom in the coffee shop?",
+        "answer": "Her purse."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What are Joey and Rachel discussing when they are at dinner?",
-        "Answer_2": "Their pick up moves"
+        "Answer_2": "Their pick up moves",
+        "merged_question": "What is Rachel discussing with someone at dinner, who she had also been with earlier in the coffee shop?",
+        "answer": "Their pickup moves."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What does Rachel do with her hand when she tells Joey it must be rough not to be close with his dad?",
-        "Answer_2": "Touch Joey's hand"
+        "Answer_2": "Touch Joey's hand",
+        "merged_question": "What does Rachel do with her hand when she is in the coffee shop with Joey?",
+        "answer": "Touch Joey's hand."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "Where are Rachel and Joey when they were together?",
-        "Answer_2": "A restaurant"
+        "Answer_2": "A restaurant",
+        "merged_question": "Where is Rachel when she is with Joey?",
+        "answer": "A restaurant."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What does Joey put down on the table when talking with Phoebe?",
-        "Answer_2": "a mug"
+        "Answer_2": "a mug",
+        "merged_question": "Generated Multi-hop Question: What does Rachel's companion put down on the table when they are talking with Phoebe in the coffee shop?",
+        "answer": "a mug."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "Where did Joey sit after he got the brownie to eat?",
-        "Answer_2": "Black recliner"
+        "Answer_2": "Black recliner",
+        "merged_question": "Where did Rachel sit when Joey sat in the black recliner after getting the brownie to eat?",
+        "answer": "The coffee shop."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "Why isn't Joey able to rent and watch Cujo tonight after Rachel suggests they watch it sometime?",
-        "Answer_2": "Joey has a big date tonight."
+        "Answer_2": "Joey has a big date tonight.",
+        "merged_question": "Why isn't Rachel able to watch Cujo tonight after Joey suggests they watch it sometime?",
+        "answer": "Joey has a big date tonight."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "Where did Joey head to after he left the counter?",
-        "Answer_2": "The chair"
+        "Answer_2": "The chair",
+        "merged_question": "Where was Rachel sitting when she was in the coffee shop?",
+        "answer": "The chair."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What kind of flowers were on the table when Joey and Rachel were at the restaurant?",
-        "Answer_2": "Roses"
+        "Answer_2": "Roses",
+        "merged_question": "What kind of flowers were on the table when Rachel was with Joey in the coffee shop?",
+        "answer": "Roses."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What does Joey say after Rachel says that her roommate is good looking?",
-        "Answer_2": "Must be tough to keep your hands off him."
+        "Answer_2": "Must be tough to keep your hands off him.",
+        "merged_question": "What does Rachel's roommate have that Joey finds hard to resist?",
+        "answer": "Good looking."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What did Joey say after she said I swear it works? ",
-        "Answer_2": "Oh, Yeah, that would work, yeah."
+        "Answer_2": "Oh, Yeah, that would work, yeah.",
+        "merged_question": "What did Rachel say to Joey in the coffee shop that prompted him to say \"Oh, Yeah, that would work, yeah.\"?",
+        "answer": "I swear it works."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "Where is Joey when he says he wants to have a normal life?",
-        "Answer_2": "Joey is with a woman in a restaurant."
+        "Answer_2": "Joey is with a woman in a restaurant.",
+        "merged_question": "Where is Rachel when Joey wants to have a normal life?",
+        "answer": "The coffee shop."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What does Rachel do to Joey when she is showing him her dating moves?",
-        "Answer_2": "Caresses his hand"
+        "Answer_2": "Caresses his hand",
+        "merged_question": "What is Rachel doing to the person she is in the coffee shop with?",
+        "answer": "Caresses his hand."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What type of beverage were Joey and his date enjoying when they were at the restaurant?",
-        "Answer_2": "wine"
+        "Answer_2": "wine",
+        "merged_question": "What type of beverage were Rachel and her companion enjoying when they were at the coffee shop?",
+        "answer": "wine."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
