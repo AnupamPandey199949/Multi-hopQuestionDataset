@@ -2715,121 +2715,161 @@
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "Does Joey say that he is close to his parents after Rachel asks him about their relationship?",
-        "Answer_2": "Yes, with his mom but not so much his dad."
+        "Answer_2": "Yes, with his mom but not so much his dad.",
+        "merged_question": "Why is Rachel in the coffee shop with Joey?",
+        "answer": "Rachel is in the coffee shop with Joey because she likely asked him about his relationship with his parents."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "How did Rachel and Joey feel after their date with each other last night?",
-        "Answer_2": "A little weird."
+        "Answer_2": "A little weird.",
+        "merged_question": "How did Rachel feel about Joey after they spent time together in the coffee shop?",
+        "answer": "A little weird."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "Why does Rachel ask Joey to sit right next to her when watching the movie \"Cujo\"?",
-        "Answer_2": "Rachel wanted Joey to protect her "
+        "Answer_2": "Rachel wanted Joey to protect her ",
+        "merged_question": "Why does Rachel want Joey to be close to her when they are in the coffee shop?",
+        "answer": "Rachel wanted Joey to protect her."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What did Joey's date fiddle with in her lap after the waitress left?",
-        "Answer_2": "A napkin."
+        "Answer_2": "A napkin.",
+        "merged_question": "What was Joey's date fiddling with in her lap when Rachel was sitting with him in the coffee shop?",
+        "answer": "A napkin."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What was on the bar in front of Rachel when Joey told her it was a real date? ",
-        "Answer_2": "Flowers "
+        "Answer_2": "Flowers ",
+        "merged_question": "What was Joey telling Rachel about when there were flowers on the bar in front of her in the coffee shop?",
+        "answer": "It was a real date."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What part of Joey's body did the wine come out of when he was on the date?",
-        "Answer_2": "his nose"
+        "Answer_2": "his nose",
+        "merged_question": "Generated Multi-hop Question: On what part of Joey's body did the wine come out when Rachel was with him in the coffee shop?",
+        "answer": "his nose."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What movie is Rachel watching when Joey gets home?",
-        "Answer_2": "Cujo"
+        "Answer_2": "Cujo",
+        "merged_question": "What is Joey doing when Rachel is watching Cujo at home?",
+        "answer": "Joey is getting home."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "Where did Rahcel place her finger first on Joey before she moaned? ",
-        "Answer_2": "His lip."
+        "Answer_2": "His lip.",
+        "merged_question": "Where did Rachel place her finger first on Joey before she moaned when she was in the coffee shop with him?",
+        "answer": "His lip."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "Where does Joey say he grew up after Rachel asks him about it?",
-        "Answer_2": "Queens"
+        "Answer_2": "Queens",
+        "merged_question": "Where is Rachel when Joey tells her he grew up?",
+        "answer": "The coffee shop."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What does Joey want to do with Rachel when sitting on the sofa talking?",
-        "Answer_2": "go out and have a good time"
+        "Answer_2": "go out and have a good time",
+        "merged_question": "What does Rachel want to do when she is in the coffee shop with Joey?",
+        "answer": "go out and have a good time."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "Why did Rachel say she was going to go ahead and rip open the swan before Joey got the brownie?",
-        "Answer_2": "because he lives there"
+        "Answer_2": "because he lives there",
+        "merged_question": "Why did Rachel say she was going to go ahead and rip open the swan before her friend who lives in the coffee shop got the brownie?",
+        "answer": "Because he lives there."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What movie did Rachel ask Joey about after he sat down?",
-        "Answer_2": "Cujo."
+        "Answer_2": "Cujo.",
+        "merged_question": "What movie was Rachel discussing with Joey when she was sitting with him in the coffee shop?",
+        "answer": "Cujo."
     },
     {
         "Question_1": "Who is Rachel with when she is in the coffee shop?",
         "Answer_1": "Joey",
         "Question_2": "What did Joey ask after he asked if he could? ",
-        "Answer_2": "If you ever look at someone you known for a while and see them in a different way."
+        "Answer_2": "If you ever look at someone you known for a while and see them in a different way.",
+        "merged_question": "Generated Multi-hop Question: What does Rachel see Joey in a different way as compared to how she used to see him?",
+        "answer": "Someone she has known for a while."
     },
     {
         "Question_1": "Who confirmed Rachel had a conference call at 4 when she asked them?",
         "Answer_1": "Tag",
         "Question_2": "What did Tag say he would be able to find work with after Rachel told him he could have lost his job?",
-        "Answer_2": "A cute butt like his."
+        "Answer_2": "A cute butt like his.",
+        "merged_question": "What was the reason Tag gave for being able to find work after Rachel mentioned she had a conference call at 4?",
+        "answer": "A cute butt like his."
     },
     {
         "Question_1": "Who confirmed Rachel had a conference call at 4 when she asked them?",
         "Answer_1": "Tag",
         "Question_2": "Where did Tag put the things on Rachel's desk when he cleared it off?",
-        "Answer_2": "On the floor."
+        "Answer_2": "On the floor.",
+        "merged_question": "Where did Tag put the things that were on Rachel's desk when she had a conference call at 4?",
+        "answer": "On the floor."
     },
     {
         "Question_1": "Who confirmed Rachel had a conference call at 4 when she asked them?",
         "Answer_1": "Tag",
         "Question_2": "Why is Rachel upset that Tag sent his review to HR before reading it?",
-        "Answer_2": "Rachel is upset because the review was about their personal life and not his work performance."
+        "Answer_2": "Rachel is upset because the review was about their personal life and not his work performance.",
+        "merged_question": "Why is Rachel upset with Tag about the conference call at 4?",
+        "answer": "Rachel is upset because the review was about their personal life and not his work performance."
     },
     {
         "Question_1": "Who confirmed Rachel had a conference call at 4 when she asked them?",
         "Answer_1": "Tag",
         "Question_2": "What does Tag say he is strangely proud of after Mr. Zelner reads the evaluation?",
-        "Answer_2": "His butt"
+        "Answer_2": "His butt",
+        "merged_question": "What does Tag say he is strangely proud of after Mr. Zelner reads the evaluation because he confirmed Rachel had a conference call at 4 when she asked them?",
+        "answer": "His butt."
     },
     {
         "Question_1": "Who confirmed Rachel had a conference call at 4 when she asked them?",
         "Answer_1": "Tag",
         "Question_2": "What does Tag do after Mr. Zelner points at him?",
-        "Answer_2": "He walks back in the room and closes the door. "
+        "Answer_2": "He walks back in the room and closes the door. ",
+        "merged_question": "What action does Mr. Zelner point at Tag to make him do?",
+        "answer": "He walks back in the room and closes the door."
     },
     {
         "Question_1": "Who confirmed Rachel had a conference call at 4 when she asked them?",
         "Answer_1": "Tag",
         "Question_2": "Where does Rachel go when she first enters Tag's office?",
-        "Answer_2": "Rachel goes over to his window."
+        "Answer_2": "Rachel goes over to his window.",
+        "merged_question": "Where does Rachel go when she first enters the room where she confirmed she had a conference call at 4?",
+        "answer": "Rachel goes over to his window."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
         "Answer_1": "Rachel",
         "Question_2": "Where is Joey and Chandler when they are talking about proposing to Rachel?",
-        "Answer_2": "The hospital"
+        "Answer_2": "The hospital",
+        "merged_question": "Where is Ross when he was considering proposing to Rachel, as per his mom's wish?",
+        "answer": "The hospital."
     },
     {
         "Question_1": "Who did Ross' mom want him to propose to when she gave him the ring?",
